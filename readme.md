@@ -26,7 +26,7 @@ Golden_mile/
 ├── prompt.py
 ├── llm.py
 ├── pdf_generator.py
-├── stage_1_model.py          # ✅ ML training logic (new)
+├── stage_1_model.py         
 │
 ├── src/
 │   ├── build_vector_index.py
