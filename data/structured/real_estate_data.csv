@@ -1,0 +1,2551 @@
+City,Locality,Size_sqft,Property_Type,Age_years,Distance_to_metro_km,Amenities_score,Price_per_sqft,Total_Price_Cr,Estimated_Monthly_Rent
+Hyderabad,Gachibowli,3500,Apartment,3,3.93,10,21500,7.53,219479
+Hyderabad,Gachibowli,1800,Apartment,7,1.81,6,13000,2.34,68250
+Hyderabad,Gachibowli,1200,Apartment,21,0.86,9,7000,0.84,24500
+Hyderabad,Gachibowli,2500,Apartment,1,7.17,5,19500,4.88,142187
+Hyderabad,Gachibowli,1500,Apartment,7,0.5,9,10000,1.5,43750
+Hyderabad,Gachibowli,1500,Villa,22,2.08,6,11000,1.65,48125
+Hyderabad,Gachibowli,2500,Villa,18,3.25,5,15500,3.88,113020
+Hyderabad,Gachibowli,1350,Villa,22,3.12,7,11500,1.55,45281
+Hyderabad,Gachibowli,1800,Apartment,4,6.23,7,12500,2.25,65625
+Hyderabad,Gachibowli,1200,Villa,2,3.85,5,13000,1.56,45500
+Hyderabad,Gachibowli,2200,Villa,11,4.72,5,19000,4.18,121916
+Hyderabad,Gachibowli,2500,Apartment,17,5.29,8,14500,3.62,105729
+Hyderabad,Gachibowli,1000,Villa,17,6.05,10,9000,0.9,26250
+Hyderabad,Gachibowli,3000,Apartment,11,1.95,10,17000,5.1,148750
+Hyderabad,Gachibowli,1000,Apartment,1,0.93,7,8000,0.8,23333
+Hyderabad,Gachibowli,1000,Apartment,7,1.25,8,8000,0.8,23333
+Hyderabad,Gachibowli,1800,Villa,14,6.94,6,14500,2.61,76125
+Hyderabad,Gachibowli,2200,Apartment,11,5.1,10,13500,2.97,86625
+Hyderabad,Gachibowli,1800,Apartment,22,0.63,9,9000,1.62,47250
+Hyderabad,Gachibowli,3500,Apartment,5,6.73,6,23500,8.22,239895
+Hyderabad,Gachibowli,2500,Villa,12,3.32,10,27000,6.75,196875
+Hyderabad,Gachibowli,3500,Apartment,17,2.09,10,20000,7.0,204166
+Hyderabad,Gachibowli,2000,Apartment,24,9.7,6,10000,2.0,58333
+Hyderabad,Gachibowli,900,Villa,25,9.24,8,7500,0.68,19687
+Hyderabad,Gachibowli,1800,Apartment,2,1.16,9,12500,2.25,65625
+Hyderabad,Gachibowli,2000,Villa,6,2.93,8,17500,3.5,102083
+Hyderabad,Gachibowli,3500,Apartment,14,8.34,7,17500,6.12,178645
+Hyderabad,Gachibowli,1200,Villa,7,5.56,10,12000,1.44,42000
+Hyderabad,Gachibowli,3000,Villa,13,1.67,7,26500,7.95,231875
+Hyderabad,Gachibowli,1500,Villa,4,7.37,5,17500,2.62,76562
+Hyderabad,Gachibowli,900,Apartment,3,7.78,10,7500,0.68,19687
+Hyderabad,Gachibowli,1350,Villa,25,1.42,9,9500,1.28,37406
+Hyderabad,Gachibowli,1000,Villa,12,8.67,9,9000,0.9,26250
+Hyderabad,Gachibowli,2500,Villa,16,0.92,9,22000,5.5,160416
+Hyderabad,Gachibowli,750,Apartment,21,3.32,10,5000,0.38,10937
+Hyderabad,Gachibowli,3000,Villa,24,6.48,10,18500,5.55,161875
+Hyderabad,Gachibowli,2000,Villa,3,8.91,8,19500,3.9,113750
+Hyderabad,Gachibowli,1350,Apartment,14,7.22,10,8500,1.15,33468
+Hyderabad,Gachibowli,1800,Apartment,16,7.68,9,12000,2.16,63000
+Hyderabad,Gachibowli,1200,Villa,20,5.09,10,10500,1.26,36750
+Hyderabad,Gachibowli,3000,Apartment,19,5.37,6,15000,4.5,131250
+Hyderabad,Gachibowli,2200,Apartment,24,1.35,9,10500,2.31,67375
+Hyderabad,Gachibowli,3000,Villa,0,0.6,8,27500,8.25,240625
+Hyderabad,Gachibowli,750,Villa,3,5.23,7,10000,0.75,21875
+Hyderabad,Gachibowli,1800,Apartment,1,9.1,9,13000,2.34,68250
+Hyderabad,Gachibowli,1000,Villa,2,7.63,5,10500,1.05,30625
+Hyderabad,Gachibowli,3000,Apartment,24,2.52,6,13500,4.05,118125
+Hyderabad,Gachibowli,3500,Apartment,15,1.86,7,18500,6.47,188854
+Hyderabad,Gachibowli,3000,Villa,19,9.32,6,23000,6.9,201250
+Hyderabad,Gachibowli,3000,Apartment,24,8.75,10,15000,4.5,131250
+Hyderabad,Gachibowli,2000,Villa,12,8.1,8,20000,4.0,116666
+Hyderabad,Gachibowli,3000,Apartment,14,8.99,6,17000,5.1,148750
+Hyderabad,Gachibowli,1500,Villa,2,3.38,5,16500,2.48,72187
+Hyderabad,Gachibowli,3000,Apartment,17,4.44,9,15500,4.65,135625
+Hyderabad,Gachibowli,1500,Apartment,0,8.23,10,9500,1.43,41562
+Hyderabad,Gachibowli,3500,Apartment,1,2.45,5,25000,8.75,255208
+Hyderabad,Gachibowli,900,Apartment,10,1.46,9,7000,0.63,18375
+Hyderabad,Gachibowli,1800,Villa,8,3.44,6,17500,3.15,91875
+Hyderabad,Gachibowli,3000,Villa,4,5.33,6,27000,8.1,236250
+Hyderabad,Gachibowli,2500,Villa,25,9.73,6,18500,4.62,134895
+Hyderabad,Gachibowli,1000,Villa,3,9.64,7,11500,1.15,33541
+Hyderabad,Gachibowli,2500,Villa,13,3.22,10,18500,4.62,134895
+Hyderabad,Gachibowli,900,Apartment,21,3.06,5,5500,0.49,14437
+Hyderabad,Gachibowli,2200,Villa,23,5.18,5,15000,3.3,96250
+Hyderabad,Gachibowli,1800,Apartment,6,0.8,9,13000,2.34,68250
+Hyderabad,Gachibowli,2500,Villa,4,2.62,6,24500,6.12,178645
+Hyderabad,Gachibowli,1800,Apartment,14,1.71,5,11500,2.07,60375
+Hyderabad,Gachibowli,2500,Apartment,25,2.65,5,11500,2.88,83854
+Hyderabad,Gachibowli,3500,Apartment,17,6.82,5,17000,5.95,173541
+Hyderabad,Gachibowli,1800,Villa,5,7.36,8,20000,3.6,105000
+Hyderabad,Gachibowli,2500,Villa,6,3.87,5,27000,6.75,196875
+Hyderabad,Gachibowli,1350,Apartment,12,5.5,8,10000,1.35,39375
+Hyderabad,Gachibowli,1800,Villa,25,1.18,7,12000,2.16,63000
+Hyderabad,Gachibowli,2500,Villa,22,2.11,6,19000,4.75,138541
+Hyderabad,Gachibowli,1500,Apartment,9,0.7,5,11500,1.73,50312
+Hyderabad,Gachibowli,3000,Apartment,23,0.46,10,15000,4.5,131250
+Hyderabad,Gachibowli,2000,Apartment,1,5.27,9,16000,3.2,93333
+Hyderabad,Gachibowli,2500,Apartment,16,1.99,5,12500,3.12,91145
+Hyderabad,Gachibowli,3000,Apartment,2,7.0,5,22000,6.6,192500
+Hyderabad,Gachibowli,3000,Apartment,2,1.63,8,20500,6.15,179375
+Hyderabad,Gachibowli,1200,Apartment,18,3.61,9,7000,0.84,24500
+Hyderabad,Gachibowli,3000,Apartment,1,6.7,8,22000,6.6,192500
+Hyderabad,Gachibowli,3500,Villa,18,8.23,7,29000,10.15,296041
+Hyderabad,Gachibowli,1500,Villa,21,2.65,6,14500,2.17,63437
+Hyderabad,Gachibowli,1800,Apartment,12,1.2,10,10000,1.8,52500
+Hyderabad,Gachibowli,3500,Villa,9,3.69,7,33500,11.72,341979
+Hyderabad,Gachibowli,1000,Villa,0,7.34,9,13000,1.3,37916
+Hyderabad,Gachibowli,3000,Apartment,3,1.12,9,22500,6.75,196875
+Hyderabad,Gachibowli,1500,Villa,16,1.87,6,13500,2.02,59062
+Hyderabad,Gachibowli,2200,Apartment,2,0.39,7,17000,3.74,109083
+Hyderabad,Gachibowli,1800,Villa,5,1.28,9,19000,3.42,99750
+Hyderabad,Gachibowli,3500,Apartment,9,7.01,10,19000,6.65,193958
+Hyderabad,Gachibowli,3000,Apartment,9,6.62,6,19500,5.85,170625
+Hyderabad,Gachibowli,1800,Apartment,3,2.6,10,12500,2.25,65625
+Hyderabad,Gachibowli,3000,Villa,4,3.46,7,31000,9.3,271250
+Hyderabad,Gachibowli,3000,Villa,6,8.54,6,31000,9.3,271250
+Hyderabad,Gachibowli,3500,Villa,20,6.68,9,23000,8.05,234791
+Hyderabad,Gachibowli,2500,Apartment,8,3.87,5,16500,4.12,120312
+Hyderabad,Gachibowli,3500,Villa,13,2.87,5,30500,10.68,311354
+Hyderabad,Gachibowli,750,Apartment,10,6.42,10,5500,0.41,12031
+Hyderabad,Gachibowli,1800,Villa,5,8.01,9,23000,4.14,120750
+Hyderabad,Gachibowli,3500,Apartment,13,5.08,5,20000,7.0,204166
+Hyderabad,Gachibowli,1000,Apartment,22,2.19,9,5000,0.5,14583
+Hyderabad,Gachibowli,900,Apartment,11,0.54,8,7000,0.63,18375
+Hyderabad,Gachibowli,1200,Villa,1,6.56,7,14000,1.68,49000
+Hyderabad,Gachibowli,900,Apartment,11,9.68,10,7000,0.63,18375
+Hyderabad,Gachibowli,1800,Apartment,21,9.65,7,9000,1.62,47250
+Hyderabad,Gachibowli,3000,Apartment,13,4.04,6,18500,5.55,161875
+Hyderabad,Gachibowli,1350,Apartment,25,8.56,8,6500,0.88,25593
+Hyderabad,Gachibowli,750,Villa,5,5.7,8,8500,0.64,18593
+Hyderabad,Gachibowli,3500,Apartment,23,9.38,7,17000,5.95,173541
+Hyderabad,Gachibowli,1350,Apartment,25,1.24,8,8000,1.08,31500
+Hyderabad,Gachibowli,900,Apartment,15,6.27,6,6500,0.58,17062
+Hyderabad,Gachibowli,2500,Villa,11,7.49,6,22500,5.62,164062
+Hyderabad,Gachibowli,1500,Apartment,0,7.06,8,11000,1.65,48125
+Hyderabad,Gachibowli,2000,Apartment,8,3.15,7,15000,3.0,87500
+Hyderabad,Gachibowli,2200,Villa,20,8.15,10,17000,3.74,109083
+Hyderabad,Gachibowli,3000,Apartment,10,9.16,5,18500,5.55,161875
+Hyderabad,Gachibowli,1800,Villa,5,5.26,5,21000,3.78,110250
+Hyderabad,Gachibowli,1200,Villa,19,6.6,7,10000,1.2,35000
+Hyderabad,Gachibowli,2000,Apartment,13,7.11,8,12500,2.5,72916
+Hyderabad,Gachibowli,3000,Villa,6,3.58,5,29000,8.7,253750
+Hyderabad,Gachibowli,2500,Apartment,0,3.94,7,18500,4.62,134895
+Hyderabad,Gachibowli,2500,Villa,2,0.65,9,24000,6.0,175000
+Hyderabad,Gachibowli,2000,Apartment,21,4.82,10,9000,1.8,52500
+Hyderabad,Gachibowli,2000,Villa,16,6.03,10,17500,3.5,102083
+Hyderabad,Gachibowli,2500,Villa,10,0.6,10,21000,5.25,153125
+Hyderabad,Gachibowli,2000,Apartment,17,5.37,6,11000,2.2,64166
+Hyderabad,Gachibowli,2500,Villa,21,7.77,10,19000,4.75,138541
+Hyderabad,Gachibowli,1350,Villa,19,1.13,8,10000,1.35,39375
+Hyderabad,Gachibowli,3000,Villa,0,0.8,7,37000,11.1,323750
+Hyderabad,Gachibowli,1500,Villa,13,6.48,8,16000,2.4,70000
+Hyderabad,Gachibowli,2500,Apartment,14,7.34,9,14500,3.62,105729
+Hyderabad,Gachibowli,2500,Apartment,25,3.43,10,12000,3.0,87500
+Hyderabad,Gachibowli,1000,Villa,9,8.01,5,10000,1.0,29166
+Hyderabad,Gachibowli,1800,Villa,21,1.06,6,12000,2.16,63000
+Hyderabad,Gachibowli,1500,Apartment,4,0.55,5,10500,1.57,45937
+Hyderabad,Gachibowli,1800,Apartment,15,1.98,8,12000,2.16,63000
+Hyderabad,Gachibowli,2500,Apartment,20,1.82,10,13000,3.25,94791
+Hyderabad,Gachibowli,3500,Villa,12,7.23,8,25500,8.93,260312
+Hyderabad,Gachibowli,1800,Apartment,4,6.7,5,13500,2.43,70875
+Hyderabad,Gachibowli,2500,Apartment,7,6.23,10,18500,4.62,134895
+Hyderabad,Gachibowli,3000,Apartment,14,4.37,9,16000,4.8,140000
+Hyderabad,Gachibowli,1800,Villa,3,7.65,6,17500,3.15,91875
+Hyderabad,Gachibowli,2500,Villa,21,0.44,8,18000,4.5,131250
+Hyderabad,Gachibowli,3000,Villa,23,1.25,9,23500,7.05,205625
+Hyderabad,Gachibowli,2500,Villa,5,5.07,8,22000,5.5,160416
+Hyderabad,Gachibowli,1800,Apartment,24,4.51,10,9000,1.62,47250
+Hyderabad,Gachibowli,1800,Villa,24,4.17,10,14500,2.61,76125
+Hyderabad,Gachibowli,1800,Villa,8,0.74,5,19500,3.51,102375
+Hyderabad,Hitech City,1800,Villa,7,3.93,7,19000,3.42,99750
+Hyderabad,Hitech City,2000,Apartment,17,8.61,6,14000,2.8,81666
+Hyderabad,Hitech City,1350,Villa,7,6.69,10,14500,1.96,57093
+Hyderabad,Hitech City,1350,Apartment,22,5.98,5,7500,1.01,29531
+Hyderabad,Hitech City,2500,Villa,13,9.42,9,19000,4.75,138541
+Hyderabad,Hitech City,2500,Apartment,13,6.54,6,17000,4.25,123958
+Hyderabad,Hitech City,2500,Apartment,12,4.75,9,16500,4.12,120312
+Hyderabad,Hitech City,2200,Apartment,15,4.05,7,13500,2.97,86625
+Hyderabad,Hitech City,2000,Villa,24,9.62,8,14000,2.8,81666
+Hyderabad,Hitech City,3000,Apartment,23,3.39,8,15000,4.5,131250
+Hyderabad,Hitech City,1500,Villa,8,8.5,8,15000,2.25,65625
+Hyderabad,Hitech City,750,Villa,12,7.06,10,8000,0.6,17500
+Hyderabad,Hitech City,3500,Villa,25,6.4,10,23500,8.22,239895
+Hyderabad,Hitech City,1350,Apartment,14,8.09,9,9500,1.28,37406
+Hyderabad,Hitech City,3000,Villa,0,3.04,9,34000,10.2,297500
+Hyderabad,Hitech City,3000,Apartment,21,8.13,5,14500,4.35,126875
+Hyderabad,Hitech City,3500,Apartment,13,9.91,8,17500,6.12,178645
+Hyderabad,Hitech City,1500,Villa,1,7.83,8,16000,2.4,70000
+Hyderabad,Hitech City,2000,Villa,6,3.61,7,23500,4.7,137083
+Hyderabad,Hitech City,2000,Villa,24,7.62,7,14000,2.8,81666
+Hyderabad,Hitech City,2500,Apartment,8,1.3,8,17000,4.25,123958
+Hyderabad,Hitech City,750,Apartment,23,8.32,7,5000,0.38,10937
+Hyderabad,Hitech City,1500,Apartment,20,3.4,10,8500,1.27,37187
+Hyderabad,Hitech City,900,Apartment,24,0.41,6,5500,0.49,14437
+Hyderabad,Hitech City,1500,Apartment,0,9.08,6,12000,1.8,52500
+Hyderabad,Hitech City,1200,Apartment,15,9.52,9,7500,0.9,26250
+Hyderabad,Hitech City,1500,Villa,14,9.52,7,16500,2.48,72187
+Hyderabad,Hitech City,1350,Apartment,19,4.65,6,9000,1.22,35437
+Hyderabad,Hitech City,2000,Apartment,3,3.14,7,16500,3.3,96250
+Hyderabad,Hitech City,3000,Villa,21,7.6,8,20000,6.0,175000
+Hyderabad,Hitech City,1500,Apartment,2,7.98,5,11500,1.73,50312
+Hyderabad,Hitech City,3500,Villa,24,5.63,10,23500,8.22,239895
+Hyderabad,Hitech City,3000,Apartment,25,4.58,9,13500,4.05,118125
+Hyderabad,Hitech City,900,Villa,11,1.44,10,10500,0.94,27562
+Hyderabad,Hitech City,2200,Villa,2,1.69,5,25500,5.61,163625
+Hyderabad,Hitech City,2500,Apartment,15,1.28,8,16500,4.12,120312
+Hyderabad,Hitech City,2200,Villa,20,1.12,10,17000,3.74,109083
+Hyderabad,Hitech City,1350,Apartment,13,8.27,10,9500,1.28,37406
+Hyderabad,Hitech City,3000,Villa,20,7.15,9,25000,7.5,218750
+Hyderabad,Hitech City,3000,Villa,24,9.49,8,20000,6.0,175000
+Hyderabad,Hitech City,2500,Villa,23,9.86,7,17000,4.25,123958
+Hyderabad,Hitech City,1800,Villa,2,1.11,8,22500,4.05,118125
+Hyderabad,Hitech City,1800,Villa,24,7.84,9,11000,1.98,57750
+Hyderabad,Hitech City,3000,Villa,21,9.09,7,25000,7.5,218750
+Hyderabad,Hitech City,750,Villa,15,1.38,6,7500,0.56,16406
+Hyderabad,Hitech City,2500,Villa,6,4.85,7,25000,6.25,182291
+Hyderabad,Hitech City,2000,Villa,8,0.85,9,22000,4.4,128333
+Hyderabad,Hitech City,750,Apartment,16,5.96,5,5500,0.41,12031
+Hyderabad,Hitech City,1800,Villa,23,9.63,8,12000,2.16,63000
+Hyderabad,Hitech City,3000,Apartment,24,8.73,10,13500,4.05,118125
+Hyderabad,Hitech City,2500,Villa,20,2.47,8,19500,4.88,142187
+Hyderabad,Hitech City,750,Villa,2,9.93,6,10500,0.79,22968
+Hyderabad,Hitech City,2500,Apartment,22,1.02,7,13500,3.38,98437
+Hyderabad,Hitech City,3500,Villa,18,5.37,8,27000,9.45,275625
+Hyderabad,Hitech City,3000,Villa,16,6.41,8,24000,7.2,210000
+Hyderabad,Hitech City,3000,Villa,10,6.39,10,31500,9.45,275625
+Hyderabad,Hitech City,2500,Villa,8,5.97,7,24000,6.0,175000
+Hyderabad,Hitech City,1500,Apartment,3,6.32,7,13000,1.95,56875
+Hyderabad,Hitech City,1200,Apartment,23,2.99,6,6500,0.78,22750
+Hyderabad,Hitech City,1500,Villa,23,3.73,7,10500,1.57,45937
+Hyderabad,Hitech City,3000,Villa,24,5.96,5,17500,5.25,153125
+Hyderabad,Hitech City,1500,Apartment,9,8.19,7,11000,1.65,48125
+Hyderabad,Hitech City,1500,Apartment,9,6.94,10,11500,1.73,50312
+Hyderabad,Hitech City,3000,Villa,4,4.36,5,34000,10.2,297500
+Hyderabad,Hitech City,900,Villa,17,9.35,10,8500,0.77,22312
+Hyderabad,Hitech City,1200,Villa,20,8.16,5,10000,1.2,35000
+Hyderabad,Hitech City,750,Villa,18,9.88,8,7500,0.56,16406
+Hyderabad,Hitech City,2500,Villa,14,3.99,6,20000,5.0,145833
+Hyderabad,Hitech City,900,Villa,8,9.71,5,10500,0.94,27562
+Hyderabad,Hitech City,1000,Villa,12,4.85,5,10500,1.05,30625
+Hyderabad,Hitech City,3000,Apartment,20,4.32,6,15500,4.65,135625
+Hyderabad,Hitech City,1350,Villa,25,8.69,5,10000,1.35,39375
+Hyderabad,Hitech City,1800,Villa,3,8.19,9,22500,4.05,118125
+Hyderabad,Hitech City,3000,Apartment,25,9.46,9,14500,4.35,126875
+Hyderabad,Hitech City,2200,Villa,14,8.54,7,19000,4.18,121916
+Hyderabad,Hitech City,3000,Villa,13,1.55,9,22500,6.75,196875
+Hyderabad,Hitech City,3000,Apartment,1,9.55,6,19500,5.85,170625
+Hyderabad,Hitech City,3500,Villa,6,6.82,10,35000,12.25,357291
+Hyderabad,Hitech City,1000,Apartment,5,6.3,6,7500,0.75,21875
+Hyderabad,Hitech City,3000,Apartment,2,6.81,5,21000,6.3,183750
+Hyderabad,Hitech City,2500,Villa,14,5.35,7,22000,5.5,160416
+Hyderabad,Hitech City,900,Villa,7,8.57,10,11500,1.03,30187
+Hyderabad,Hitech City,1800,Villa,22,5.65,5,15000,2.7,78750
+Hyderabad,Hitech City,3500,Villa,7,4.21,10,33500,11.72,341979
+Hyderabad,Hitech City,3000,Apartment,21,1.6,8,17000,5.1,148750
+Hyderabad,Hitech City,1200,Apartment,17,2.37,10,8000,0.96,28000
+Hyderabad,Hitech City,1350,Apartment,8,1.62,5,8500,1.15,33468
+Hyderabad,Hitech City,900,Villa,5,4.54,9,12000,1.08,31500
+Hyderabad,Hitech City,3000,Villa,9,9.07,5,28500,8.55,249375
+Hyderabad,Hitech City,2500,Villa,22,7.9,10,15500,3.88,113020
+Hyderabad,Hitech City,2200,Villa,8,4.15,8,23500,5.17,150791
+Hyderabad,Hitech City,1000,Apartment,19,9.51,8,6500,0.65,18958
+Hyderabad,Hitech City,2000,Villa,19,1.73,5,16500,3.3,96250
+Hyderabad,Hitech City,1000,Apartment,7,2.8,10,8500,0.85,24791
+Hyderabad,Hitech City,1800,Apartment,18,4.75,6,10500,1.89,55125
+Hyderabad,Hitech City,2500,Villa,16,3.49,7,22000,5.5,160416
+Hyderabad,Hitech City,1500,Villa,18,6.44,10,13000,1.95,56875
+Hyderabad,Hitech City,2500,Villa,2,1.55,7,26500,6.62,193229
+Hyderabad,Hitech City,2500,Villa,10,1.54,10,21500,5.38,156770
+Hyderabad,Hitech City,1200,Villa,5,3.65,8,14500,1.74,50750
+Hyderabad,Hitech City,3500,Villa,15,9.0,10,33500,11.72,341979
+Hyderabad,Hitech City,2200,Apartment,24,1.97,8,10500,2.31,67375
+Hyderabad,Hitech City,1000,Villa,10,2.17,7,10000,1.0,29166
+Hyderabad,Hitech City,1200,Villa,24,1.16,9,9000,1.08,31500
+Hyderabad,Hitech City,750,Villa,21,1.47,8,6000,0.45,13125
+Hyderabad,Hitech City,900,Villa,6,3.83,9,10500,0.94,27562
+Hyderabad,Hitech City,2500,Villa,20,5.18,5,19000,4.75,138541
+Hyderabad,Hitech City,1500,Apartment,8,8.05,7,11000,1.65,48125
+Hyderabad,Hitech City,2500,Villa,22,6.39,5,20000,5.0,145833
+Hyderabad,Hitech City,750,Apartment,20,7.56,10,4500,0.34,9843
+Hyderabad,Hitech City,1350,Apartment,9,2.09,9,9500,1.28,37406
+Hyderabad,Hitech City,2500,Apartment,2,5.0,5,16500,4.12,120312
+Hyderabad,Hitech City,2500,Apartment,3,6.3,8,17500,4.38,127604
+Hyderabad,Hitech City,1800,Villa,16,7.55,8,13000,2.34,68250
+Hyderabad,Hitech City,2500,Apartment,15,0.66,8,16000,4.0,116666
+Hyderabad,Hitech City,3000,Villa,4,8.98,6,28000,8.4,245000
+Hyderabad,Hitech City,3000,Apartment,16,5.26,5,15500,4.65,135625
+Hyderabad,Hitech City,1800,Villa,24,4.64,7,13500,2.43,70875
+Hyderabad,Hitech City,3000,Apartment,8,5.47,7,18500,5.55,161875
+Hyderabad,Hitech City,2000,Villa,18,3.96,6,15500,3.1,90416
+Hyderabad,Hitech City,2500,Villa,17,0.49,7,19000,4.75,138541
+Hyderabad,Hitech City,2000,Villa,17,3.48,8,16000,3.2,93333
+Hyderabad,Hitech City,2000,Apartment,6,1.46,9,14500,2.9,84583
+Hyderabad,Hitech City,2200,Villa,7,6.89,5,24000,5.28,154000
+Hyderabad,Hitech City,2000,Villa,23,7.95,10,14000,2.8,81666
+Hyderabad,Hitech City,2200,Apartment,12,5.51,8,14000,3.08,89833
+Hyderabad,Hitech City,900,Villa,4,5.99,5,10500,0.94,27562
+Hyderabad,Hitech City,2500,Villa,3,1.54,5,30000,7.5,218750
+Hyderabad,Hitech City,1350,Apartment,13,3.05,5,10000,1.35,39375
+Hyderabad,Hitech City,2500,Villa,25,5.84,7,15500,3.88,113020
+Hyderabad,Hitech City,3500,Villa,22,3.75,10,25000,8.75,255208
+Hyderabad,Hitech City,1000,Villa,10,2.6,7,11000,1.1,32083
+Hyderabad,Hitech City,3500,Villa,22,1.29,9,24000,8.4,245000
+Hyderabad,Hitech City,900,Apartment,19,1.86,6,5500,0.49,14437
+Hyderabad,Hitech City,3500,Villa,21,2.11,6,23500,8.22,239895
+Hyderabad,Hitech City,1000,Apartment,13,9.0,10,7000,0.7,20416
+Hyderabad,Hitech City,3500,Villa,3,1.08,6,28000,9.8,285833
+Hyderabad,Hitech City,3500,Apartment,9,9.83,5,23000,8.05,234791
+Hyderabad,Hitech City,2000,Apartment,25,1.39,7,10000,2.0,58333
+Hyderabad,Hitech City,2200,Villa,11,8.7,6,20500,4.51,131541
+Hyderabad,Hitech City,1800,Villa,16,8.23,9,15000,2.7,78750
+Hyderabad,Hitech City,3500,Apartment,25,6.79,6,15000,5.25,153125
+Hyderabad,Hitech City,1350,Villa,2,9.31,9,18500,2.5,72843
+Hyderabad,Hitech City,3500,Villa,7,3.02,9,37500,13.12,382812
+Hyderabad,Hitech City,1350,Villa,7,7.76,10,14000,1.89,55125
+Hyderabad,Hitech City,1800,Villa,14,4.43,10,15000,2.7,78750
+Hyderabad,Hitech City,750,Villa,25,5.22,7,6000,0.45,13125
+Hyderabad,Hitech City,3500,Apartment,17,6.22,5,18500,6.47,188854
+Hyderabad,Hitech City,2500,Villa,11,3.1,10,21000,5.25,153125
+Hyderabad,Hitech City,2500,Villa,22,4.97,8,19000,4.75,138541
+Hyderabad,Madhapur,2000,Villa,6,5.47,8,19500,3.9,113750
+Hyderabad,Madhapur,1200,Villa,7,1.6,9,12000,1.44,42000
+Hyderabad,Madhapur,2200,Villa,18,0.91,10,16500,3.63,105875
+Hyderabad,Madhapur,2000,Villa,0,6.91,7,23000,4.6,134166
+Hyderabad,Madhapur,750,Apartment,18,7.67,9,4500,0.34,9843
+Hyderabad,Madhapur,2500,Apartment,9,4.29,9,18500,4.62,134895
+Hyderabad,Madhapur,2200,Apartment,7,3.68,9,15000,3.3,96250
+Hyderabad,Madhapur,1800,Apartment,21,2.06,10,9500,1.71,49875
+Hyderabad,Madhapur,1000,Apartment,20,0.95,7,6000,0.6,17500
+Hyderabad,Madhapur,2500,Villa,1,8.47,10,29000,7.25,211458
+Hyderabad,Madhapur,1200,Villa,2,1.66,7,13000,1.56,45500
+Hyderabad,Madhapur,2500,Apartment,5,1.89,6,17500,4.38,127604
+Hyderabad,Madhapur,3000,Villa,11,1.89,6,26500,7.95,231875
+Hyderabad,Madhapur,1800,Villa,15,5.37,10,16500,2.97,86625
+Hyderabad,Madhapur,2000,Apartment,25,3.78,8,9000,1.8,52500
+Hyderabad,Madhapur,1000,Apartment,4,8.22,10,8500,0.85,24791
+Hyderabad,Madhapur,3500,Villa,12,4.56,5,27000,9.45,275625
+Hyderabad,Madhapur,2200,Villa,0,3.22,9,19500,4.29,125125
+Hyderabad,Madhapur,1200,Villa,14,7.55,10,9500,1.14,33250
+Hyderabad,Madhapur,3500,Villa,8,9.03,10,31000,10.85,316458
+Hyderabad,Madhapur,2200,Apartment,3,4.02,8,16500,3.63,105875
+Hyderabad,Madhapur,750,Villa,19,6.36,9,7000,0.53,15312
+Hyderabad,Madhapur,1500,Apartment,20,1.43,10,8500,1.27,37187
+Hyderabad,Madhapur,2500,Villa,22,3.55,10,18500,4.62,134895
+Hyderabad,Madhapur,2500,Apartment,3,1.65,5,18000,4.5,131250
+Hyderabad,Madhapur,900,Villa,9,5.47,5,10500,0.94,27562
+Hyderabad,Madhapur,1000,Apartment,7,8.97,8,7000,0.7,20416
+Hyderabad,Madhapur,2500,Villa,11,3.32,9,22500,5.62,164062
+Hyderabad,Madhapur,1350,Apartment,13,2.71,8,9500,1.28,37406
+Hyderabad,Madhapur,3000,Villa,13,8.8,5,25500,7.65,223125
+Hyderabad,Madhapur,3500,Apartment,11,3.62,8,22000,7.7,224583
+Hyderabad,Madhapur,2500,Villa,7,1.75,5,22500,5.62,164062
+Hyderabad,Madhapur,3500,Villa,11,2.52,5,31500,11.03,321562
+Hyderabad,Madhapur,2200,Apartment,8,6.52,5,15500,3.41,99458
+Hyderabad,Madhapur,2500,Apartment,2,7.03,10,15500,3.88,113020
+Hyderabad,Madhapur,3500,Apartment,19,3.65,5,17500,6.12,178645
+Hyderabad,Madhapur,2000,Apartment,7,2.06,9,13500,2.7,78750
+Hyderabad,Madhapur,1500,Apartment,2,4.19,9,12000,1.8,52500
+Hyderabad,Madhapur,1500,Villa,7,4.78,6,15500,2.33,67812
+Hyderabad,Madhapur,3000,Villa,0,6.23,6,37000,11.1,323750
+Hyderabad,Madhapur,1200,Villa,17,0.48,6,12000,1.44,42000
+Hyderabad,Madhapur,1200,Apartment,21,9.25,6,7000,0.84,24500
+Hyderabad,Madhapur,750,Apartment,11,7.16,9,5500,0.41,12031
+Hyderabad,Madhapur,2000,Apartment,0,6.19,7,13500,2.7,78750
+Hyderabad,Madhapur,900,Villa,4,4.41,9,10500,0.94,27562
+Hyderabad,Madhapur,1200,Apartment,23,9.28,8,6500,0.78,22750
+Hyderabad,Madhapur,2500,Villa,24,4.67,9,20000,5.0,145833
+Hyderabad,Madhapur,3000,Villa,3,4.17,9,30500,9.15,266875
+Hyderabad,Madhapur,1500,Apartment,19,0.83,10,9000,1.35,39375
+Hyderabad,Madhapur,3500,Villa,16,0.34,8,25500,8.93,260312
+Hyderabad,Madhapur,3500,Apartment,0,3.53,8,26000,9.1,265416
+Hyderabad,Madhapur,2200,Apartment,13,9.22,8,10500,2.31,67375
+Hyderabad,Madhapur,2500,Apartment,2,3.66,7,19500,4.88,142187
+Hyderabad,Madhapur,3000,Apartment,4,4.69,6,18500,5.55,161875
+Hyderabad,Madhapur,1800,Villa,19,2.48,8,13000,2.34,68250
+Hyderabad,Madhapur,3000,Villa,16,2.01,8,23000,6.9,201250
+Hyderabad,Madhapur,3000,Villa,19,5.13,5,23500,7.05,205625
+Hyderabad,Madhapur,3500,Apartment,3,3.82,8,23000,8.05,234791
+Hyderabad,Madhapur,2500,Villa,7,5.93,7,21500,5.38,156770
+Hyderabad,Madhapur,2500,Villa,12,9.62,10,22500,5.62,164062
+Hyderabad,Madhapur,1000,Villa,10,1.74,7,9500,0.95,27708
+Hyderabad,Madhapur,3500,Villa,8,9.97,6,30500,10.68,311354
+Hyderabad,Madhapur,3500,Apartment,15,5.17,5,17500,6.12,178645
+Hyderabad,Madhapur,1000,Villa,2,7.57,5,12000,1.2,35000
+Hyderabad,Madhapur,2200,Apartment,25,2.34,9,10000,2.2,64166
+Hyderabad,Madhapur,900,Villa,18,2.15,10,8000,0.72,21000
+Hyderabad,Madhapur,1200,Villa,13,0.65,10,13500,1.62,47250
+Hyderabad,Madhapur,2500,Apartment,23,0.94,7,11000,2.75,80208
+Hyderabad,Madhapur,3000,Villa,9,7.82,5,29500,8.85,258125
+Hyderabad,Madhapur,3000,Apartment,16,4.58,6,12500,3.75,109375
+Hyderabad,Madhapur,3500,Apartment,15,4.19,5,17000,5.95,173541
+Hyderabad,Madhapur,2200,Villa,17,2.06,5,18000,3.96,115500
+Hyderabad,Madhapur,1800,Apartment,18,8.66,8,10000,1.8,52500
+Hyderabad,Madhapur,3000,Apartment,24,2.93,9,14000,4.2,122500
+Hyderabad,Madhapur,3500,Villa,22,6.55,5,23000,8.05,234791
+Hyderabad,Madhapur,1500,Villa,8,1.81,7,15000,2.25,65625
+Hyderabad,Madhapur,2200,Apartment,0,7.24,6,16000,3.52,102666
+Hyderabad,Madhapur,3000,Villa,21,2.45,5,21000,6.3,183750
+Hyderabad,Madhapur,1350,Apartment,23,2.54,5,7000,0.94,27562
+Hyderabad,Madhapur,3000,Villa,6,2.03,8,27500,8.25,240625
+Hyderabad,Madhapur,2500,Apartment,10,6.63,7,15000,3.75,109375
+Hyderabad,Madhapur,2000,Villa,23,2.66,9,14000,2.8,81666
+Hyderabad,Madhapur,3000,Apartment,2,7.31,6,21000,6.3,183750
+Hyderabad,Madhapur,1350,Apartment,24,4.15,10,7000,0.94,27562
+Hyderabad,Madhapur,1000,Villa,8,6.78,10,10000,1.0,29166
+Hyderabad,Madhapur,2500,Villa,15,8.99,8,19000,4.75,138541
+Hyderabad,Madhapur,1800,Apartment,6,0.43,7,11000,1.98,57750
+Hyderabad,Madhapur,2500,Villa,3,8.96,10,28500,7.12,207812
+Hyderabad,Madhapur,3500,Villa,18,8.23,9,23000,8.05,234791
+Hyderabad,Madhapur,3500,Apartment,9,3.98,6,19500,6.83,199062
+Hyderabad,Madhapur,2200,Apartment,19,6.03,5,12500,2.75,80208
+Hyderabad,Madhapur,1500,Apartment,9,4.27,6,9000,1.35,39375
+Hyderabad,Madhapur,1800,Villa,9,5.65,5,15000,2.7,78750
+Hyderabad,Madhapur,750,Villa,15,9.5,6,7000,0.53,15312
+Hyderabad,Madhapur,1200,Apartment,12,7.71,9,8500,1.02,29750
+Hyderabad,Madhapur,3000,Villa,21,8.06,5,21000,6.3,183750
+Hyderabad,Madhapur,2200,Apartment,23,4.42,8,12500,2.75,80208
+Hyderabad,Madhapur,750,Apartment,14,2.8,7,5500,0.41,12031
+Hyderabad,Madhapur,3000,Villa,13,1.65,10,22000,6.6,192500
+Hyderabad,Madhapur,3500,Villa,13,2.94,5,28500,9.97,290937
+Hyderabad,Madhapur,2500,Villa,0,0.48,6,23000,5.75,167708
+Hyderabad,Madhapur,3000,Villa,14,5.68,5,25500,7.65,223125
+Hyderabad,Madhapur,2500,Apartment,3,6.62,8,16500,4.12,120312
+Hyderabad,Madhapur,3000,Apartment,12,0.41,8,18000,5.4,157500
+Hyderabad,Madhapur,2000,Villa,23,1.63,6,16000,3.2,93333
+Hyderabad,Madhapur,2000,Apartment,24,6.75,5,11000,2.2,64166
+Hyderabad,Madhapur,3000,Apartment,20,2.0,9,14500,4.35,126875
+Hyderabad,Madhapur,3000,Villa,6,4.02,7,29500,8.85,258125
+Hyderabad,Madhapur,3500,Apartment,4,5.33,5,22000,7.7,224583
+Hyderabad,Madhapur,1350,Apartment,8,6.15,6,9500,1.28,37406
+Hyderabad,Madhapur,3000,Apartment,4,2.68,6,17500,5.25,153125
+Hyderabad,Madhapur,3500,Villa,15,3.75,9,25500,8.93,260312
+Hyderabad,Madhapur,3000,Villa,14,7.27,10,25500,7.65,223125
+Hyderabad,Madhapur,2000,Villa,4,4.92,5,17500,3.5,102083
+Hyderabad,Madhapur,2500,Villa,14,6.74,7,21000,5.25,153125
+Hyderabad,Madhapur,3000,Villa,1,2.38,9,30500,9.15,266875
+Hyderabad,Madhapur,1000,Villa,9,0.6,8,11000,1.1,32083
+Hyderabad,Madhapur,900,Villa,1,0.8,7,9500,0.85,24937
+Hyderabad,Madhapur,1000,Apartment,20,5.11,9,5000,0.5,14583
+Hyderabad,Madhapur,3000,Villa,16,7.78,8,25000,7.5,218750
+Hyderabad,Madhapur,3000,Apartment,17,1.33,8,16000,4.8,140000
+Hyderabad,Madhapur,3000,Apartment,20,5.11,7,14500,4.35,126875
+Hyderabad,Madhapur,3000,Apartment,15,6.98,5,14500,4.35,126875
+Hyderabad,Madhapur,2500,Villa,3,8.25,10,24500,6.12,178645
+Hyderabad,Madhapur,1000,Apartment,16,8.05,5,6000,0.6,17500
+Hyderabad,Madhapur,1800,Villa,22,6.03,8,14500,2.61,76125
+Hyderabad,Madhapur,3000,Apartment,16,3.8,7,14500,4.35,126875
+Hyderabad,Madhapur,2200,Villa,9,5.56,8,20000,4.4,128333
+Hyderabad,Madhapur,2000,Apartment,21,8.77,10,11000,2.2,64166
+Hyderabad,Madhapur,3500,Apartment,10,6.69,7,21500,7.53,219479
+Hyderabad,Madhapur,1000,Villa,17,7.02,7,8500,0.85,24791
+Hyderabad,Madhapur,1800,Apartment,23,5.05,7,9500,1.71,49875
+Hyderabad,Madhapur,1000,Apartment,18,2.45,7,6500,0.65,18958
+Hyderabad,Madhapur,2000,Villa,20,0.63,6,15500,3.1,90416
+Hyderabad,Madhapur,3000,Apartment,22,7.06,7,14500,4.35,126875
+Hyderabad,Madhapur,3000,Villa,12,9.72,6,24500,7.35,214375
+Hyderabad,Madhapur,3500,Apartment,22,9.46,10,17500,6.12,178645
+Hyderabad,Madhapur,3500,Villa,13,8.49,5,28000,9.8,285833
+Hyderabad,Madhapur,2200,Apartment,9,3.4,6,12500,2.75,80208
+Hyderabad,Madhapur,2000,Villa,24,1.47,6,14500,2.9,84583
+Hyderabad,Madhapur,1500,Apartment,4,1.05,5,10000,1.5,43750
+Hyderabad,Madhapur,2000,Apartment,25,7.33,9,10500,2.1,61250
+Hyderabad,Madhapur,3000,Apartment,23,0.93,10,14500,4.35,126875
+Hyderabad,Madhapur,2000,Apartment,24,7.97,9,8000,1.6,46666
+Hyderabad,Madhapur,2200,Apartment,4,3.39,6,16500,3.63,105875
+Hyderabad,Madhapur,3500,Apartment,24,6.27,10,16000,5.6,163333
+Hyderabad,Madhapur,2500,Villa,1,2.56,7,27500,6.88,200520
+Hyderabad,Madhapur,3500,Apartment,23,8.05,8,16000,5.6,163333
+Hyderabad,Madhapur,3000,Villa,9,9.98,6,29000,8.7,253750
+Hyderabad,Madhapur,3000,Villa,7,4.2,8,26000,7.8,227500
+Hyderabad,Kondapur,1500,Villa,11,4.95,8,13500,2.02,59062
+Hyderabad,Kondapur,1800,Villa,24,9.85,9,11500,2.07,60375
+Hyderabad,Kondapur,3000,Apartment,13,7.75,6,13000,3.9,113750
+Hyderabad,Kondapur,3000,Villa,4,7.45,5,22500,6.75,196875
+Hyderabad,Kondapur,3500,Villa,15,2.62,9,24000,8.4,245000
+Hyderabad,Kondapur,1200,Apartment,22,3.09,7,5500,0.66,19250
+Hyderabad,Kondapur,1000,Apartment,24,3.17,7,4000,0.4,11666
+Hyderabad,Kondapur,2500,Apartment,16,6.89,8,11000,2.75,80208
+Hyderabad,Kondapur,1000,Villa,7,2.42,7,9500,0.95,27708
+Hyderabad,Kondapur,750,Apartment,13,8.83,8,4500,0.34,9843
+Hyderabad,Kondapur,3000,Apartment,11,9.46,8,19000,5.7,166250
+Hyderabad,Kondapur,1000,Apartment,11,1.92,5,6000,0.6,17500
+Hyderabad,Kondapur,2000,Villa,3,9.91,6,20500,4.1,119583
+Hyderabad,Kondapur,1200,Villa,1,5.27,8,14000,1.68,49000
+Hyderabad,Kondapur,3500,Villa,4,2.54,8,28500,9.97,290937
+Hyderabad,Kondapur,3000,Apartment,0,2.11,5,18000,5.4,157500
+Hyderabad,Kondapur,1800,Apartment,6,7.86,9,11000,1.98,57750
+Hyderabad,Kondapur,3000,Villa,16,9.7,5,20500,6.15,179375
+Hyderabad,Kondapur,1800,Villa,7,8.87,5,15500,2.79,81375
+Hyderabad,Kondapur,900,Villa,7,7.65,10,8000,0.72,21000
+Hyderabad,Kondapur,3500,Apartment,14,7.05,5,17500,6.12,178645
+Hyderabad,Kondapur,2500,Apartment,19,2.48,10,11500,2.88,83854
+Hyderabad,Kondapur,3000,Apartment,18,2.47,10,16500,4.95,144375
+Hyderabad,Kondapur,1350,Villa,9,5.93,5,13000,1.75,51187
+Hyderabad,Kondapur,3000,Apartment,11,1.19,9,15500,4.65,135625
+Hyderabad,Kondapur,2500,Apartment,5,1.56,9,16000,4.0,116666
+Hyderabad,Kondapur,2200,Apartment,2,8.92,8,15000,3.3,96250
+Hyderabad,Kondapur,2500,Villa,1,5.64,7,25500,6.38,185937
+Hyderabad,Kondapur,1800,Apartment,23,1.14,7,7000,1.26,36750
+Hyderabad,Kondapur,1000,Apartment,11,2.82,10,5500,0.55,16041
+Hyderabad,Kondapur,3500,Apartment,20,7.32,9,14000,4.9,142916
+Hyderabad,Kondapur,2000,Apartment,4,2.44,7,12500,2.5,72916
+Hyderabad,Kondapur,3000,Apartment,10,6.93,10,11500,3.45,100625
+Hyderabad,Kondapur,2500,Villa,22,6.05,10,14500,3.62,105729
+Hyderabad,Kondapur,1500,Apartment,25,8.3,5,7500,1.12,32812
+Hyderabad,Kondapur,2500,Villa,1,5.79,6,21000,5.25,153125
+Hyderabad,Kondapur,900,Apartment,25,2.89,5,4500,0.41,11812
+Hyderabad,Kondapur,2000,Villa,9,6.69,9,17500,3.5,102083
+Hyderabad,Kondapur,2500,Apartment,8,8.55,10,15000,3.75,109375
+Hyderabad,Kondapur,1500,Villa,9,8.42,5,14000,2.1,61250
+Hyderabad,Kondapur,3500,Villa,10,7.07,5,29000,10.15,296041
+Hyderabad,Kondapur,2200,Villa,13,7.6,10,19000,4.18,121916
+Hyderabad,Kondapur,2500,Villa,12,1.84,6,19000,4.75,138541
+Hyderabad,Kondapur,2500,Villa,22,7.51,7,15000,3.75,109375
+Hyderabad,Kondapur,3000,Apartment,8,1.86,10,17500,5.25,153125
+Hyderabad,Kondapur,2500,Villa,2,5.22,9,23500,5.88,171354
+Hyderabad,Kondapur,1500,Villa,17,0.36,7,12000,1.8,52500
+Hyderabad,Kondapur,1200,Villa,2,9.82,10,11000,1.32,38500
+Hyderabad,Kondapur,2000,Villa,9,6.43,9,18000,3.6,105000
+Hyderabad,Kondapur,2500,Villa,5,5.54,7,19500,4.88,142187
+Hyderabad,Kondapur,2500,Villa,1,7.86,9,24000,6.0,175000
+Hyderabad,Kondapur,2500,Apartment,8,5.55,5,14000,3.5,102083
+Hyderabad,Kondapur,3500,Villa,20,9.64,7,24000,8.4,245000
+Hyderabad,Kondapur,3000,Apartment,25,9.34,5,10500,3.15,91875
+Hyderabad,Kondapur,1350,Villa,19,1.29,5,10000,1.35,39375
+Hyderabad,Kondapur,1200,Apartment,2,0.96,10,8500,1.02,29750
+Hyderabad,Kondapur,2200,Villa,11,3.22,9,17000,3.74,109083
+Hyderabad,Kondapur,900,Apartment,19,5.95,10,5000,0.45,13125
+Hyderabad,Kondapur,2500,Villa,11,3.66,8,19000,4.75,138541
+Hyderabad,Kondapur,1000,Apartment,18,8.75,9,5500,0.55,16041
+Hyderabad,Kondapur,2200,Villa,12,9.74,10,18000,3.96,115500
+Hyderabad,Kondapur,1800,Apartment,7,0.54,5,10500,1.89,55125
+Hyderabad,Kondapur,1500,Villa,15,0.51,9,11500,1.73,50312
+Hyderabad,Kondapur,1200,Villa,8,7.77,10,9500,1.14,33250
+Hyderabad,Kondapur,2500,Villa,6,6.93,10,18500,4.62,134895
+Hyderabad,Kondapur,2500,Apartment,6,9.97,6,14500,3.62,105729
+Hyderabad,Kondapur,1000,Apartment,14,4.43,10,5500,0.55,16041
+Hyderabad,Kondapur,2500,Villa,2,8.01,10,22500,5.62,164062
+Hyderabad,Kondapur,2200,Apartment,22,7.03,9,10500,2.31,67375
+Hyderabad,Kondapur,3000,Villa,9,2.95,6,26500,7.95,231875
+Hyderabad,Kondapur,3500,Apartment,20,9.52,7,15000,5.25,153125
+Hyderabad,Kondapur,3000,Apartment,7,9.45,6,15500,4.65,135625
+Hyderabad,Kondapur,1200,Villa,7,4.37,5,10000,1.2,35000
+Hyderabad,Kondapur,2200,Villa,17,2.96,8,18000,3.96,115500
+Hyderabad,Kondapur,3000,Apartment,4,9.84,5,19000,5.7,166250
+Hyderabad,Kondapur,2000,Villa,12,2.53,9,16000,3.2,93333
+Hyderabad,Kondapur,2500,Villa,24,2.37,9,15000,3.75,109375
+Hyderabad,Kondapur,1000,Villa,4,3.87,10,10000,1.0,29166
+Hyderabad,Kondapur,1000,Villa,14,8.68,10,9000,0.9,26250
+Hyderabad,Kondapur,3000,Apartment,11,2.1,9,16000,4.8,140000
+Hyderabad,Kondapur,3500,Apartment,18,8.73,6,16500,5.78,168437
+Hyderabad,Kondapur,2500,Apartment,16,8.49,5,13000,3.25,94791
+Hyderabad,Kondapur,3000,Villa,4,7.68,6,24000,7.2,210000
+Hyderabad,Kondapur,1350,Apartment,10,0.62,7,8500,1.15,33468
+Hyderabad,Kondapur,3000,Apartment,9,9.23,7,18000,5.4,157500
+Hyderabad,Kondapur,1500,Villa,20,4.97,6,11000,1.65,48125
+Hyderabad,Kondapur,3500,Apartment,9,1.44,9,19500,6.83,199062
+Hyderabad,Kondapur,3500,Apartment,5,4.47,6,19000,6.65,193958
+Hyderabad,Kondapur,3500,Villa,19,2.25,9,21000,7.35,214375
+Hyderabad,Kondapur,900,Apartment,0,5.95,5,7000,0.63,18375
+Hyderabad,Kondapur,3500,Villa,24,2.91,10,19000,6.65,193958
+Hyderabad,Kondapur,1500,Villa,24,4.72,9,10500,1.57,45937
+Hyderabad,Kondapur,3500,Villa,0,0.41,10,31000,10.85,316458
+Hyderabad,Kondapur,3000,Villa,9,4.96,8,22500,6.75,196875
+Hyderabad,Kondapur,1800,Villa,25,6.12,7,12000,2.16,63000
+Hyderabad,Kondapur,2500,Apartment,2,8.64,6,14500,3.62,105729
+Hyderabad,Kondapur,2500,Villa,13,7.86,8,19000,4.75,138541
+Hyderabad,Kondapur,1500,Apartment,10,1.32,7,8500,1.27,37187
+Hyderabad,Kondapur,2000,Villa,23,2.65,8,15500,3.1,90416
+Hyderabad,Kondapur,1200,Villa,24,7.11,9,8000,0.96,28000
+Hyderabad,Kondapur,3000,Villa,3,5.73,6,24500,7.35,214375
+Hyderabad,Kondapur,2500,Villa,3,3.7,8,22500,5.62,164062
+Hyderabad,Kondapur,1800,Apartment,4,0.62,5,11500,2.07,60375
+Hyderabad,Kondapur,1800,Villa,12,1.59,6,14000,2.52,73500
+Hyderabad,Kondapur,1350,Villa,10,5.81,6,13000,1.75,51187
+Hyderabad,Kondapur,1350,Villa,15,2.24,8,11500,1.55,45281
+Hyderabad,Kondapur,2000,Apartment,15,1.92,5,10500,2.1,61250
+Hyderabad,Kondapur,2200,Villa,16,7.15,6,15000,3.3,96250
+Hyderabad,Kondapur,1500,Villa,18,0.61,5,13000,1.95,56875
+Hyderabad,Kondapur,900,Villa,9,8.75,9,9000,0.81,23625
+Hyderabad,Kondapur,3500,Villa,21,7.23,7,20500,7.17,209270
+Hyderabad,Kondapur,3000,Apartment,0,8.2,8,20500,6.15,179375
+Hyderabad,Kondapur,1200,Villa,8,1.08,8,11000,1.32,38500
+Hyderabad,Kondapur,2200,Villa,1,8.23,5,22500,4.95,144375
+Hyderabad,Kondapur,3000,Apartment,17,4.69,7,14500,4.35,126875
+Hyderabad,Kondapur,3000,Apartment,9,7.4,8,19500,5.85,170625
+Hyderabad,Kondapur,3000,Villa,14,1.09,9,20000,6.0,175000
+Hyderabad,Kondapur,3500,Apartment,19,7.96,6,15000,5.25,153125
+Hyderabad,Kondapur,1000,Villa,12,6.69,7,11000,1.1,32083
+Hyderabad,Kondapur,3000,Apartment,11,7.28,6,16000,4.8,140000
+Hyderabad,Kondapur,3000,Villa,16,2.52,9,19000,5.7,166250
+Hyderabad,Kondapur,900,Apartment,1,6.9,6,7000,0.63,18375
+Hyderabad,Kondapur,2000,Villa,25,1.0,9,13500,2.7,78750
+Hyderabad,Kondapur,2500,Apartment,4,7.35,7,15000,3.75,109375
+Hyderabad,Kondapur,3000,Apartment,10,7.5,8,14000,4.2,122500
+Hyderabad,Kondapur,3000,Villa,23,3.9,9,17000,5.1,148750
+Hyderabad,Kondapur,2000,Villa,16,9.88,10,13000,2.6,75833
+Hyderabad,Kondapur,3000,Villa,9,7.33,5,27500,8.25,240625
+Hyderabad,Kondapur,2200,Apartment,10,5.02,8,11000,2.42,70583
+Hyderabad,Kondapur,3000,Apartment,9,6.05,9,15500,4.65,135625
+Hyderabad,Kondapur,2500,Apartment,8,9.15,10,15000,3.75,109375
+Hyderabad,Kondapur,900,Villa,18,6.43,6,6500,0.58,17062
+Hyderabad,Kondapur,3000,Villa,20,7.41,6,20000,6.0,175000
+Hyderabad,Kondapur,3500,Apartment,7,9.12,9,18500,6.47,188854
+Hyderabad,Kondapur,3500,Apartment,3,2.04,5,21000,7.35,214375
+Hyderabad,Kondapur,2500,Villa,10,5.08,6,19500,4.88,142187
+Hyderabad,Kondapur,2500,Apartment,22,2.7,8,11000,2.75,80208
+Hyderabad,Kondapur,3000,Villa,24,5.29,10,19000,5.7,166250
+Hyderabad,Kondapur,1000,Apartment,22,3.78,9,4500,0.45,13125
+Hyderabad,Kondapur,1500,Villa,17,4.09,10,11500,1.73,50312
+Hyderabad,Kondapur,2500,Villa,16,9.7,7,19000,4.75,138541
+Hyderabad,Kondapur,1350,Villa,14,3.45,9,10000,1.35,39375
+Hyderabad,Kondapur,2200,Villa,21,7.8,9,12500,2.75,80208
+Hyderabad,Kondapur,2500,Apartment,6,1.01,7,14500,3.62,105729
+Hyderabad,Kondapur,3000,Apartment,9,1.95,7,13500,4.05,118125
+Hyderabad,Kondapur,1800,Apartment,22,8.34,10,8500,1.53,44625
+Hyderabad,Kondapur,3500,Villa,15,4.48,8,25500,8.93,260312
+Hyderabad,Kondapur,2200,Villa,17,7.16,7,14000,3.08,89833
+Hyderabad,Kondapur,1200,Villa,18,1.92,8,10000,1.2,35000
+Hyderabad,Kondapur,2200,Apartment,24,4.9,7,10500,2.31,67375
+Hyderabad,Kukatpally,900,Apartment,9,8.49,7,5000,0.45,13125
+Hyderabad,Kukatpally,2500,Villa,20,8.72,10,15000,3.75,109375
+Hyderabad,Kukatpally,2500,Apartment,6,2.3,9,12000,3.0,87500
+Hyderabad,Kukatpally,1800,Villa,17,0.85,6,10500,1.89,55125
+Hyderabad,Kukatpally,1200,Apartment,19,5.45,6,5000,0.6,17500
+Hyderabad,Kukatpally,900,Apartment,21,9.36,10,3500,0.32,9187
+Hyderabad,Kukatpally,1800,Apartment,1,3.37,8,9500,1.71,49875
+Hyderabad,Kukatpally,2000,Villa,22,1.74,5,11000,2.2,64166
+Hyderabad,Kukatpally,3500,Apartment,24,9.87,5,11500,4.03,117395
+Hyderabad,Kukatpally,3000,Villa,5,8.72,10,22000,6.6,192500
+Hyderabad,Kukatpally,2500,Apartment,15,4.71,7,8500,2.12,61979
+Hyderabad,Kukatpally,2000,Apartment,9,6.77,5,12000,2.4,70000
+Hyderabad,Kukatpally,3500,Apartment,18,1.65,9,12000,4.2,122500
+Hyderabad,Kukatpally,900,Villa,5,6.83,6,8000,0.72,21000
+Hyderabad,Kukatpally,900,Villa,12,9.71,6,7000,0.63,18375
+Hyderabad,Kukatpally,1800,Apartment,1,4.6,7,9500,1.71,49875
+Hyderabad,Kukatpally,3000,Apartment,19,8.72,7,11500,3.45,100625
+Hyderabad,Kukatpally,1800,Villa,14,8.43,6,11000,1.98,57750
+Hyderabad,Kukatpally,3000,Villa,14,9.46,6,18000,5.4,157500
+Hyderabad,Kukatpally,1200,Apartment,10,6.29,10,7000,0.84,24500
+Hyderabad,Kukatpally,2500,Villa,20,8.73,10,13000,3.25,94791
+Hyderabad,Kukatpally,1500,Villa,0,9.33,7,12500,1.88,54687
+Hyderabad,Kukatpally,3000,Apartment,21,6.99,6,10000,3.0,87500
+Hyderabad,Kukatpally,3000,Villa,20,6.69,8,17000,5.1,148750
+Hyderabad,Kukatpally,3000,Apartment,10,4.12,8,12500,3.75,109375
+Hyderabad,Kukatpally,3500,Apartment,3,6.68,6,17500,6.12,178645
+Hyderabad,Kukatpally,2500,Apartment,10,9.99,5,12500,3.12,91145
+Hyderabad,Kukatpally,1800,Apartment,12,7.89,8,8000,1.44,42000
+Hyderabad,Kukatpally,1800,Villa,10,5.8,9,13000,2.34,68250
+Hyderabad,Kukatpally,3000,Villa,0,4.22,10,23500,7.05,205625
+Hyderabad,Kukatpally,2200,Apartment,22,3.47,5,9000,1.98,57750
+Hyderabad,Kukatpally,3500,Villa,3,7.69,7,26000,9.1,265416
+Hyderabad,Kukatpally,1350,Villa,12,8.04,10,10500,1.42,41343
+Hyderabad,Kukatpally,1200,Villa,20,1.47,7,7000,0.84,24500
+Hyderabad,Kukatpally,3000,Apartment,7,5.58,6,12500,3.75,109375
+Hyderabad,Kukatpally,2500,Villa,4,7.05,10,16000,4.0,116666
+Hyderabad,Kukatpally,3000,Villa,11,4.07,10,16500,4.95,144375
+Hyderabad,Kukatpally,3000,Apartment,15,3.92,6,12000,3.6,105000
+Hyderabad,Kukatpally,3500,Apartment,24,2.5,9,11500,4.03,117395
+Hyderabad,Kukatpally,2500,Villa,16,6.78,5,14000,3.5,102083
+Hyderabad,Kukatpally,3000,Apartment,3,6.31,9,12500,3.75,109375
+Hyderabad,Kukatpally,3000,Apartment,6,8.67,6,13500,4.05,118125
+Hyderabad,Kukatpally,2000,Villa,16,5.34,5,12000,2.4,70000
+Hyderabad,Kukatpally,3500,Villa,6,3.61,5,23500,8.22,239895
+Hyderabad,Kukatpally,3000,Apartment,14,3.99,8,14000,4.2,122500
+Hyderabad,Kukatpally,1200,Villa,16,5.48,8,7000,0.84,24500
+Hyderabad,Kukatpally,3000,Villa,1,6.2,10,23500,7.05,205625
+Hyderabad,Kukatpally,2000,Apartment,23,7.27,8,7500,1.5,43750
+Hyderabad,Kukatpally,1800,Apartment,0,9.57,9,10000,1.8,52500
+Hyderabad,Kukatpally,1000,Villa,1,9.29,7,9000,0.9,26250
+Hyderabad,Kukatpally,3500,Apartment,2,0.88,5,17000,5.95,173541
+Hyderabad,Kukatpally,2500,Villa,1,1.28,8,20000,5.0,145833
+Hyderabad,Kukatpally,1500,Apartment,24,5.01,10,5000,0.75,21875
+Hyderabad,Kukatpally,3500,Villa,13,3.28,8,19500,6.83,199062
+Hyderabad,Kukatpally,2500,Villa,12,8.09,5,13500,3.38,98437
+Hyderabad,Kukatpally,3500,Apartment,21,6.22,10,12500,4.38,127604
+Hyderabad,Kukatpally,2200,Apartment,3,7.25,9,11000,2.42,70583
+Hyderabad,Kukatpally,2200,Apartment,16,1.48,10,8000,1.76,51333
+Hyderabad,Kukatpally,1500,Apartment,0,2.06,7,8000,1.2,35000
+Hyderabad,Kukatpally,2500,Villa,21,5.39,9,14000,3.5,102083
+Hyderabad,Kukatpally,2200,Apartment,7,7.18,8,11000,2.42,70583
+Hyderabad,Kukatpally,2200,Villa,4,2.79,6,15000,3.3,96250
+Hyderabad,Kukatpally,1200,Villa,1,9.64,9,11500,1.38,40250
+Hyderabad,Kukatpally,750,Apartment,7,5.64,5,4500,0.34,9843
+Hyderabad,Kukatpally,1200,Apartment,19,0.72,8,5500,0.66,19250
+Hyderabad,Kukatpally,3000,Apartment,21,6.14,6,11000,3.3,96250
+Hyderabad,Kukatpally,900,Villa,12,8.25,6,6500,0.58,17062
+Hyderabad,Kukatpally,3000,Apartment,6,2.36,6,15000,4.5,131250
+Hyderabad,Kukatpally,3000,Apartment,9,6.23,10,15000,4.5,131250
+Hyderabad,Kukatpally,3000,Villa,10,9.03,6,19000,5.7,166250
+Hyderabad,Kukatpally,2000,Apartment,4,3.73,8,11000,2.2,64166
+Hyderabad,Kukatpally,2000,Apartment,8,2.97,9,9000,1.8,52500
+Hyderabad,Kukatpally,3000,Apartment,23,8.28,10,12000,3.6,105000
+Hyderabad,Kukatpally,3500,Villa,13,1.23,5,19500,6.83,199062
+Hyderabad,Kukatpally,2200,Villa,20,6.35,9,14500,3.19,93041
+Hyderabad,Kukatpally,2000,Villa,22,1.93,8,9500,1.9,55416
+Hyderabad,Kukatpally,1350,Villa,9,7.45,6,9500,1.28,37406
+Hyderabad,Kukatpally,3000,Apartment,15,1.23,6,12500,3.75,109375
+Hyderabad,Kukatpally,2000,Apartment,22,0.53,8,8000,1.6,46666
+Hyderabad,Kukatpally,900,Villa,17,5.6,8,7000,0.63,18375
+Hyderabad,Kukatpally,3000,Apartment,16,2.55,8,13500,4.05,118125
+Hyderabad,Kukatpally,1800,Apartment,8,5.12,7,7500,1.35,39375
+Hyderabad,Kukatpally,3500,Villa,2,9.88,7,26000,9.1,265416
+Hyderabad,Kukatpally,1000,Apartment,17,4.22,5,4500,0.45,13125
+Hyderabad,Kukatpally,1800,Apartment,12,4.45,5,9000,1.62,47250
+Hyderabad,Kukatpally,1500,Apartment,25,9.92,8,6000,0.9,26250
+Hyderabad,Kukatpally,1500,Villa,10,1.55,5,11000,1.65,48125
+Hyderabad,Kukatpally,1500,Apartment,6,5.91,10,7500,1.12,32812
+Hyderabad,Kukatpally,2500,Apartment,7,2.96,8,11000,2.75,80208
+Hyderabad,Kukatpally,1800,Villa,17,3.74,7,10500,1.89,55125
+Hyderabad,Kukatpally,2200,Villa,14,0.97,7,13000,2.86,83416
+Hyderabad,Kukatpally,1800,Villa,11,8.06,8,12500,2.25,65625
+Hyderabad,Kukatpally,1200,Villa,25,2.57,7,7000,0.84,24500
+Hyderabad,Kukatpally,1500,Villa,11,6.61,8,10500,1.57,45937
+Hyderabad,Kukatpally,900,Apartment,18,5.47,10,3500,0.32,9187
+Hyderabad,Kukatpally,1350,Villa,0,6.79,9,10500,1.42,41343
+Hyderabad,Kukatpally,3000,Villa,18,9.94,7,17500,5.25,153125
+Hyderabad,Kukatpally,1350,Villa,6,7.39,6,12000,1.62,47250
+Hyderabad,Kukatpally,2200,Apartment,18,4.81,8,9000,1.98,57750
+Hyderabad,Kukatpally,3000,Villa,20,9.59,7,15000,4.5,131250
+Hyderabad,Kukatpally,2500,Villa,23,2.0,8,12000,3.0,87500
+Hyderabad,Kukatpally,1350,Villa,23,5.5,6,8000,1.08,31500
+Hyderabad,Kukatpally,1200,Villa,23,1.24,6,7500,0.9,26250
+Hyderabad,Kukatpally,3000,Apartment,20,3.67,9,10500,3.15,91875
+Hyderabad,Kukatpally,900,Apartment,2,6.75,5,5000,0.45,13125
+Hyderabad,Kukatpally,2500,Apartment,4,1.78,5,11000,2.75,80208
+Hyderabad,Kukatpally,3500,Apartment,4,9.93,6,17000,5.95,173541
+Hyderabad,Kukatpally,3000,Villa,14,8.47,5,19000,5.7,166250
+Hyderabad,Kukatpally,3000,Villa,20,5.35,10,15000,4.5,131250
+Hyderabad,Kukatpally,2500,Apartment,0,7.63,9,13500,3.38,98437
+Hyderabad,Kukatpally,3000,Apartment,13,1.54,5,13000,3.9,113750
+Hyderabad,Kukatpally,3000,Villa,23,7.17,9,15500,4.65,135625
+Hyderabad,Kukatpally,1800,Villa,0,0.65,6,13500,2.43,70875
+Hyderabad,Kukatpally,1200,Apartment,3,3.79,6,6500,0.78,22750
+Hyderabad,Kukatpally,1500,Villa,19,1.15,7,9000,1.35,39375
+Hyderabad,Kukatpally,1800,Villa,25,3.26,5,9500,1.71,49875
+Hyderabad,Kukatpally,2200,Villa,12,4.15,9,17000,3.74,109083
+Hyderabad,Kukatpally,1800,Apartment,22,5.3,7,6000,1.08,31500
+Hyderabad,Kukatpally,3500,Apartment,2,9.22,5,17500,6.12,178645
+Hyderabad,Kukatpally,2500,Villa,12,8.56,9,16000,4.0,116666
+Hyderabad,Kukatpally,2500,Apartment,1,2.32,10,13000,3.25,94791
+Hyderabad,Kukatpally,1350,Villa,2,8.82,8,12500,1.69,49218
+Hyderabad,Kukatpally,3500,Villa,25,8.72,9,17000,5.95,173541
+Hyderabad,Kukatpally,1000,Apartment,16,3.26,6,5000,0.5,14583
+Hyderabad,Kukatpally,1500,Villa,22,1.08,7,7500,1.12,32812
+Hyderabad,Kukatpally,900,Villa,2,7.04,9,7500,0.68,19687
+Hyderabad,Kukatpally,3000,Apartment,21,3.66,6,11000,3.3,96250
+Hyderabad,Kukatpally,2000,Apartment,0,8.28,9,11500,2.3,67083
+Hyderabad,Kukatpally,1350,Villa,24,1.59,5,9000,1.22,35437
+Hyderabad,Kukatpally,2000,Apartment,5,7.72,9,10000,2.0,58333
+Hyderabad,Kukatpally,2200,Villa,21,2.0,8,9500,2.09,60958
+Hyderabad,Kukatpally,1200,Apartment,25,1.72,9,4500,0.54,15750
+Hyderabad,Kukatpally,2200,Apartment,1,3.87,8,12500,2.75,80208
+Hyderabad,Kukatpally,1500,Villa,2,4.5,9,12500,1.88,54687
+Hyderabad,Kukatpally,3000,Villa,19,3.32,7,12500,3.75,109375
+Hyderabad,Kukatpally,750,Villa,20,1.32,8,5000,0.38,10937
+Hyderabad,Kukatpally,2500,Villa,7,6.52,9,18000,4.5,131250
+Hyderabad,Kukatpally,2200,Apartment,13,6.61,10,8500,1.87,54541
+Hyderabad,Kukatpally,3000,Villa,21,1.77,5,14500,4.35,126875
+Hyderabad,Kukatpally,3000,Apartment,9,9.95,10,13500,4.05,118125
+Hyderabad,Kukatpally,1000,Villa,2,0.86,6,8500,0.85,24791
+Hyderabad,Kukatpally,2200,Apartment,22,1.48,10,8000,1.76,51333
+Hyderabad,Kukatpally,2200,Villa,10,3.24,5,15000,3.3,96250
+Hyderabad,Kukatpally,1000,Villa,0,0.9,8,8500,0.85,24791
+Hyderabad,Kukatpally,2200,Villa,24,5.24,5,10000,2.2,64166
+Hyderabad,Kukatpally,1200,Apartment,2,6.35,8,7500,0.9,26250
+Hyderabad,Kukatpally,2500,Villa,17,5.41,5,13500,3.38,98437
+Hyderabad,Kukatpally,750,Villa,2,8.9,9,6500,0.49,14218
+Hyderabad,Kukatpally,1000,Villa,19,4.66,8,6000,0.6,17500
+Hyderabad,Kukatpally,750,Villa,9,4.32,8,5500,0.41,12031
+Hyderabad,Miyapur,1000,Apartment,23,8.33,9,4000,0.4,11666
+Hyderabad,Miyapur,3000,Villa,5,0.41,6,21000,6.3,183750
+Hyderabad,Miyapur,1200,Villa,8,4.34,7,8500,1.02,29750
+Hyderabad,Miyapur,2500,Apartment,4,2.82,6,12000,3.0,87500
+Hyderabad,Miyapur,2500,Villa,8,7.67,7,16500,4.12,120312
+Hyderabad,Miyapur,2500,Apartment,25,2.39,7,7500,1.88,54687
+Hyderabad,Miyapur,1800,Villa,7,0.42,9,11500,2.07,60375
+Hyderabad,Miyapur,3000,Villa,6,5.62,5,19500,5.85,170625
+Hyderabad,Miyapur,1200,Apartment,9,4.71,8,5500,0.66,19250
+Hyderabad,Miyapur,2000,Villa,19,3.45,7,11000,2.2,64166
+Hyderabad,Miyapur,2500,Villa,10,7.45,10,13000,3.25,94791
+Hyderabad,Miyapur,3000,Villa,4,4.13,7,19500,5.85,170625
+Hyderabad,Miyapur,3000,Apartment,22,4.76,8,10000,3.0,87500
+Hyderabad,Miyapur,2000,Villa,5,9.57,7,14500,2.9,84583
+Hyderabad,Miyapur,1800,Villa,23,7.93,9,10000,1.8,52500
+Hyderabad,Miyapur,1800,Villa,10,4.54,7,11000,1.98,57750
+Hyderabad,Miyapur,2200,Apartment,11,2.77,9,9500,2.09,60958
+Hyderabad,Miyapur,1500,Apartment,18,6.48,10,6500,0.97,28437
+Hyderabad,Miyapur,3000,Villa,0,6.7,10,22000,6.6,192500
+Hyderabad,Miyapur,1500,Villa,14,6.26,10,10000,1.5,43750
+Hyderabad,Miyapur,1000,Villa,25,0.95,10,5000,0.5,14583
+Hyderabad,Miyapur,2500,Villa,4,7.45,6,17500,4.38,127604
+Hyderabad,Miyapur,1800,Apartment,21,5.27,10,6500,1.17,34125
+Hyderabad,Miyapur,2500,Villa,25,1.12,5,11500,2.88,83854
+Hyderabad,Miyapur,2500,Villa,19,7.25,9,12500,3.12,91145
+Hyderabad,Miyapur,2200,Villa,17,3.18,9,13500,2.97,86625
+Hyderabad,Miyapur,900,Villa,25,3.69,10,5000,0.45,13125
+Hyderabad,Miyapur,3000,Apartment,19,2.1,5,11500,3.45,100625
+Hyderabad,Miyapur,1800,Villa,21,1.99,6,10000,1.8,52500
+Hyderabad,Miyapur,3500,Apartment,19,7.71,9,11500,4.03,117395
+Hyderabad,Miyapur,3500,Villa,21,2.87,7,17500,6.12,178645
+Hyderabad,Miyapur,2500,Apartment,3,4.0,5,13500,3.38,98437
+Hyderabad,Miyapur,1800,Apartment,7,2.3,8,9000,1.62,47250
+Hyderabad,Miyapur,2200,Villa,12,7.81,10,12500,2.75,80208
+Hyderabad,Miyapur,3000,Apartment,22,6.55,7,9500,2.85,83125
+Hyderabad,Miyapur,750,Apartment,15,9.69,7,3500,0.26,7656
+Hyderabad,Miyapur,2500,Apartment,2,8.05,10,14000,3.5,102083
+Hyderabad,Miyapur,1350,Villa,11,7.56,7,10500,1.42,41343
+Hyderabad,Miyapur,2500,Apartment,25,8.17,9,7500,1.88,54687
+Hyderabad,Miyapur,2500,Villa,11,3.58,5,16000,4.0,116666
+Hyderabad,Miyapur,2500,Villa,23,9.3,7,11500,2.88,83854
+Hyderabad,Miyapur,1000,Apartment,9,4.49,10,4500,0.45,13125
+Hyderabad,Miyapur,1200,Villa,0,4.56,10,10500,1.26,36750
+Hyderabad,Miyapur,1200,Apartment,21,2.63,10,4500,0.54,15750
+Hyderabad,Miyapur,1800,Apartment,16,1.48,9,7500,1.35,39375
+Hyderabad,Miyapur,1350,Villa,10,6.56,8,9000,1.22,35437
+Hyderabad,Miyapur,1500,Villa,25,3.07,10,7500,1.12,32812
+Hyderabad,Miyapur,1500,Villa,5,8.51,8,11500,1.73,50312
+Hyderabad,Miyapur,750,Apartment,23,9.21,8,3000,0.23,6562
+Hyderabad,Miyapur,3000,Villa,13,4.77,5,16000,4.8,140000
+Hyderabad,Miyapur,3500,Apartment,6,8.47,7,16500,5.78,168437
+Hyderabad,Miyapur,3500,Apartment,25,6.66,9,11000,3.85,112291
+Hyderabad,Miyapur,1200,Apartment,25,2.02,7,4500,0.54,15750
+Hyderabad,Miyapur,2000,Villa,6,9.39,5,14000,2.8,81666
+Hyderabad,Miyapur,1800,Villa,21,0.72,9,9500,1.71,49875
+Hyderabad,Miyapur,3500,Villa,10,7.34,9,21000,7.35,214375
+Hyderabad,Miyapur,2200,Apartment,18,8.23,7,8500,1.87,54541
+Hyderabad,Miyapur,2200,Apartment,14,8.45,10,8000,1.76,51333
+Hyderabad,Miyapur,3500,Villa,25,7.41,9,18000,6.3,183750
+Hyderabad,Miyapur,3000,Apartment,2,5.23,7,15500,4.65,135625
+Hyderabad,Miyapur,1200,Villa,7,3.19,5,10000,1.2,35000
+Hyderabad,Miyapur,1500,Apartment,11,8.77,9,7000,1.05,30625
+Hyderabad,Miyapur,2200,Apartment,13,6.47,9,8500,1.87,54541
+Hyderabad,Miyapur,2200,Apartment,13,4.78,8,9500,2.09,60958
+Hyderabad,Miyapur,3500,Apartment,17,0.39,9,13500,4.72,137812
+Hyderabad,Miyapur,1350,Villa,15,9.92,6,8000,1.08,31500
+Hyderabad,Miyapur,1500,Villa,10,1.26,9,11000,1.65,48125
+Hyderabad,Miyapur,900,Apartment,11,2.28,8,4500,0.41,11812
+Hyderabad,Miyapur,1200,Villa,6,5.68,9,9500,1.14,33250
+Hyderabad,Miyapur,3000,Villa,20,2.12,8,17000,5.1,148750
+Hyderabad,Miyapur,3500,Villa,15,3.75,10,19500,6.83,199062
+Hyderabad,Miyapur,2500,Apartment,15,0.35,5,11000,2.75,80208
+Hyderabad,Miyapur,3000,Apartment,0,7.68,7,13000,3.9,113750
+Hyderabad,Miyapur,900,Apartment,8,1.74,9,4500,0.41,11812
+Hyderabad,Miyapur,1800,Villa,5,3.26,9,12000,2.16,63000
+Hyderabad,Miyapur,2500,Apartment,17,7.3,9,8000,2.0,58333
+Hyderabad,Miyapur,1200,Villa,8,8.9,9,7500,0.9,26250
+Hyderabad,Miyapur,900,Villa,24,4.3,9,5500,0.49,14437
+Hyderabad,Miyapur,1500,Apartment,13,7.05,10,7500,1.12,32812
+Hyderabad,Miyapur,3500,Apartment,24,1.2,7,10500,3.67,107187
+Hyderabad,Miyapur,900,Villa,14,6.01,7,7000,0.63,18375
+Hyderabad,Miyapur,1000,Apartment,14,0.93,6,4500,0.45,13125
+Hyderabad,Miyapur,1500,Villa,25,5.93,10,8500,1.27,37187
+Hyderabad,Miyapur,3000,Villa,20,6.15,6,17500,5.25,153125
+Hyderabad,Miyapur,3000,Apartment,4,6.86,6,13500,4.05,118125
+Hyderabad,Miyapur,900,Villa,18,8.3,9,6000,0.54,15750
+Hyderabad,Miyapur,1800,Apartment,19,5.13,7,7500,1.35,39375
+Hyderabad,Miyapur,3500,Villa,9,7.16,9,20000,7.0,204166
+Hyderabad,Miyapur,1800,Apartment,16,7.95,6,5500,0.99,28875
+Hyderabad,Miyapur,2500,Villa,1,1.73,10,19500,4.88,142187
+Hyderabad,Miyapur,1200,Apartment,22,3.48,6,4500,0.54,15750
+Hyderabad,Miyapur,1350,Villa,22,2.44,6,7500,1.01,29531
+Hyderabad,Miyapur,3500,Villa,12,6.1,6,20500,7.17,209270
+Hyderabad,Miyapur,3000,Villa,20,4.39,10,16000,4.8,140000
+Hyderabad,Miyapur,2500,Villa,12,6.47,5,14500,3.62,105729
+Hyderabad,Miyapur,3500,Apartment,25,4.28,8,11000,3.85,112291
+Hyderabad,Miyapur,3000,Villa,23,8.45,10,15500,4.65,135625
+Hyderabad,Miyapur,2200,Villa,14,6.0,7,11000,2.42,70583
+Hyderabad,Miyapur,3000,Apartment,0,2.09,10,13000,3.9,113750
+Hyderabad,Miyapur,2500,Villa,20,0.55,5,11500,2.88,83854
+Hyderabad,Miyapur,3000,Apartment,12,0.53,8,11500,3.45,100625
+Hyderabad,Miyapur,1500,Villa,15,5.33,7,10000,1.5,43750
+Hyderabad,Miyapur,1800,Apartment,10,3.2,9,9000,1.62,47250
+Hyderabad,Miyapur,2500,Villa,25,8.47,10,11500,2.88,83854
+Hyderabad,Miyapur,900,Apartment,1,2.11,10,5000,0.45,13125
+Hyderabad,Miyapur,2500,Apartment,0,4.98,6,14000,3.5,102083
+Hyderabad,Miyapur,2500,Apartment,14,1.59,8,10000,2.5,72916
+Hyderabad,Miyapur,1500,Apartment,22,5.12,10,5500,0.82,24062
+Hyderabad,Miyapur,2000,Villa,5,4.54,5,15000,3.0,87500
+Hyderabad,Miyapur,3500,Villa,11,1.84,5,22000,7.7,224583
+Hyderabad,Miyapur,2200,Apartment,21,6.22,5,8000,1.76,51333
+Hyderabad,Miyapur,2200,Villa,20,6.67,10,11000,2.42,70583
+Hyderabad,Miyapur,3500,Apartment,24,9.58,8,10000,3.5,102083
+Hyderabad,Miyapur,3500,Apartment,2,2.7,5,15500,5.42,158229
+Hyderabad,Miyapur,1500,Apartment,15,9.09,6,6000,0.9,26250
+Hyderabad,Miyapur,3000,Villa,7,7.67,5,18000,5.4,157500
+Hyderabad,Miyapur,750,Villa,22,4.66,5,4500,0.34,9843
+Hyderabad,Miyapur,2500,Apartment,22,0.91,8,8500,2.12,61979
+Hyderabad,Miyapur,1000,Villa,7,9.09,5,7500,0.75,21875
+Hyderabad,Miyapur,1200,Villa,3,4.29,7,8500,1.02,29750
+Hyderabad,Miyapur,2000,Villa,4,3.67,6,14500,2.9,84583
+Hyderabad,Miyapur,3500,Apartment,21,5.73,5,11500,4.03,117395
+Hyderabad,Miyapur,3000,Apartment,18,9.39,9,11000,3.3,96250
+Hyderabad,Miyapur,3500,Villa,5,2.82,7,21500,7.53,219479
+Hyderabad,Miyapur,1500,Apartment,20,7.39,8,5500,0.82,24062
+Hyderabad,Miyapur,3000,Villa,21,5.78,6,15500,4.65,135625
+Hyderabad,Miyapur,1000,Apartment,3,4.8,5,5500,0.55,16041
+Hyderabad,Miyapur,3000,Villa,23,3.69,7,14500,4.35,126875
+Hyderabad,Miyapur,2500,Apartment,10,1.41,6,10500,2.62,76562
+Hyderabad,Miyapur,1800,Apartment,20,2.73,6,6500,1.17,34125
+Hyderabad,Miyapur,3000,Villa,19,8.55,10,16500,4.95,144375
+Hyderabad,Miyapur,750,Villa,21,1.41,6,5500,0.41,12031
+Hyderabad,Miyapur,3000,Apartment,19,8.64,10,10500,3.15,91875
+Hyderabad,Miyapur,2200,Apartment,9,7.17,6,10000,2.2,64166
+Hyderabad,Miyapur,2500,Apartment,12,5.57,6,10500,2.62,76562
+Hyderabad,Miyapur,2500,Apartment,20,5.0,9,8500,2.12,61979
+Hyderabad,Miyapur,750,Villa,11,1.91,6,5500,0.41,12031
+Hyderabad,Miyapur,2200,Villa,18,4.29,7,14000,3.08,89833
+Hyderabad,Miyapur,3000,Apartment,21,6.61,8,9500,2.85,83125
+Hyderabad,Miyapur,1000,Apartment,0,5.27,5,6000,0.6,17500
+Hyderabad,Miyapur,1800,Apartment,6,8.12,5,8500,1.53,44625
+Hyderabad,Miyapur,2200,Villa,16,7.93,10,12500,2.75,80208
+Hyderabad,Miyapur,3000,Villa,24,2.25,8,13000,3.9,113750
+Hyderabad,Miyapur,3500,Apartment,12,3.5,10,13500,4.72,137812
+Hyderabad,Miyapur,3000,Apartment,17,7.64,7,10000,3.0,87500
+Hyderabad,Miyapur,1000,Apartment,9,8.81,9,5000,0.5,14583
+Hyderabad,Miyapur,1500,Apartment,25,8.83,9,5000,0.75,21875
+Hyderabad,Miyapur,2000,Apartment,12,4.68,7,9000,1.8,52500
+Hyderabad,Miyapur,3500,Apartment,13,9.85,5,13500,4.72,137812
+Hyderabad,Miyapur,1800,Villa,2,9.12,5,13000,2.34,68250
+Hyderabad,Uppal,2500,Apartment,19,5.53,7,8000,2.0,58333
+Hyderabad,Uppal,3500,Apartment,23,6.67,5,10500,3.67,107187
+Hyderabad,Uppal,750,Apartment,22,8.27,10,3000,0.23,6562
+Hyderabad,Uppal,750,Villa,5,9.66,7,5500,0.41,12031
+Hyderabad,Uppal,3000,Villa,16,2.28,6,13000,3.9,113750
+Hyderabad,Uppal,2200,Villa,4,7.99,10,15000,3.3,96250
+Hyderabad,Uppal,1200,Apartment,24,5.9,7,4500,0.54,15750
+Hyderabad,Uppal,2500,Apartment,8,4.14,7,11000,2.75,80208
+Hyderabad,Uppal,3000,Apartment,20,9.18,8,9000,2.7,78750
+Hyderabad,Uppal,2500,Villa,16,7.05,5,13500,3.38,98437
+Hyderabad,Uppal,2500,Apartment,18,7.99,7,9500,2.38,69270
+Hyderabad,Uppal,1350,Apartment,8,9.09,9,6000,0.81,23625
+Hyderabad,Uppal,3500,Apartment,23,2.99,6,10000,3.5,102083
+Hyderabad,Uppal,3000,Apartment,0,8.97,5,13500,4.05,118125
+Hyderabad,Uppal,1800,Villa,1,6.65,7,13000,2.34,68250
+Hyderabad,Uppal,2200,Apartment,4,6.27,5,9000,1.98,57750
+Hyderabad,Uppal,3000,Villa,25,1.11,6,13000,3.9,113750
+Hyderabad,Uppal,2000,Villa,7,5.2,10,13000,2.6,75833
+Hyderabad,Uppal,2000,Apartment,8,9.68,9,9000,1.8,52500
+Hyderabad,Uppal,2200,Apartment,3,6.78,6,10500,2.31,67375
+Hyderabad,Uppal,1500,Apartment,25,6.46,8,4500,0.68,19687
+Hyderabad,Uppal,1000,Villa,14,0.42,7,6000,0.6,17500
+Hyderabad,Uppal,2000,Villa,2,5.73,5,16000,3.2,93333
+Hyderabad,Uppal,2200,Villa,6,8.94,9,14500,3.19,93041
+Hyderabad,Uppal,2000,Apartment,23,1.07,8,6000,1.2,35000
+Hyderabad,Uppal,2200,Villa,18,8.62,6,12000,2.64,77000
+Hyderabad,Uppal,3000,Apartment,24,8.24,6,10500,3.15,91875
+Hyderabad,Uppal,750,Apartment,13,3.35,6,3500,0.26,7656
+Hyderabad,Uppal,3000,Apartment,11,4.87,7,11500,3.45,100625
+Hyderabad,Uppal,750,Villa,24,3.77,10,4500,0.34,9843
+Hyderabad,Uppal,2000,Apartment,3,5.09,9,9000,1.8,52500
+Hyderabad,Uppal,1800,Villa,13,1.99,5,11500,2.07,60375
+Hyderabad,Uppal,1350,Villa,22,7.21,5,6500,0.88,25593
+Hyderabad,Uppal,900,Villa,7,3.68,10,6500,0.58,17062
+Hyderabad,Uppal,2200,Apartment,14,4.67,9,9000,1.98,57750
+Hyderabad,Uppal,1000,Apartment,16,6.32,10,4500,0.45,13125
+Hyderabad,Uppal,2200,Apartment,2,3.72,8,10500,2.31,67375
+Hyderabad,Uppal,3500,Apartment,4,9.8,7,16500,5.78,168437
+Hyderabad,Uppal,1800,Villa,10,6.45,10,11500,2.07,60375
+Hyderabad,Uppal,2000,Villa,10,3.45,7,11500,2.3,67083
+Hyderabad,Uppal,1800,Apartment,2,6.96,6,8500,1.53,44625
+Hyderabad,Uppal,3000,Apartment,3,8.42,5,14000,4.2,122500
+Hyderabad,Uppal,1350,Villa,14,3.01,7,9000,1.22,35437
+Hyderabad,Uppal,2500,Villa,3,5.27,6,18000,4.5,131250
+Hyderabad,Uppal,2500,Villa,9,3.26,7,16500,4.12,120312
+Hyderabad,Uppal,1200,Apartment,2,9.4,10,5500,0.66,19250
+Hyderabad,Uppal,2000,Apartment,22,8.75,6,7000,1.4,40833
+Hyderabad,Uppal,2000,Apartment,4,6.75,10,10000,2.0,58333
+Hyderabad,Uppal,1800,Villa,11,2.82,9,11500,2.07,60375
+Hyderabad,Uppal,900,Villa,21,5.74,7,5500,0.49,14437
+Hyderabad,Uppal,1350,Villa,0,1.38,8,9000,1.22,35437
+Hyderabad,Uppal,3000,Apartment,23,8.69,5,7500,2.25,65625
+Hyderabad,Uppal,2500,Apartment,3,5.6,5,11500,2.88,83854
+Hyderabad,Uppal,750,Apartment,1,1.37,6,4000,0.3,8750
+Hyderabad,Uppal,1500,Villa,12,4.4,10,9000,1.35,39375
+Hyderabad,Uppal,3500,Apartment,20,8.63,9,11500,4.03,117395
+Hyderabad,Uppal,3000,Apartment,8,3.13,5,12500,3.75,109375
+Hyderabad,Uppal,1000,Villa,6,8.11,6,7500,0.75,21875
+Hyderabad,Uppal,1000,Villa,25,0.47,5,5500,0.55,16041
+Hyderabad,Uppal,900,Apartment,14,3.03,6,4000,0.36,10500
+Hyderabad,Uppal,3000,Villa,13,8.77,8,17000,5.1,148750
+Hyderabad,Uppal,750,Villa,12,5.54,6,5000,0.38,10937
+Hyderabad,Uppal,2200,Apartment,6,1.24,7,8500,1.87,54541
+Hyderabad,Uppal,1800,Apartment,14,6.1,5,7000,1.26,36750
+Hyderabad,Uppal,3000,Apartment,19,3.18,10,11000,3.3,96250
+Hyderabad,Uppal,2000,Villa,15,0.77,9,10500,2.1,61250
+Hyderabad,Uppal,2500,Apartment,1,9.06,7,12500,3.12,91145
+Hyderabad,Uppal,2200,Villa,4,6.05,6,16000,3.52,102666
+Hyderabad,Uppal,3500,Apartment,25,8.96,10,10500,3.67,107187
+Hyderabad,Uppal,3000,Apartment,25,0.64,8,8500,2.55,74375
+Hyderabad,Uppal,2200,Villa,15,5.95,7,11500,2.53,73791
+Hyderabad,Uppal,3000,Villa,16,8.36,8,15500,4.65,135625
+Hyderabad,Uppal,1800,Apartment,5,6.11,7,8500,1.53,44625
+Hyderabad,Uppal,3000,Apartment,7,8.34,7,13000,3.9,113750
+Hyderabad,Uppal,900,Villa,25,8.83,9,5000,0.45,13125
+Hyderabad,Uppal,2200,Apartment,24,4.48,6,8500,1.87,54541
+Hyderabad,Uppal,1200,Apartment,7,3.37,7,6500,0.78,22750
+Hyderabad,Uppal,3000,Apartment,25,6.14,6,8500,2.55,74375
+Hyderabad,Uppal,3000,Villa,25,8.96,7,15000,4.5,131250
+Hyderabad,Uppal,1350,Apartment,5,6.42,9,6000,0.81,23625
+Hyderabad,Uppal,2000,Villa,25,6.04,9,8500,1.7,49583
+Hyderabad,Uppal,750,Villa,22,5.27,9,4500,0.34,9843
+Hyderabad,Uppal,3000,Apartment,4,1.31,8,13000,3.9,113750
+Hyderabad,Uppal,3000,Apartment,9,6.63,8,10000,3.0,87500
+Hyderabad,Uppal,900,Apartment,2,9.52,6,5500,0.49,14437
+Hyderabad,Uppal,3000,Apartment,7,5.21,9,13000,3.9,113750
+Hyderabad,Uppal,2500,Villa,0,6.45,9,17500,4.38,127604
+Hyderabad,Uppal,1500,Apartment,25,3.81,7,5000,0.75,21875
+Hyderabad,Uppal,1500,Villa,25,4.88,5,7000,1.05,30625
+Hyderabad,Uppal,750,Apartment,4,2.2,5,3500,0.26,7656
+Hyderabad,Uppal,3000,Apartment,11,6.22,7,11000,3.3,96250
+Hyderabad,Uppal,3500,Villa,21,5.31,9,15000,5.25,153125
+Hyderabad,Uppal,1200,Villa,10,0.35,7,8500,1.02,29750
+Hyderabad,Uppal,1200,Villa,5,5.85,10,8500,1.02,29750
+Hyderabad,Uppal,2500,Villa,20,5.27,6,12500,3.12,91145
+Hyderabad,Uppal,3500,Villa,17,4.15,6,17000,5.95,173541
+Hyderabad,Uppal,3500,Apartment,18,1.14,8,11000,3.85,112291
+Hyderabad,Uppal,2000,Villa,23,3.65,6,9500,1.9,55416
+Hyderabad,Uppal,1500,Apartment,23,5.22,10,5000,0.75,21875
+Hyderabad,Uppal,3000,Apartment,12,7.11,6,12500,3.75,109375
+Hyderabad,Uppal,3000,Apartment,10,9.93,10,11500,3.45,100625
+Hyderabad,Uppal,3000,Villa,3,4.13,6,18500,5.55,161875
+Hyderabad,Uppal,2000,Apartment,23,4.39,6,7000,1.4,40833
+Hyderabad,Uppal,2200,Apartment,10,7.23,10,9000,1.98,57750
+Hyderabad,Uppal,1000,Villa,22,6.2,8,6000,0.6,17500
+Hyderabad,Uppal,750,Apartment,8,9.56,6,3500,0.26,7656
+Hyderabad,Uppal,3500,Villa,2,8.27,7,23000,8.05,234791
+Hyderabad,Uppal,1200,Apartment,23,6.96,5,4000,0.48,14000
+Hyderabad,Uppal,2200,Villa,14,1.41,6,11500,2.53,73791
+Hyderabad,Uppal,2500,Villa,15,3.88,7,11000,2.75,80208
+Hyderabad,Uppal,3000,Apartment,12,1.47,8,13000,3.9,113750
+Hyderabad,Uppal,3000,Apartment,20,0.99,6,9500,2.85,83125
+Hyderabad,Uppal,2500,Apartment,2,1.08,7,12000,3.0,87500
+Hyderabad,Uppal,750,Villa,10,6.79,5,5500,0.41,12031
+Hyderabad,Uppal,1000,Apartment,10,6.88,8,5000,0.5,14583
+Hyderabad,Uppal,1350,Apartment,23,0.4,9,4000,0.54,15750
+Hyderabad,Uppal,1000,Villa,10,6.47,10,7000,0.7,20416
+Hyderabad,Uppal,900,Apartment,13,8.77,9,4500,0.41,11812
+Hyderabad,Uppal,2500,Apartment,5,7.32,5,11000,2.75,80208
+Hyderabad,Uppal,2000,Apartment,6,1.68,8,8500,1.7,49583
+Hyderabad,Uppal,3500,Villa,17,0.41,10,15000,5.25,153125
+Hyderabad,Uppal,1800,Apartment,9,5.01,5,7500,1.35,39375
+Hyderabad,Uppal,900,Villa,12,5.9,6,5000,0.45,13125
+Hyderabad,Uppal,900,Apartment,11,7.37,8,4500,0.41,11812
+Hyderabad,Uppal,1000,Villa,9,6.63,6,7000,0.7,20416
+Hyderabad,Uppal,1000,Apartment,0,4.47,6,6000,0.6,17500
+Hyderabad,Uppal,3500,Apartment,9,6.83,8,13000,4.55,132708
+Hyderabad,Uppal,1200,Villa,9,7.95,8,7500,0.9,26250
+Hyderabad,Uppal,2500,Villa,21,4.63,5,12500,3.12,91145
+Hyderabad,Uppal,3500,Villa,17,8.62,6,18000,6.3,183750
+Hyderabad,Uppal,2200,Villa,12,9.19,6,11000,2.42,70583
+Hyderabad,Uppal,2500,Villa,1,5.95,8,16000,4.0,116666
+Hyderabad,Uppal,2500,Apartment,8,3.9,7,12000,3.0,87500
+Hyderabad,Uppal,3000,Apartment,1,6.98,10,14500,4.35,126875
+Hyderabad,Uppal,3500,Apartment,3,3.93,10,15000,5.25,153125
+Hyderabad,Uppal,2200,Villa,25,1.68,9,9000,1.98,57750
+Hyderabad,Uppal,1500,Apartment,17,8.93,8,5500,0.82,24062
+Hyderabad,Uppal,3000,Villa,13,0.55,9,16000,4.8,140000
+Hyderabad,Uppal,1800,Villa,15,6.56,5,9000,1.62,47250
+Hyderabad,Uppal,2200,Apartment,22,1.0,9,8000,1.76,51333
+Hyderabad,Uppal,3000,Apartment,16,4.27,5,11500,3.45,100625
+Hyderabad,Uppal,2500,Apartment,5,6.18,6,10000,2.5,72916
+Hyderabad,Uppal,1500,Apartment,4,3.84,8,8500,1.27,37187
+Hyderabad,Uppal,1000,Villa,21,1.66,6,5500,0.55,16041
+Hyderabad,Uppal,3500,Villa,4,5.01,7,22000,7.7,224583
+Hyderabad,Uppal,1000,Villa,2,9.65,9,7500,0.75,21875
+Hyderabad,Uppal,2200,Villa,17,4.03,7,10500,2.31,67375
+Hyderabad,Uppal,3000,Apartment,14,0.53,10,11000,3.3,96250
+Hyderabad,Uppal,3500,Villa,18,7.64,5,14500,5.08,148020
+Hyderabad,Uppal,2500,Apartment,4,9.03,9,11000,2.75,80208
+Hyderabad,LB Nagar,3000,Apartment,18,1.43,5,10000,3.0,87500
+Hyderabad,LB Nagar,3000,Apartment,24,8.92,7,9000,2.7,78750
+Hyderabad,LB Nagar,3000,Villa,11,6.15,7,14500,4.35,126875
+Hyderabad,LB Nagar,2200,Villa,20,3.6,9,9500,2.09,60958
+Hyderabad,LB Nagar,3000,Apartment,15,5.55,6,10500,3.15,91875
+Hyderabad,LB Nagar,1800,Apartment,12,5.55,9,6500,1.17,34125
+Hyderabad,LB Nagar,3000,Villa,21,7.69,5,13000,3.9,113750
+Hyderabad,LB Nagar,2200,Apartment,10,3.23,5,9500,2.09,60958
+Hyderabad,LB Nagar,2500,Villa,8,2.82,5,13500,3.38,98437
+Hyderabad,LB Nagar,2000,Villa,25,9.67,7,8000,1.6,46666
+Hyderabad,LB Nagar,1800,Apartment,15,5.71,6,7500,1.35,39375
+Hyderabad,LB Nagar,1200,Villa,9,1.65,7,6500,0.78,22750
+Hyderabad,LB Nagar,1800,Villa,23,4.61,9,8000,1.44,42000
+Hyderabad,LB Nagar,3500,Apartment,2,4.2,8,18000,6.3,183750
+Hyderabad,LB Nagar,1500,Villa,13,9.94,9,9000,1.35,39375
+Hyderabad,LB Nagar,2200,Apartment,1,5.82,5,11000,2.42,70583
+Hyderabad,LB Nagar,2000,Villa,22,6.32,6,9000,1.8,52500
+Hyderabad,LB Nagar,3000,Apartment,18,0.68,6,9000,2.7,78750
+Hyderabad,LB Nagar,1500,Apartment,6,4.91,6,6000,0.9,26250
+Hyderabad,LB Nagar,900,Apartment,14,9.65,7,4000,0.36,10500
+Hyderabad,LB Nagar,3500,Villa,6,9.12,7,21000,7.35,214375
+Hyderabad,LB Nagar,2500,Villa,16,8.74,10,14500,3.62,105729
+Hyderabad,LB Nagar,1200,Apartment,21,1.57,6,4000,0.48,14000
+Hyderabad,LB Nagar,2200,Villa,15,8.0,6,12000,2.64,77000
+Hyderabad,LB Nagar,2500,Villa,18,2.97,7,12000,3.0,87500
+Hyderabad,LB Nagar,1350,Apartment,8,9.82,7,5500,0.74,21656
+Hyderabad,LB Nagar,750,Apartment,12,4.99,6,3500,0.26,7656
+Hyderabad,LB Nagar,3000,Apartment,24,3.94,6,9500,2.85,83125
+Hyderabad,LB Nagar,3500,Apartment,7,3.07,7,14500,5.08,148020
+Hyderabad,LB Nagar,3500,Apartment,13,4.05,10,11500,4.03,117395
+Hyderabad,LB Nagar,750,Apartment,15,5.26,10,4000,0.3,8750
+Hyderabad,LB Nagar,1350,Apartment,19,8.7,6,5000,0.68,19687
+Hyderabad,LB Nagar,1800,Villa,19,9.81,10,10000,1.8,52500
+Hyderabad,LB Nagar,3500,Villa,8,7.72,8,19000,6.65,193958
+Hyderabad,LB Nagar,2200,Villa,14,5.86,6,13000,2.86,83416
+Hyderabad,LB Nagar,2500,Villa,9,8.96,9,14500,3.62,105729
+Hyderabad,LB Nagar,1200,Villa,0,0.91,9,9000,1.08,31500
+Hyderabad,LB Nagar,3500,Villa,19,5.25,7,17500,6.12,178645
+Hyderabad,LB Nagar,3500,Villa,3,6.38,5,25000,8.75,255208
+Hyderabad,LB Nagar,2000,Villa,8,7.31,7,12000,2.4,70000
+Hyderabad,LB Nagar,1800,Villa,20,7.02,6,8500,1.53,44625
+Hyderabad,LB Nagar,1350,Apartment,16,3.78,5,5000,0.68,19687
+Hyderabad,LB Nagar,3000,Villa,12,8.1,10,15000,4.5,131250
+Hyderabad,LB Nagar,1200,Apartment,23,9.59,10,4000,0.48,14000
+Hyderabad,LB Nagar,2500,Villa,9,0.39,8,14000,3.5,102083
+Hyderabad,LB Nagar,2500,Apartment,12,0.44,9,10000,2.5,72916
+Hyderabad,LB Nagar,3500,Apartment,18,7.46,7,12000,4.2,122500
+Hyderabad,LB Nagar,1500,Villa,21,1.69,10,8000,1.2,35000
+Hyderabad,LB Nagar,2200,Villa,16,7.61,6,12000,2.64,77000
+Hyderabad,LB Nagar,3500,Apartment,17,7.73,7,12500,4.38,127604
+Hyderabad,LB Nagar,1000,Apartment,15,8.51,10,4000,0.4,11666
+Hyderabad,LB Nagar,1800,Apartment,23,5.03,10,6000,1.08,31500
+Hyderabad,LB Nagar,2000,Apartment,20,1.05,6,6000,1.2,35000
+Hyderabad,LB Nagar,2200,Villa,7,0.94,8,12000,2.64,77000
+Hyderabad,LB Nagar,2000,Villa,11,3.68,9,11500,2.3,67083
+Hyderabad,LB Nagar,2000,Apartment,14,9.49,8,7500,1.5,43750
+Hyderabad,LB Nagar,900,Apartment,20,1.0,8,3500,0.32,9187
+Hyderabad,LB Nagar,1500,Apartment,16,3.21,10,6000,0.9,26250
+Hyderabad,LB Nagar,2200,Villa,16,1.05,8,13000,2.86,83416
+Hyderabad,LB Nagar,900,Apartment,4,7.16,6,4500,0.41,11812
+Hyderabad,LB Nagar,2200,Villa,13,0.79,6,12000,2.64,77000
+Hyderabad,LB Nagar,2000,Apartment,22,3.16,5,6000,1.2,35000
+Hyderabad,LB Nagar,2500,Apartment,10,2.55,7,10500,2.62,76562
+Hyderabad,LB Nagar,3500,Apartment,1,9.31,8,14500,5.08,148020
+Hyderabad,LB Nagar,1800,Apartment,6,4.23,9,8000,1.44,42000
+Hyderabad,LB Nagar,1350,Apartment,15,4.92,6,5500,0.74,21656
+Hyderabad,LB Nagar,3000,Villa,13,2.49,8,16000,4.8,140000
+Hyderabad,LB Nagar,2500,Villa,15,6.15,5,13000,3.25,94791
+Hyderabad,LB Nagar,900,Apartment,17,3.77,10,3500,0.32,9187
+Hyderabad,LB Nagar,2200,Villa,0,8.92,9,15500,3.41,99458
+Hyderabad,LB Nagar,1500,Apartment,0,5.18,10,9000,1.35,39375
+Hyderabad,LB Nagar,1800,Villa,7,6.36,7,10000,1.8,52500
+Hyderabad,LB Nagar,1200,Villa,3,1.0,9,8000,0.96,28000
+Hyderabad,LB Nagar,3000,Apartment,9,7.23,5,12500,3.75,109375
+Hyderabad,LB Nagar,900,Villa,9,8.28,8,6000,0.54,15750
+Hyderabad,LB Nagar,3000,Villa,19,5.35,8,15500,4.65,135625
+Hyderabad,LB Nagar,3500,Villa,4,1.69,8,20000,7.0,204166
+Hyderabad,LB Nagar,2200,Apartment,24,5.12,6,7000,1.54,44916
+Hyderabad,LB Nagar,2500,Apartment,0,3.06,6,12000,3.0,87500
+Hyderabad,LB Nagar,1200,Apartment,6,0.83,9,5000,0.6,17500
+Hyderabad,LB Nagar,3000,Apartment,5,7.56,7,12000,3.6,105000
+Hyderabad,LB Nagar,3500,Apartment,25,2.98,8,9500,3.33,96979
+Hyderabad,LB Nagar,3500,Apartment,8,7.16,9,12500,4.38,127604
+Hyderabad,LB Nagar,900,Apartment,21,1.29,10,3500,0.32,9187
+Hyderabad,LB Nagar,750,Apartment,1,3.79,8,4500,0.34,9843
+Hyderabad,LB Nagar,2500,Apartment,12,3.34,9,9000,2.25,65625
+Hyderabad,LB Nagar,1800,Apartment,15,7.95,6,6500,1.17,34125
+Hyderabad,LB Nagar,3500,Apartment,21,9.13,7,11500,4.03,117395
+Hyderabad,LB Nagar,2500,Apartment,21,3.96,10,8000,2.0,58333
+Hyderabad,LB Nagar,3000,Apartment,8,4.06,8,14000,4.2,122500
+Hyderabad,LB Nagar,1200,Apartment,16,6.44,7,5000,0.6,17500
+Hyderabad,LB Nagar,1200,Apartment,25,6.76,8,3500,0.42,12250
+Hyderabad,LB Nagar,1500,Apartment,19,9.67,7,5000,0.75,21875
+Hyderabad,LB Nagar,3000,Villa,6,1.32,10,19500,5.85,170625
+Hyderabad,LB Nagar,2500,Apartment,9,7.88,5,9500,2.38,69270
+Hyderabad,LB Nagar,3000,Apartment,15,3.79,10,10500,3.15,91875
+Hyderabad,LB Nagar,2500,Apartment,10,9.58,5,7500,1.88,54687
+Hyderabad,LB Nagar,750,Apartment,21,4.74,5,3000,0.23,6562
+Hyderabad,LB Nagar,3000,Villa,21,2.33,6,12000,3.6,105000
+Hyderabad,LB Nagar,1000,Apartment,24,0.81,10,3000,0.3,8750
+Hyderabad,LB Nagar,1200,Apartment,8,7.75,8,6000,0.72,21000
+Hyderabad,LB Nagar,2000,Villa,8,8.55,5,12000,2.4,70000
+Hyderabad,LB Nagar,1200,Apartment,5,2.36,7,5500,0.66,19250
+Hyderabad,LB Nagar,2200,Villa,25,8.84,8,11000,2.42,70583
+Hyderabad,LB Nagar,1200,Apartment,3,2.39,5,6500,0.78,22750
+Hyderabad,LB Nagar,1200,Apartment,21,3.16,7,5000,0.6,17500
+Hyderabad,LB Nagar,2200,Villa,14,1.63,10,13000,2.86,83416
+Hyderabad,LB Nagar,1000,Villa,11,3.36,6,7000,0.7,20416
+Hyderabad,LB Nagar,1200,Villa,12,6.55,8,8500,1.02,29750
+Hyderabad,LB Nagar,1800,Villa,12,2.23,8,10000,1.8,52500
+Hyderabad,LB Nagar,3500,Apartment,25,8.94,5,9000,3.15,91875
+Hyderabad,LB Nagar,1200,Apartment,22,0.86,6,3500,0.42,12250
+Hyderabad,LB Nagar,1200,Villa,13,1.38,9,6500,0.78,22750
+Hyderabad,LB Nagar,3500,Apartment,14,8.4,9,12500,4.38,127604
+Hyderabad,LB Nagar,2200,Villa,24,0.44,9,8500,1.87,54541
+Hyderabad,LB Nagar,750,Apartment,21,0.49,8,2500,0.19,5468
+Hyderabad,LB Nagar,2500,Villa,3,1.51,8,16000,4.0,116666
+Hyderabad,LB Nagar,900,Villa,2,4.22,10,5500,0.49,14437
+Hyderabad,LB Nagar,2000,Apartment,0,5.45,10,9500,1.9,55416
+Hyderabad,LB Nagar,2000,Apartment,16,4.8,8,7500,1.5,43750
+Hyderabad,LB Nagar,3500,Apartment,23,9.65,8,12000,4.2,122500
+Hyderabad,LB Nagar,2200,Villa,21,3.33,6,10500,2.31,67375
+Hyderabad,LB Nagar,3000,Apartment,19,7.81,5,10000,3.0,87500
+Hyderabad,LB Nagar,3500,Villa,5,9.77,8,23500,8.22,239895
+Hyderabad,LB Nagar,1350,Villa,2,1.52,7,9500,1.28,37406
+Hyderabad,LB Nagar,1800,Villa,10,2.88,5,11000,1.98,57750
+Hyderabad,LB Nagar,3000,Villa,7,0.47,8,19000,5.7,166250
+Hyderabad,LB Nagar,1800,Villa,2,5.32,8,11500,2.07,60375
+Hyderabad,LB Nagar,3000,Apartment,14,3.68,8,11500,3.45,100625
+Hyderabad,LB Nagar,2500,Apartment,10,9.75,8,9000,2.25,65625
+Hyderabad,LB Nagar,3500,Apartment,0,8.52,8,16500,5.78,168437
+Hyderabad,LB Nagar,2500,Apartment,1,4.74,5,12000,3.0,87500
+Hyderabad,LB Nagar,3000,Villa,19,4.16,9,13500,4.05,118125
+Hyderabad,LB Nagar,3000,Villa,6,2.51,7,17500,5.25,153125
+Hyderabad,LB Nagar,2200,Apartment,1,2.69,8,11500,2.53,73791
+Hyderabad,LB Nagar,2000,Villa,17,4.9,10,10500,2.1,61250
+Hyderabad,LB Nagar,3500,Villa,11,0.86,5,19500,6.83,199062
+Hyderabad,LB Nagar,1000,Apartment,24,1.03,5,3500,0.35,10208
+Hyderabad,LB Nagar,2000,Villa,11,3.85,9,11000,2.2,64166
+Hyderabad,LB Nagar,3000,Apartment,11,1.67,5,11000,3.3,96250
+Hyderabad,LB Nagar,1350,Apartment,15,6.34,10,5500,0.74,21656
+Hyderabad,LB Nagar,2500,Villa,3,1.73,9,18000,4.5,131250
+Hyderabad,LB Nagar,1500,Apartment,6,8.17,8,6000,0.9,26250
+Hyderabad,LB Nagar,1500,Apartment,14,6.84,10,6500,0.97,28437
+Hyderabad,LB Nagar,2000,Villa,3,2.82,5,14000,2.8,81666
+Hyderabad,LB Nagar,3500,Apartment,21,3.12,8,10500,3.67,107187
+Hyderabad,LB Nagar,2500,Apartment,21,4.86,8,8000,2.0,58333
+Hyderabad,LB Nagar,750,Apartment,16,0.9,9,3500,0.26,7656
+Hyderabad,LB Nagar,2500,Villa,18,1.73,9,11000,2.75,80208
+Hyderabad,LB Nagar,1350,Apartment,22,9.59,10,4500,0.61,17718
+Bengaluru,Whitefield,1200,Villa,3,5.44,10,14500,1.74,46400
+Bengaluru,Whitefield,3000,Villa,19,6.89,9,20500,6.15,164000
+Bengaluru,Whitefield,2200,Apartment,13,1.04,7,15000,3.3,88000
+Bengaluru,Whitefield,2200,Villa,10,4.76,8,20500,4.51,120266
+Bengaluru,Whitefield,1200,Villa,4,5.6,9,13500,1.62,43200
+Bengaluru,Whitefield,3500,Villa,23,1.91,10,24500,8.57,228666
+Bengaluru,Whitefield,3000,Apartment,10,4.62,6,20000,6.0,160000
+Bengaluru,Whitefield,1500,Villa,19,2.65,10,13500,2.02,54000
+Bengaluru,Whitefield,2200,Apartment,21,9.62,10,12000,2.64,70400
+Bengaluru,Whitefield,3500,Villa,5,2.82,10,36000,12.6,336000
+Bengaluru,Whitefield,1200,Villa,24,4.54,9,9000,1.08,28800
+Bengaluru,Whitefield,2500,Villa,18,6.34,10,21000,5.25,140000
+Bengaluru,Whitefield,3000,Villa,9,9.82,5,30000,9.0,240000
+Bengaluru,Whitefield,3000,Apartment,3,9.11,8,21000,6.3,168000
+Bengaluru,Whitefield,1350,Apartment,1,9.45,6,11500,1.55,41400
+Bengaluru,Whitefield,1800,Apartment,24,9.78,7,10000,1.8,48000
+Bengaluru,Whitefield,3500,Apartment,8,7.65,5,23000,8.05,214666
+Bengaluru,Whitefield,3500,Villa,25,7.27,6,21500,7.53,200666
+Bengaluru,Whitefield,3000,Villa,1,2.7,8,36500,10.95,292000
+Bengaluru,Whitefield,1200,Apartment,19,1.88,10,8000,0.96,25600
+Bengaluru,Whitefield,3500,Villa,17,5.78,6,28000,9.8,261333
+Bengaluru,Whitefield,3000,Villa,25,0.42,10,23500,7.05,188000
+Bengaluru,Whitefield,3500,Villa,1,0.39,8,39000,13.65,364000
+Bengaluru,Whitefield,2500,Villa,25,2.52,9,17500,4.38,116666
+Bengaluru,Whitefield,900,Villa,0,6.45,6,11500,1.03,27600
+Bengaluru,Whitefield,3000,Villa,24,8.53,6,19500,5.85,156000
+Bengaluru,Whitefield,3500,Villa,22,7.37,9,25000,8.75,233333
+Bengaluru,Whitefield,3000,Apartment,23,0.58,10,14000,4.2,112000
+Bengaluru,Whitefield,1500,Villa,9,4.96,6,15000,2.25,60000
+Bengaluru,Whitefield,3500,Apartment,2,3.1,6,26000,9.1,242666
+Bengaluru,Whitefield,3000,Villa,3,4.16,5,28500,8.55,228000
+Bengaluru,Whitefield,2500,Villa,8,7.62,6,22000,5.5,146666
+Bengaluru,Whitefield,1350,Villa,18,9.21,5,12500,1.69,45000
+Bengaluru,Whitefield,2000,Apartment,14,3.76,5,13500,2.7,72000
+Bengaluru,Whitefield,1350,Apartment,10,7.94,10,10000,1.35,36000
+Bengaluru,Whitefield,3000,Villa,21,3.78,8,20000,6.0,160000
+Bengaluru,Whitefield,3000,Villa,17,6.67,5,23500,7.05,188000
+Bengaluru,Whitefield,3500,Apartment,10,9.21,6,21000,7.35,196000
+Bengaluru,Whitefield,3000,Apartment,2,1.29,8,19500,5.85,156000
+Bengaluru,Whitefield,3000,Villa,17,0.68,5,25000,7.5,200000
+Bengaluru,Whitefield,2200,Apartment,7,0.65,10,16000,3.52,93866
+Bengaluru,Whitefield,2000,Villa,10,3.04,7,19500,3.9,104000
+Bengaluru,Whitefield,1500,Villa,24,9.52,9,10500,1.57,42000
+Bengaluru,Whitefield,3500,Apartment,0,5.93,10,30000,10.5,280000
+Bengaluru,Whitefield,2200,Apartment,14,5.31,10,13000,2.86,76266
+Bengaluru,Whitefield,3000,Apartment,19,3.72,5,17500,5.25,140000
+Bengaluru,Whitefield,3500,Villa,10,8.97,5,36000,12.6,336000
+Bengaluru,Whitefield,2200,Villa,8,4.92,5,21500,4.73,126133
+Bengaluru,Whitefield,3000,Villa,24,5.13,9,22000,6.6,176000
+Bengaluru,Whitefield,3000,Villa,14,2.11,5,23500,7.05,188000
+Bengaluru,Whitefield,2000,Apartment,20,3.52,7,11000,2.2,58666
+Bengaluru,Whitefield,3000,Apartment,2,0.99,6,23000,6.9,184000
+Bengaluru,Whitefield,3000,Apartment,17,0.97,10,17000,5.1,136000
+Bengaluru,Whitefield,1000,Apartment,6,4.27,10,8500,0.85,22666
+Bengaluru,Whitefield,2500,Apartment,3,8.17,9,18000,4.5,120000
+Bengaluru,Whitefield,3500,Villa,23,7.03,10,26500,9.28,247333
+Bengaluru,Whitefield,1000,Apartment,23,7.78,5,5500,0.55,14666
+Bengaluru,Whitefield,2500,Villa,22,8.8,5,19500,4.88,130000
+Bengaluru,Whitefield,1000,Apartment,2,5.53,6,8500,0.85,22666
+Bengaluru,Whitefield,1800,Apartment,17,0.66,9,9500,1.71,45600
+Bengaluru,Whitefield,1500,Villa,8,1.54,8,17000,2.55,68000
+Bengaluru,Whitefield,2500,Villa,20,0.83,8,16000,4.0,106666
+Bengaluru,Whitefield,2000,Villa,0,9.74,10,22000,4.4,117333
+Bengaluru,Whitefield,1200,Apartment,17,3.25,10,7000,0.84,22400
+Bengaluru,Whitefield,3000,Apartment,2,2.54,10,24500,7.35,196000
+Bengaluru,Whitefield,1000,Apartment,11,8.53,7,8000,0.8,21333
+Bengaluru,Whitefield,3500,Apartment,9,4.4,7,20500,7.17,191333
+Bengaluru,Whitefield,2500,Villa,12,7.21,10,21000,5.25,140000
+Bengaluru,Whitefield,900,Apartment,15,8.22,9,6000,0.54,14400
+Bengaluru,Whitefield,1500,Villa,4,9.05,9,15500,2.33,62000
+Bengaluru,Whitefield,2000,Apartment,20,8.12,7,12500,2.5,66666
+Bengaluru,Whitefield,3500,Villa,25,6.71,5,20500,7.17,191333
+Bengaluru,Whitefield,3000,Apartment,17,1.06,5,19500,5.85,156000
+Bengaluru,Whitefield,900,Villa,0,1.92,9,12500,1.12,30000
+Bengaluru,Whitefield,3000,Villa,2,7.87,6,33500,10.05,268000
+Bengaluru,Whitefield,2200,Villa,6,0.71,10,23500,5.17,137866
+Bengaluru,Whitefield,3000,Apartment,4,2.87,6,19000,5.7,152000
+Bengaluru,Whitefield,1500,Villa,19,7.23,6,14000,2.1,56000
+Bengaluru,Whitefield,1200,Apartment,5,7.66,9,9500,1.14,30400
+Bengaluru,Whitefield,2500,Apartment,20,5.24,7,12500,3.12,83333
+Bengaluru,Whitefield,3500,Villa,2,3.88,5,40000,14.0,373333
+Bengaluru,Whitefield,1500,Villa,23,4.78,7,13000,1.95,52000
+Bengaluru,Whitefield,2200,Apartment,4,9.23,5,18000,3.96,105600
+Bengaluru,Whitefield,1800,Apartment,19,8.66,6,11500,2.07,55200
+Bengaluru,Whitefield,2000,Villa,15,2.96,7,17500,3.5,93333
+Bengaluru,Whitefield,3000,Villa,21,3.65,10,23500,7.05,188000
+Bengaluru,Whitefield,3000,Villa,4,3.56,7,34000,10.2,272000
+Bengaluru,Whitefield,2500,Apartment,5,5.75,7,19500,4.88,130000
+Bengaluru,Whitefield,1800,Apartment,25,9.49,10,7500,1.35,36000
+Bengaluru,Whitefield,3500,Villa,13,1.88,7,30500,10.68,284666
+Bengaluru,Whitefield,1200,Villa,21,7.93,8,10000,1.2,32000
+Bengaluru,Whitefield,2500,Villa,14,0.54,7,25000,6.25,166666
+Bengaluru,Whitefield,2500,Apartment,17,8.44,6,14500,3.62,96666
+Bengaluru,Whitefield,3500,Apartment,19,2.58,7,19500,6.83,182000
+Bengaluru,Whitefield,1200,Apartment,17,7.14,7,8000,0.96,25600
+Bengaluru,Whitefield,3500,Apartment,2,9.68,5,28000,9.8,261333
+Bengaluru,Whitefield,3000,Apartment,20,0.8,9,18500,5.55,148000
+Bengaluru,Whitefield,3000,Apartment,12,8.67,5,19000,5.7,152000
+Bengaluru,Whitefield,3000,Villa,8,2.04,10,30000,9.0,240000
+Bengaluru,Whitefield,1350,Villa,11,4.15,6,15500,2.09,55800
+Bengaluru,Whitefield,3000,Villa,23,1.58,6,20000,6.0,160000
+Bengaluru,Whitefield,2500,Apartment,16,8.75,8,13500,3.38,90000
+Bengaluru,Whitefield,2200,Apartment,16,6.83,10,12500,2.75,73333
+Bengaluru,Whitefield,1800,Apartment,25,6.36,9,10000,1.8,48000
+Bengaluru,Whitefield,1200,Apartment,14,5.85,6,8500,1.02,27200
+Bengaluru,Whitefield,3000,Apartment,18,3.09,10,16000,4.8,128000
+Bengaluru,Whitefield,2500,Apartment,11,3.28,6,18000,4.5,120000
+Bengaluru,Whitefield,2500,Apartment,7,3.54,7,15500,3.88,103333
+Bengaluru,Whitefield,2200,Apartment,7,7.41,10,15000,3.3,88000
+Bengaluru,Whitefield,1500,Villa,16,7.9,8,14000,2.1,56000
+Bengaluru,Whitefield,2500,Apartment,14,3.07,5,17500,4.38,116666
+Bengaluru,Whitefield,3500,Apartment,10,3.52,10,21000,7.35,196000
+Bengaluru,Whitefield,3000,Villa,20,0.85,10,24000,7.2,192000
+Bengaluru,Whitefield,1800,Apartment,18,6.52,8,10500,1.89,50400
+Bengaluru,Whitefield,3500,Villa,12,6.81,9,28000,9.8,261333
+Bengaluru,Whitefield,3500,Villa,2,4.36,8,38000,13.3,354666
+Bengaluru,Whitefield,1500,Villa,16,7.58,7,13500,2.02,54000
+Bengaluru,Whitefield,2200,Villa,15,2.98,9,19000,4.18,111466
+Bengaluru,Whitefield,750,Apartment,16,4.49,8,5000,0.38,10000
+Bengaluru,Whitefield,1350,Apartment,7,9.72,9,10500,1.42,37800
+Bengaluru,Whitefield,3500,Apartment,8,1.4,6,26000,9.1,242666
+Bengaluru,Whitefield,1500,Villa,5,7.13,9,16000,2.4,64000
+Bengaluru,Whitefield,1200,Apartment,21,4.4,8,6500,0.78,20800
+Bengaluru,Whitefield,2000,Apartment,23,2.86,8,9000,1.8,48000
+Bengaluru,Whitefield,3500,Villa,15,2.29,6,25000,8.75,233333
+Bengaluru,Whitefield,3000,Villa,5,3.09,5,30500,9.15,244000
+Bengaluru,Whitefield,1800,Apartment,1,6.67,9,14500,2.61,69600
+Bengaluru,Whitefield,3000,Apartment,5,1.05,10,22000,6.6,176000
+Bengaluru,Whitefield,3000,Apartment,1,1.03,5,22500,6.75,180000
+Bengaluru,Whitefield,1350,Apartment,8,1.19,9,10500,1.42,37800
+Bengaluru,Whitefield,2500,Apartment,19,6.11,10,15500,3.88,103333
+Bengaluru,Whitefield,3500,Apartment,9,2.89,6,25000,8.75,233333
+Bengaluru,Whitefield,2500,Villa,19,0.45,8,22500,5.62,150000
+Bengaluru,Whitefield,1350,Villa,7,6.22,9,16500,2.23,59400
+Bengaluru,Whitefield,1350,Apartment,25,3.34,9,7500,1.01,27000
+Bengaluru,Whitefield,3500,Villa,16,8.7,6,25000,8.75,233333
+Bengaluru,Whitefield,3500,Villa,10,9.48,9,31500,11.03,294000
+Bengaluru,Whitefield,3000,Apartment,2,6.0,8,22500,6.75,180000
+Bengaluru,Whitefield,2200,Apartment,4,7.1,5,15500,3.41,90933
+Bengaluru,Whitefield,1500,Villa,16,0.45,6,16000,2.4,64000
+Bengaluru,Whitefield,3000,Apartment,3,5.95,8,21500,6.45,172000
+Bengaluru,Whitefield,3000,Apartment,19,9.59,9,14000,4.2,112000
+Bengaluru,Whitefield,3000,Apartment,24,4.17,5,14000,4.2,112000
+Bengaluru,Whitefield,2500,Apartment,21,6.82,9,14000,3.5,93333
+Bengaluru,Whitefield,3000,Villa,0,9.78,9,31000,9.3,248000
+Bengaluru,Whitefield,2500,Apartment,11,7.56,10,16000,4.0,106666
+Bengaluru,Whitefield,3000,Apartment,13,9.17,8,16000,4.8,128000
+Bengaluru,Whitefield,2200,Apartment,11,4.51,8,14000,3.08,82133
+Bengaluru,Whitefield,1200,Villa,8,7.32,6,13500,1.62,43200
+Bengaluru,Whitefield,1000,Villa,9,6.25,7,11000,1.1,29333
+Bengaluru,Electronic City,1500,Apartment,0,6.49,9,12000,1.8,48000
+Bengaluru,Electronic City,3000,Apartment,3,1.19,8,17500,5.25,140000
+Bengaluru,Electronic City,3500,Villa,6,2.23,8,31000,10.85,289333
+Bengaluru,Electronic City,2200,Apartment,3,0.43,8,15500,3.41,90933
+Bengaluru,Electronic City,3500,Villa,18,2.71,7,23000,8.05,214666
+Bengaluru,Electronic City,3000,Villa,13,2.7,9,22000,6.6,176000
+Bengaluru,Electronic City,1800,Villa,21,0.91,6,14500,2.61,69600
+Bengaluru,Electronic City,2500,Villa,17,6.19,6,18000,4.5,120000
+Bengaluru,Electronic City,2200,Villa,17,6.83,7,17500,3.85,102666
+Bengaluru,Electronic City,2000,Villa,18,8.28,10,15500,3.1,82666
+Bengaluru,Electronic City,2200,Apartment,23,9.35,10,9000,1.98,52800
+Bengaluru,Electronic City,1200,Apartment,23,6.28,8,6000,0.72,19200
+Bengaluru,Electronic City,3500,Apartment,5,7.51,6,21500,7.53,200666
+Bengaluru,Electronic City,3000,Villa,12,0.96,9,27000,8.1,216000
+Bengaluru,Electronic City,3000,Apartment,22,3.9,6,13500,4.05,108000
+Bengaluru,Electronic City,2200,Apartment,20,5.52,5,11500,2.53,67466
+Bengaluru,Electronic City,1350,Villa,15,2.91,5,12000,1.62,43200
+Bengaluru,Electronic City,1000,Apartment,8,6.76,7,7000,0.7,18666
+Bengaluru,Electronic City,1000,Apartment,19,7.94,10,6500,0.65,17333
+Bengaluru,Electronic City,2200,Villa,12,2.71,10,17500,3.85,102666
+Bengaluru,Electronic City,3000,Apartment,1,7.14,10,17500,5.25,140000
+Bengaluru,Electronic City,2500,Apartment,14,6.6,6,11500,2.88,76666
+Bengaluru,Electronic City,3500,Villa,25,9.38,6,20000,7.0,186666
+Bengaluru,Electronic City,900,Apartment,25,0.51,9,4000,0.36,9600
+Bengaluru,Electronic City,1350,Apartment,21,3.22,7,6500,0.88,23400
+Bengaluru,Electronic City,1800,Apartment,20,5.06,6,9000,1.62,43200
+Bengaluru,Electronic City,1000,Villa,8,9.29,7,10500,1.05,28000
+Bengaluru,Electronic City,3500,Villa,12,4.27,9,26500,9.28,247333
+Bengaluru,Electronic City,1500,Apartment,16,6.66,10,8000,1.2,32000
+Bengaluru,Electronic City,3500,Apartment,2,1.86,9,21500,7.53,200666
+Bengaluru,Electronic City,1800,Villa,23,0.98,7,13000,2.34,62400
+Bengaluru,Electronic City,1800,Apartment,7,8.85,8,10500,1.89,50400
+Bengaluru,Electronic City,2500,Apartment,18,8.2,7,12000,3.0,80000
+Bengaluru,Electronic City,1350,Apartment,13,3.11,9,8500,1.15,30600
+Bengaluru,Electronic City,1000,Villa,16,3.31,7,9000,0.9,24000
+Bengaluru,Electronic City,1200,Villa,25,5.49,9,7500,0.9,24000
+Bengaluru,Electronic City,3000,Villa,8,3.76,8,28000,8.4,224000
+Bengaluru,Electronic City,3000,Apartment,15,7.96,7,15000,4.5,120000
+Bengaluru,Electronic City,2500,Villa,21,3.29,9,15500,3.88,103333
+Bengaluru,Electronic City,750,Apartment,15,5.2,7,4500,0.34,9000
+Bengaluru,Electronic City,1000,Apartment,12,9.43,10,7000,0.7,18666
+Bengaluru,Electronic City,3500,Villa,7,5.18,8,24500,8.57,228666
+Bengaluru,Electronic City,2200,Apartment,16,2.18,10,12000,2.64,70400
+Bengaluru,Electronic City,1800,Villa,7,8.43,5,18000,3.24,86400
+Bengaluru,Electronic City,2200,Villa,21,8.63,5,15000,3.3,88000
+Bengaluru,Electronic City,3000,Villa,5,6.22,7,30500,9.15,244000
+Bengaluru,Electronic City,2200,Villa,6,1.86,6,19000,4.18,111466
+Bengaluru,Electronic City,3500,Villa,6,7.03,10,31500,11.03,294000
+Bengaluru,Electronic City,1500,Apartment,7,2.53,7,10000,1.5,40000
+Bengaluru,Electronic City,1500,Apartment,7,1.87,6,11500,1.73,46000
+Bengaluru,Electronic City,3000,Apartment,11,1.11,5,16500,4.95,132000
+Bengaluru,Electronic City,1200,Villa,2,3.74,9,13500,1.62,43200
+Bengaluru,Electronic City,750,Apartment,24,1.32,8,4000,0.3,8000
+Bengaluru,Electronic City,2200,Villa,19,6.2,8,14000,3.08,82133
+Bengaluru,Electronic City,3000,Villa,8,2.68,6,25500,7.65,204000
+Bengaluru,Electronic City,3000,Villa,8,2.57,6,24500,7.35,196000
+Bengaluru,Electronic City,3000,Apartment,4,2.43,9,19000,5.7,152000
+Bengaluru,Electronic City,2500,Apartment,15,5.7,9,14000,3.5,93333
+Bengaluru,Electronic City,2200,Apartment,12,4.33,8,14000,3.08,82133
+Bengaluru,Electronic City,1200,Villa,22,7.06,7,7500,0.9,24000
+Bengaluru,Electronic City,3500,Apartment,0,7.11,10,23000,8.05,214666
+Bengaluru,Electronic City,1500,Apartment,12,4.3,7,8000,1.2,32000
+Bengaluru,Electronic City,2200,Villa,19,8.74,6,17000,3.74,99733
+Bengaluru,Electronic City,3000,Apartment,8,1.42,7,21000,6.3,168000
+Bengaluru,Electronic City,2500,Villa,19,6.17,7,17500,4.38,116666
+Bengaluru,Electronic City,1500,Villa,15,1.69,6,12000,1.8,48000
+Bengaluru,Electronic City,2500,Villa,22,7.01,7,16000,4.0,106666
+Bengaluru,Electronic City,2200,Villa,8,8.99,6,17500,3.85,102666
+Bengaluru,Electronic City,3000,Apartment,4,2.28,5,15000,4.5,120000
+Bengaluru,Electronic City,1800,Apartment,25,0.48,9,8500,1.53,40800
+Bengaluru,Electronic City,2500,Apartment,12,7.99,6,14000,3.5,93333
+Bengaluru,Electronic City,1350,Apartment,15,5.74,6,7500,1.01,27000
+Bengaluru,Electronic City,2500,Apartment,15,6.4,10,12000,3.0,80000
+Bengaluru,Electronic City,3000,Villa,17,0.4,8,23000,6.9,184000
+Bengaluru,Electronic City,2000,Apartment,8,7.32,8,14000,2.8,74666
+Bengaluru,Electronic City,1200,Apartment,22,8.27,5,6500,0.78,20800
+Bengaluru,Electronic City,1500,Villa,8,8.48,10,12000,1.8,48000
+Bengaluru,Electronic City,1000,Villa,14,7.98,7,9000,0.9,24000
+Bengaluru,Electronic City,2200,Villa,11,4.68,7,19000,4.18,111466
+Bengaluru,Electronic City,750,Apartment,13,8.86,7,5000,0.38,10000
+Bengaluru,Electronic City,3500,Apartment,19,4.82,9,16000,5.6,149333
+Bengaluru,Electronic City,3000,Apartment,20,8.09,7,13500,4.05,108000
+Bengaluru,Electronic City,2200,Villa,10,9.05,10,18500,4.07,108533
+Bengaluru,Electronic City,2500,Villa,2,5.56,9,26000,6.5,173333
+Bengaluru,Electronic City,1800,Apartment,14,9.69,6,10500,1.89,50400
+Bengaluru,Electronic City,3500,Villa,25,1.02,8,20000,7.0,186666
+Bengaluru,Electronic City,3500,Villa,19,3.94,5,23500,8.22,219333
+Bengaluru,Electronic City,1000,Villa,5,9.97,6,12000,1.2,32000
+Bengaluru,Electronic City,2000,Villa,10,5.72,10,16000,3.2,85333
+Bengaluru,Electronic City,1800,Villa,19,3.7,7,13000,2.34,62400
+Bengaluru,Electronic City,2500,Villa,24,3.91,10,16000,4.0,106666
+Bengaluru,Electronic City,3000,Villa,16,4.8,8,21000,6.3,168000
+Bengaluru,Electronic City,1350,Apartment,5,7.31,6,10500,1.42,37800
+Bengaluru,Electronic City,1800,Villa,21,0.38,10,14000,2.52,67200
+Bengaluru,Electronic City,3500,Apartment,23,2.41,6,15000,5.25,140000
+Bengaluru,Electronic City,1350,Apartment,12,0.35,5,10000,1.35,36000
+Bengaluru,Electronic City,1000,Apartment,15,8.1,5,6500,0.65,17333
+Bengaluru,Electronic City,2200,Apartment,16,0.94,5,13000,2.86,76266
+Bengaluru,Electronic City,1800,Apartment,19,7.74,5,10500,1.89,50400
+Bengaluru,Electronic City,3500,Villa,12,7.59,6,28000,9.8,261333
+Bengaluru,Electronic City,1800,Villa,23,8.09,8,11500,2.07,55200
+Bengaluru,Electronic City,3500,Apartment,4,6.81,9,21500,7.53,200666
+Bengaluru,Electronic City,1350,Apartment,0,6.32,10,9500,1.28,34200
+Bengaluru,Electronic City,2200,Villa,10,2.19,8,20000,4.4,117333
+Bengaluru,Electronic City,3000,Villa,8,8.94,6,26500,7.95,212000
+Bengaluru,Electronic City,3500,Apartment,17,7.66,9,17500,6.12,163333
+Bengaluru,Electronic City,3000,Villa,14,6.09,9,24500,7.35,196000
+Bengaluru,Electronic City,3500,Villa,20,5.91,7,24000,8.4,224000
+Bengaluru,Electronic City,2500,Apartment,17,6.43,5,13000,3.25,86666
+Bengaluru,Electronic City,2500,Villa,9,7.25,8,19500,4.88,130000
+Bengaluru,Electronic City,1800,Villa,4,2.93,5,17000,3.06,81600
+Bengaluru,Electronic City,750,Apartment,16,2.64,7,4500,0.34,9000
+Bengaluru,Electronic City,1800,Apartment,15,2.38,10,11000,1.98,52800
+Bengaluru,Electronic City,2500,Villa,24,5.22,7,16000,4.0,106666
+Bengaluru,Electronic City,750,Villa,24,2.12,7,6000,0.45,12000
+Bengaluru,Electronic City,3000,Apartment,7,4.01,9,17500,5.25,140000
+Bengaluru,Electronic City,2200,Villa,6,8.27,9,22000,4.84,129066
+Bengaluru,Electronic City,2500,Apartment,12,2.94,6,15000,3.75,100000
+Bengaluru,Electronic City,3500,Villa,12,7.02,6,27500,9.62,256666
+Bengaluru,Electronic City,1800,Villa,2,6.47,10,18500,3.33,88800
+Bengaluru,Electronic City,1800,Villa,16,3.45,7,13500,2.43,64800
+Bengaluru,Electronic City,3500,Villa,23,7.04,8,21000,7.35,196000
+Bengaluru,Electronic City,1500,Apartment,2,2.42,6,9500,1.43,38000
+Bengaluru,Electronic City,1800,Villa,3,6.72,9,19000,3.42,91200
+Bengaluru,Electronic City,2500,Villa,8,8.2,6,23500,5.88,156666
+Bengaluru,Electronic City,2000,Apartment,0,2.12,5,15000,3.0,80000
+Bengaluru,Electronic City,3000,Apartment,0,1.16,5,18500,5.55,148000
+Bengaluru,Electronic City,1800,Apartment,8,4.49,10,13000,2.34,62400
+Bengaluru,Electronic City,2500,Apartment,23,0.6,6,11000,2.75,73333
+Bengaluru,Electronic City,1000,Apartment,4,5.71,8,7500,0.75,20000
+Bengaluru,Electronic City,1500,Villa,10,0.68,7,12500,1.88,50000
+Bengaluru,Electronic City,2500,Villa,11,9.01,10,23000,5.75,153333
+Bengaluru,Electronic City,900,Apartment,10,8.91,6,6500,0.58,15600
+Bengaluru,Electronic City,900,Villa,8,9.96,5,9000,0.81,21600
+Bengaluru,Electronic City,3000,Apartment,15,8.31,6,15000,4.5,120000
+Bengaluru,Electronic City,1800,Apartment,12,5.89,5,11500,2.07,55200
+Bengaluru,Electronic City,1800,Villa,12,0.95,6,17000,3.06,81600
+Bengaluru,Electronic City,900,Villa,6,8.12,10,9000,0.81,21600
+Bengaluru,Electronic City,1000,Apartment,16,8.62,8,6000,0.6,16000
+Bengaluru,Electronic City,2200,Villa,21,1.56,7,15000,3.3,88000
+Bengaluru,Electronic City,1350,Apartment,20,0.52,10,8000,1.08,28800
+Bengaluru,Electronic City,3000,Apartment,16,5.79,7,14500,4.35,116000
+Bengaluru,Electronic City,2500,Villa,20,3.33,6,16000,4.0,106666
+Bengaluru,Electronic City,2200,Apartment,1,0.44,5,16000,3.52,93866
+Bengaluru,Electronic City,1800,Villa,20,7.71,7,14500,2.61,69600
+Bengaluru,Electronic City,750,Villa,5,0.68,9,8500,0.64,17000
+Bengaluru,Electronic City,1200,Apartment,12,8.42,5,8000,0.96,25600
+Bengaluru,Electronic City,900,Villa,18,6.36,10,9000,0.81,21600
+Bengaluru,Electronic City,3000,Villa,4,8.69,5,31000,9.3,248000
+Bengaluru,Electronic City,1800,Villa,5,9.91,5,20000,3.6,96000
+Bengaluru,Indiranagar,3500,Villa,19,7.64,10,34500,12.07,322000
+Bengaluru,Indiranagar,900,Villa,1,4.08,10,12500,1.12,30000
+Bengaluru,Indiranagar,1350,Apartment,22,2.52,6,9000,1.22,32400
+Bengaluru,Indiranagar,2500,Villa,7,9.31,9,29000,7.25,193333
+Bengaluru,Indiranagar,3500,Villa,24,3.62,8,24000,8.4,224000
+Bengaluru,Indiranagar,1500,Villa,0,9.96,7,21000,3.15,84000
+Bengaluru,Indiranagar,1200,Apartment,8,9.82,8,11500,1.38,36800
+Bengaluru,Indiranagar,3500,Villa,14,7.24,9,35000,12.25,326666
+Bengaluru,Indiranagar,3500,Apartment,15,6.05,9,22500,7.88,210000
+Bengaluru,Indiranagar,1500,Villa,17,6.85,7,14500,2.17,58000
+Bengaluru,Indiranagar,2500,Apartment,8,6.87,5,20000,5.0,133333
+Bengaluru,Indiranagar,3000,Villa,4,1.92,7,34500,10.35,276000
+Bengaluru,Indiranagar,1800,Villa,17,5.15,8,19500,3.51,93600
+Bengaluru,Indiranagar,750,Villa,24,6.59,10,8000,0.6,16000
+Bengaluru,Indiranagar,1500,Villa,0,2.97,9,21500,3.23,86000
+Bengaluru,Indiranagar,1800,Apartment,10,6.11,10,13000,2.34,62400
+Bengaluru,Indiranagar,3000,Apartment,12,2.04,9,20500,6.15,164000
+Bengaluru,Indiranagar,3500,Apartment,15,6.78,9,26000,9.1,242666
+Bengaluru,Indiranagar,1800,Villa,10,8.42,10,21500,3.87,103200
+Bengaluru,Indiranagar,2000,Apartment,3,7.09,9,19000,3.8,101333
+Bengaluru,Indiranagar,3500,Apartment,2,8.43,6,26000,9.1,242666
+Bengaluru,Indiranagar,1500,Apartment,1,4.2,5,17500,2.62,70000
+Bengaluru,Indiranagar,2500,Apartment,6,1.79,5,17500,4.38,116666
+Bengaluru,Indiranagar,3000,Villa,20,9.24,10,27000,8.1,216000
+Bengaluru,Indiranagar,2500,Villa,16,5.96,5,21000,5.25,140000
+Bengaluru,Indiranagar,2200,Apartment,7,0.8,5,19000,4.18,111466
+Bengaluru,Indiranagar,1500,Villa,20,0.61,5,13500,2.02,54000
+Bengaluru,Indiranagar,2500,Apartment,25,6.19,7,13500,3.38,90000
+Bengaluru,Indiranagar,3000,Villa,23,8.85,7,25000,7.5,200000
+Bengaluru,Indiranagar,900,Villa,19,2.35,9,10000,0.9,24000
+Bengaluru,Indiranagar,900,Apartment,23,8.67,7,6000,0.54,14400
+Bengaluru,Indiranagar,1000,Apartment,6,7.45,5,9500,0.95,25333
+Bengaluru,Indiranagar,1500,Villa,17,3.08,6,15500,2.33,62000
+Bengaluru,Indiranagar,1500,Apartment,16,4.81,9,11000,1.65,44000
+Bengaluru,Indiranagar,3500,Villa,5,8.52,10,38500,13.47,359333
+Bengaluru,Indiranagar,1200,Villa,24,0.95,10,10500,1.26,33600
+Bengaluru,Indiranagar,2500,Villa,22,9.76,5,22000,5.5,146666
+Bengaluru,Indiranagar,1350,Apartment,25,9.4,9,8500,1.15,30600
+Bengaluru,Indiranagar,2200,Villa,16,1.13,10,20500,4.51,120266
+Bengaluru,Indiranagar,1350,Villa,17,2.34,7,14000,1.89,50400
+Bengaluru,Indiranagar,2000,Villa,17,2.52,7,17000,3.4,90666
+Bengaluru,Indiranagar,2500,Villa,24,1.28,10,20000,5.0,133333
+Bengaluru,Indiranagar,2000,Apartment,19,1.92,9,11000,2.2,58666
+Bengaluru,Indiranagar,3000,Villa,6,8.04,9,32500,9.75,260000
+Bengaluru,Indiranagar,1800,Villa,11,3.46,8,18500,3.33,88800
+Bengaluru,Indiranagar,2200,Apartment,0,1.56,7,18500,4.07,108533
+Bengaluru,Indiranagar,3000,Apartment,0,2.79,7,28500,8.55,228000
+Bengaluru,Indiranagar,750,Apartment,9,0.91,6,6000,0.45,12000
+Bengaluru,Indiranagar,2000,Villa,0,2.34,9,25500,5.1,136000
+Bengaluru,Indiranagar,3000,Apartment,17,3.62,5,19500,5.85,156000
+Bengaluru,Indiranagar,900,Villa,14,8.69,6,9000,0.81,21600
+Bengaluru,Indiranagar,1200,Villa,8,5.77,9,15000,1.8,48000
+Bengaluru,Indiranagar,1800,Villa,7,8.1,7,22000,3.96,105600
+Bengaluru,Indiranagar,1000,Villa,18,5.2,9,10000,1.0,26666
+Bengaluru,Indiranagar,1500,Apartment,23,1.7,10,8500,1.27,34000
+Bengaluru,Indiranagar,2000,Villa,25,5.03,6,17500,3.5,93333
+Bengaluru,Indiranagar,2500,Apartment,22,1.1,9,12500,3.12,83333
+Bengaluru,Indiranagar,3500,Apartment,9,8.28,10,24500,8.57,228666
+Bengaluru,Indiranagar,3000,Apartment,12,0.85,5,19000,5.7,152000
+Bengaluru,Indiranagar,2000,Villa,11,7.33,8,18000,3.6,96000
+Bengaluru,Indiranagar,1200,Apartment,24,5.87,10,8000,0.96,25600
+Bengaluru,Indiranagar,3500,Apartment,19,8.66,10,22000,7.7,205333
+Bengaluru,Indiranagar,3500,Apartment,12,3.34,7,26500,9.28,247333
+Bengaluru,Indiranagar,3000,Villa,1,9.9,9,37000,11.1,296000
+Bengaluru,Indiranagar,3000,Villa,4,8.93,9,31500,9.45,252000
+Bengaluru,Indiranagar,3500,Apartment,7,5.05,5,25000,8.75,233333
+Bengaluru,Indiranagar,3500,Villa,23,7.49,8,20500,7.17,191333
+Bengaluru,Indiranagar,3000,Apartment,18,8.43,6,16500,4.95,132000
+Bengaluru,Indiranagar,2500,Villa,9,3.81,6,27000,6.75,180000
+Bengaluru,Indiranagar,1200,Apartment,10,3.48,8,11000,1.32,35200
+Bengaluru,Indiranagar,3000,Apartment,23,4.7,9,16000,4.8,128000
+Bengaluru,Indiranagar,2200,Apartment,8,2.21,8,18000,3.96,105600
+Bengaluru,Indiranagar,3000,Apartment,13,9.53,6,21000,6.3,168000
+Bengaluru,Indiranagar,2500,Apartment,17,5.92,8,14500,3.62,96666
+Bengaluru,Indiranagar,2200,Apartment,20,5.05,9,12500,2.75,73333
+Bengaluru,Indiranagar,3000,Apartment,23,5.66,6,17500,5.25,140000
+Bengaluru,Indiranagar,1000,Villa,8,3.91,7,12000,1.2,32000
+Bengaluru,Indiranagar,3500,Apartment,18,5.84,5,22000,7.7,205333
+Bengaluru,Indiranagar,3500,Villa,13,2.1,7,31500,11.03,294000
+Bengaluru,Indiranagar,2200,Villa,6,2.07,7,24500,5.39,143733
+Bengaluru,Indiranagar,3000,Apartment,20,8.31,7,18500,5.55,148000
+Bengaluru,Indiranagar,1350,Villa,11,9.71,9,15500,2.09,55800
+Bengaluru,Indiranagar,1350,Apartment,14,5.84,6,10000,1.35,36000
+Bengaluru,Indiranagar,1500,Villa,21,8.04,6,13000,1.95,52000
+Bengaluru,Indiranagar,1000,Apartment,3,3.86,6,9500,0.95,25333
+Bengaluru,Indiranagar,3000,Villa,4,8.5,5,32500,9.75,260000
+Bengaluru,Indiranagar,2200,Apartment,22,8.02,7,13500,2.97,79200
+Bengaluru,Indiranagar,2500,Apartment,15,2.44,7,15500,3.88,103333
+Bengaluru,Indiranagar,1500,Apartment,23,2.42,6,9000,1.35,36000
+Bengaluru,Indiranagar,3000,Villa,16,2.85,9,29500,8.85,236000
+Bengaluru,Indiranagar,2500,Apartment,19,0.31,10,16000,4.0,106666
+Bengaluru,Indiranagar,3500,Apartment,21,6.39,8,20500,7.17,191333
+Bengaluru,Indiranagar,3000,Apartment,21,7.58,7,17500,5.25,140000
+Bengaluru,Indiranagar,1350,Villa,1,3.71,6,17000,2.29,61200
+Bengaluru,Indiranagar,3500,Villa,19,1.21,5,32500,11.38,303333
+Bengaluru,Indiranagar,2500,Apartment,20,0.69,5,15500,3.88,103333
+Bengaluru,Indiranagar,2200,Villa,21,3.13,10,18500,4.07,108533
+Bengaluru,Indiranagar,3500,Apartment,11,9.11,5,23000,8.05,214666
+Bengaluru,Indiranagar,1800,Villa,20,4.84,6,19000,3.42,91200
+Bengaluru,Indiranagar,2200,Apartment,16,1.8,7,14500,3.19,85066
+Bengaluru,Indiranagar,2500,Apartment,19,5.03,6,18000,4.5,120000
+Bengaluru,Indiranagar,1500,Villa,16,10.0,9,14000,2.1,56000
+Bengaluru,Indiranagar,750,Apartment,1,7.76,9,8500,0.64,17000
+Bengaluru,Indiranagar,2000,Villa,10,1.96,8,21500,4.3,114666
+Bengaluru,Indiranagar,1350,Villa,0,0.6,10,18000,2.43,64800
+Bengaluru,Indiranagar,2200,Villa,11,5.25,6,21500,4.73,126133
+Bengaluru,Indiranagar,3000,Apartment,8,6.27,10,22500,6.75,180000
+Bengaluru,Indiranagar,1800,Apartment,12,5.16,9,14500,2.61,69600
+Bengaluru,Indiranagar,1800,Apartment,7,0.79,7,15000,2.7,72000
+Bengaluru,Indiranagar,2200,Apartment,21,4.55,5,13000,2.86,76266
+Bengaluru,Indiranagar,2200,Apartment,16,8.44,8,13000,2.86,76266
+Bengaluru,Indiranagar,1800,Apartment,18,0.78,8,12000,2.16,57600
+Bengaluru,Indiranagar,2000,Villa,19,7.33,8,19000,3.8,101333
+Bengaluru,Indiranagar,3000,Apartment,4,3.03,10,22500,6.75,180000
+Bengaluru,Indiranagar,1200,Apartment,18,1.98,6,9500,1.14,30400
+Bengaluru,Indiranagar,2000,Apartment,22,4.1,8,11500,2.3,61333
+Bengaluru,Indiranagar,1350,Apartment,20,7.58,7,9500,1.28,34200
+Bengaluru,Indiranagar,1000,Apartment,17,2.6,6,7000,0.7,18666
+Bengaluru,Indiranagar,2000,Apartment,4,6.87,7,18000,3.6,96000
+Bengaluru,Indiranagar,2500,Villa,13,4.06,8,26000,6.5,173333
+Bengaluru,Indiranagar,3500,Villa,23,0.94,6,31000,10.85,289333
+Bengaluru,Indiranagar,1500,Apartment,3,2.57,6,13500,2.02,54000
+Bengaluru,Indiranagar,750,Villa,24,3.65,9,7500,0.56,15000
+Bengaluru,Indiranagar,3000,Apartment,19,2.88,9,18500,5.55,148000
+Bengaluru,Indiranagar,1800,Apartment,7,6.23,7,13500,2.43,64800
+Bengaluru,Indiranagar,1000,Villa,22,8.53,6,10500,1.05,28000
+Bengaluru,Indiranagar,3000,Villa,19,9.49,10,27500,8.25,220000
+Bengaluru,Indiranagar,3500,Apartment,11,2.99,8,25500,8.93,238000
+Bengaluru,Indiranagar,2500,Apartment,15,3.03,6,18500,4.62,123333
+Bengaluru,Indiranagar,1500,Apartment,7,6.34,8,14000,2.1,56000
+Bengaluru,Indiranagar,750,Villa,8,9.9,6,9000,0.68,18000
+Bengaluru,Indiranagar,3500,Apartment,6,1.07,5,24000,8.4,224000
+Bengaluru,Indiranagar,1350,Villa,14,4.6,10,14000,1.89,50400
+Bengaluru,Indiranagar,2000,Apartment,14,8.4,8,13000,2.6,69333
+Bengaluru,Indiranagar,2500,Apartment,24,9.37,9,13500,3.38,90000
+Bengaluru,Indiranagar,2200,Villa,23,9.31,8,17000,3.74,99733
+Bengaluru,Indiranagar,3000,Apartment,23,0.9,9,15500,4.65,124000
+Bengaluru,Indiranagar,1200,Villa,14,9.69,5,14000,1.68,44800
+Bengaluru,Indiranagar,1800,Villa,16,4.63,10,16000,2.88,76800
+Bengaluru,Indiranagar,900,Villa,17,4.87,9,10000,0.9,24000
+Bengaluru,Indiranagar,3500,Apartment,1,6.72,7,30500,10.68,284666
+Bengaluru,Indiranagar,2500,Villa,12,5.91,7,28000,7.0,186666
+Bengaluru,Indiranagar,2500,Villa,5,9.07,7,31000,7.75,206666
+Bengaluru,Indiranagar,3000,Apartment,1,0.84,8,26500,7.95,212000
+Bengaluru,Indiranagar,3500,Apartment,14,0.37,10,24500,8.57,228666
+Bengaluru,Indiranagar,2500,Apartment,3,4.29,9,19000,4.75,126666
+Bengaluru,Indiranagar,3500,Apartment,17,4.2,8,21500,7.53,200666
+Bengaluru,Indiranagar,2500,Villa,10,7.0,5,28500,7.12,190000
+Bengaluru,Indiranagar,1500,Apartment,14,2.93,8,11000,1.65,44000
+Bengaluru,Indiranagar,1000,Villa,8,3.62,10,12500,1.25,33333
+Bengaluru,Sarjapur Road,3500,Apartment,22,4.47,10,17500,6.12,163333
+Bengaluru,Sarjapur Road,1200,Apartment,2,3.09,10,11500,1.38,36800
+Bengaluru,Sarjapur Road,2500,Villa,20,5.08,5,20500,5.12,136666
+Bengaluru,Sarjapur Road,3000,Villa,22,4.51,10,19000,5.7,152000
+Bengaluru,Sarjapur Road,3000,Apartment,19,1.89,8,16000,4.8,128000
+Bengaluru,Sarjapur Road,3000,Apartment,12,9.05,6,17000,5.1,136000
+Bengaluru,Sarjapur Road,2000,Apartment,18,3.64,6,12500,2.5,66666
+Bengaluru,Sarjapur Road,1350,Apartment,5,9.34,8,11500,1.55,41400
+Bengaluru,Sarjapur Road,2000,Villa,9,8.26,7,23000,4.6,122666
+Bengaluru,Sarjapur Road,3500,Apartment,5,9.01,6,25000,8.75,233333
+Bengaluru,Sarjapur Road,1500,Villa,0,4.18,5,18500,2.77,74000
+Bengaluru,Sarjapur Road,2500,Villa,15,1.31,9,22500,5.62,150000
+Bengaluru,Sarjapur Road,750,Villa,19,5.9,6,6500,0.49,13000
+Bengaluru,Sarjapur Road,1500,Villa,18,9.81,8,13000,1.95,52000
+Bengaluru,Sarjapur Road,2500,Apartment,14,2.38,9,15500,3.88,103333
+Bengaluru,Sarjapur Road,3000,Apartment,0,7.47,9,21000,6.3,168000
+Bengaluru,Sarjapur Road,1800,Apartment,19,0.61,5,10500,1.89,50400
+Bengaluru,Sarjapur Road,1500,Apartment,4,1.3,10,13500,2.02,54000
+Bengaluru,Sarjapur Road,2200,Apartment,1,1.97,5,14500,3.19,85066
+Bengaluru,Sarjapur Road,3500,Villa,18,9.4,7,28000,9.8,261333
+Bengaluru,Sarjapur Road,1000,Apartment,1,8.24,8,8500,0.85,22666
+Bengaluru,Sarjapur Road,1500,Villa,5,3.67,9,17000,2.55,68000
+Bengaluru,Sarjapur Road,3500,Apartment,22,0.79,8,17000,5.95,158666
+Bengaluru,Sarjapur Road,3000,Apartment,11,4.74,5,18000,5.4,144000
+Bengaluru,Sarjapur Road,2000,Villa,10,2.5,8,17500,3.5,93333
+Bengaluru,Sarjapur Road,1000,Villa,24,5.9,9,8500,0.85,22666
+Bengaluru,Sarjapur Road,1000,Villa,9,3.78,6,11500,1.15,30666
+Bengaluru,Sarjapur Road,1200,Villa,22,4.93,7,10500,1.26,33600
+Bengaluru,Sarjapur Road,3000,Apartment,13,3.7,10,19500,5.85,156000
+Bengaluru,Sarjapur Road,1500,Apartment,19,3.48,5,8500,1.27,34000
+Bengaluru,Sarjapur Road,3000,Apartment,23,2.33,8,14500,4.35,116000
+Bengaluru,Sarjapur Road,3500,Villa,19,4.98,8,24500,8.57,228666
+Bengaluru,Sarjapur Road,3000,Villa,10,8.46,9,26500,7.95,212000
+Bengaluru,Sarjapur Road,3000,Villa,19,8.14,6,21000,6.3,168000
+Bengaluru,Sarjapur Road,3000,Villa,18,8.29,9,22000,6.6,176000
+Bengaluru,Sarjapur Road,3500,Villa,15,3.24,6,23500,8.22,219333
+Bengaluru,Sarjapur Road,3000,Villa,7,9.35,6,30000,9.0,240000
+Bengaluru,Sarjapur Road,750,Apartment,3,0.62,8,7500,0.56,15000
+Bengaluru,Sarjapur Road,3500,Apartment,25,4.91,10,14500,5.08,135333
+Bengaluru,Sarjapur Road,1500,Villa,25,6.67,8,11000,1.65,44000
+Bengaluru,Sarjapur Road,900,Villa,10,9.72,9,11500,1.03,27600
+Bengaluru,Sarjapur Road,3500,Apartment,6,0.96,10,24000,8.4,224000
+Bengaluru,Sarjapur Road,1500,Villa,22,4.35,7,12500,1.88,50000
+Bengaluru,Sarjapur Road,1000,Villa,9,9.4,9,10000,1.0,26666
+Bengaluru,Sarjapur Road,3000,Apartment,10,6.72,5,18500,5.55,148000
+Bengaluru,Sarjapur Road,3500,Villa,10,5.64,8,30000,10.5,280000
+Bengaluru,Sarjapur Road,3000,Apartment,19,4.21,6,16500,4.95,132000
+Bengaluru,Sarjapur Road,1500,Villa,10,6.23,10,16000,2.4,64000
+Bengaluru,Sarjapur Road,2500,Apartment,15,3.92,10,14500,3.62,96666
+Bengaluru,Sarjapur Road,1200,Apartment,15,3.74,10,8000,0.96,25600
+Bengaluru,Sarjapur Road,2500,Villa,17,4.31,8,22500,5.62,150000
+Bengaluru,Sarjapur Road,2500,Apartment,23,0.98,9,14000,3.5,93333
+Bengaluru,Sarjapur Road,2000,Villa,18,4.13,9,16500,3.3,88000
+Bengaluru,Sarjapur Road,3000,Apartment,0,8.32,9,21500,6.45,172000
+Bengaluru,Sarjapur Road,3500,Villa,10,0.71,5,28500,9.97,266000
+Bengaluru,Sarjapur Road,1350,Apartment,8,8.83,7,9500,1.28,34200
+Bengaluru,Sarjapur Road,2200,Apartment,20,5.7,9,12000,2.64,70400
+Bengaluru,Sarjapur Road,3000,Apartment,12,7.4,9,16000,4.8,128000
+Bengaluru,Sarjapur Road,1200,Villa,25,9.59,10,9500,1.14,30400
+Bengaluru,Sarjapur Road,2000,Apartment,22,9.36,7,10500,2.1,56000
+Bengaluru,Sarjapur Road,2500,Villa,2,9.19,6,30000,7.5,200000
+Bengaluru,Sarjapur Road,2200,Villa,14,4.21,6,22000,4.84,129066
+Bengaluru,Sarjapur Road,3000,Apartment,9,7.6,5,22500,6.75,180000
+Bengaluru,Sarjapur Road,2200,Apartment,25,4.46,6,11000,2.42,64533
+Bengaluru,Sarjapur Road,1000,Apartment,14,7.4,8,7000,0.7,18666
+Bengaluru,Sarjapur Road,2500,Apartment,4,8.38,7,18500,4.62,123333
+Bengaluru,Sarjapur Road,2500,Villa,23,5.54,7,18000,4.5,120000
+Bengaluru,Sarjapur Road,1350,Apartment,24,3.98,9,8000,1.08,28800
+Bengaluru,Sarjapur Road,3500,Apartment,4,9.18,10,25000,8.75,233333
+Bengaluru,Sarjapur Road,900,Villa,14,4.99,10,9000,0.81,21600
+Bengaluru,Sarjapur Road,3000,Apartment,3,5.29,7,22500,6.75,180000
+Bengaluru,Sarjapur Road,900,Apartment,21,3.45,7,4500,0.41,10800
+Bengaluru,Sarjapur Road,2500,Apartment,1,0.68,9,21000,5.25,140000
+Bengaluru,Sarjapur Road,3500,Villa,23,3.65,5,23000,8.05,214666
+Bengaluru,Sarjapur Road,3000,Villa,24,6.81,10,23000,6.9,184000
+Bengaluru,Sarjapur Road,1500,Apartment,10,2.88,6,10000,1.5,40000
+Bengaluru,Sarjapur Road,1800,Villa,8,9.91,8,18500,3.33,88800
+Bengaluru,Sarjapur Road,3500,Villa,3,6.7,6,34500,12.07,322000
+Bengaluru,Sarjapur Road,1350,Apartment,8,6.97,5,10500,1.42,37800
+Bengaluru,Sarjapur Road,3500,Apartment,17,2.46,6,17000,5.95,158666
+Bengaluru,Sarjapur Road,3000,Villa,11,3.28,7,22000,6.6,176000
+Bengaluru,Sarjapur Road,1350,Villa,22,1.85,9,12000,1.62,43200
+Bengaluru,Sarjapur Road,1800,Apartment,5,1.96,7,15000,2.7,72000
+Bengaluru,Sarjapur Road,3000,Villa,10,9.01,5,26500,7.95,212000
+Bengaluru,Sarjapur Road,1200,Villa,0,1.12,10,14000,1.68,44800
+Bengaluru,Sarjapur Road,900,Villa,3,0.46,5,11000,0.99,26400
+Bengaluru,Sarjapur Road,1000,Villa,13,6.72,6,9500,0.95,25333
+Bengaluru,Sarjapur Road,3500,Villa,19,2.57,9,27000,9.45,252000
+Bengaluru,Sarjapur Road,2200,Villa,9,0.53,6,21000,4.62,123200
+Bengaluru,Sarjapur Road,3500,Apartment,25,8.72,8,15500,5.42,144666
+Bengaluru,Sarjapur Road,3000,Apartment,4,9.29,10,20000,6.0,160000
+Bengaluru,Sarjapur Road,2500,Villa,3,0.68,7,26500,6.62,176666
+Bengaluru,Sarjapur Road,3500,Villa,20,5.87,8,25000,8.75,233333
+Bengaluru,Sarjapur Road,1500,Apartment,7,5.96,9,11000,1.65,44000
+Bengaluru,Sarjapur Road,1800,Villa,11,0.41,6,16500,2.97,79200
+Bengaluru,Sarjapur Road,3500,Villa,21,0.69,7,27500,9.62,256666
+Bengaluru,Sarjapur Road,2500,Apartment,15,6.01,5,15000,3.75,100000
+Bengaluru,Sarjapur Road,2500,Villa,3,5.58,8,26500,6.62,176666
+Bengaluru,Sarjapur Road,2500,Villa,5,2.97,7,23500,5.88,156666
+Bengaluru,Sarjapur Road,3000,Apartment,18,9.07,9,17500,5.25,140000
+Bengaluru,Sarjapur Road,1200,Apartment,12,3.93,7,8000,0.96,25600
+Bengaluru,Sarjapur Road,3000,Apartment,20,4.43,7,15500,4.65,124000
+Bengaluru,Sarjapur Road,3000,Villa,14,8.37,9,24500,7.35,196000
+Bengaluru,Sarjapur Road,2500,Apartment,7,2.49,9,18000,4.5,120000
+Bengaluru,Sarjapur Road,1350,Villa,15,8.23,5,10500,1.42,37800
+Bengaluru,Sarjapur Road,2000,Villa,6,8.75,8,20000,4.0,106666
+Bengaluru,Sarjapur Road,3000,Villa,25,1.11,9,21500,6.45,172000
+Bengaluru,Sarjapur Road,3500,Apartment,7,0.8,10,21500,7.53,200666
+Bengaluru,Sarjapur Road,3500,Villa,2,5.08,5,30500,10.68,284666
+Bengaluru,Sarjapur Road,3000,Villa,19,4.13,7,22000,6.6,176000
+Bengaluru,Sarjapur Road,3000,Villa,3,5.44,6,31500,9.45,252000
+Bengaluru,Sarjapur Road,2000,Apartment,12,8.11,9,12000,2.4,64000
+Bengaluru,Sarjapur Road,1200,Villa,21,7.67,7,10000,1.2,32000
+Bengaluru,Sarjapur Road,2500,Apartment,20,2.9,5,13000,3.25,86666
+Bengaluru,Sarjapur Road,1500,Apartment,4,3.8,6,13000,1.95,52000
+Bengaluru,Sarjapur Road,3500,Villa,4,0.85,9,32500,11.38,303333
+Bengaluru,Sarjapur Road,1800,Villa,12,0.64,6,19500,3.51,93600
+Bengaluru,Sarjapur Road,1500,Villa,21,2.18,7,11500,1.73,46000
+Bengaluru,Sarjapur Road,3000,Villa,25,6.52,8,21000,6.3,168000
+Bengaluru,Sarjapur Road,2200,Apartment,2,8.99,9,16000,3.52,93866
+Bengaluru,Sarjapur Road,3000,Apartment,12,3.18,7,17500,5.25,140000
+Bengaluru,Sarjapur Road,1000,Apartment,11,2.63,5,6500,0.65,17333
+Bengaluru,Sarjapur Road,3500,Villa,17,6.82,5,28500,9.97,266000
+Bengaluru,Sarjapur Road,1800,Apartment,0,8.3,8,15500,2.79,74400
+Bengaluru,Sarjapur Road,3500,Villa,18,4.15,10,28000,9.8,261333
+Bengaluru,Sarjapur Road,2000,Villa,22,3.8,8,14500,2.9,77333
+Bengaluru,Sarjapur Road,2200,Apartment,13,6.81,10,13500,2.97,79200
+Bengaluru,Sarjapur Road,1350,Apartment,15,9.93,6,8500,1.15,30600
+Bengaluru,Sarjapur Road,3000,Villa,12,1.82,8,28000,8.4,224000
+Bengaluru,Sarjapur Road,1350,Apartment,9,5.9,6,10500,1.42,37800
+Bengaluru,Sarjapur Road,750,Apartment,2,8.7,6,6500,0.49,13000
+Bengaluru,Sarjapur Road,2500,Villa,21,6.31,6,16000,4.0,106666
+Bengaluru,Sarjapur Road,1000,Villa,4,4.29,8,10000,1.0,26666
+Bengaluru,Sarjapur Road,3500,Villa,19,5.77,9,25000,8.75,233333
+Bengaluru,Sarjapur Road,1500,Villa,14,8.55,9,15500,2.33,62000
+Bengaluru,Sarjapur Road,2500,Villa,12,5.7,6,23500,5.88,156666
+Bengaluru,Sarjapur Road,1500,Apartment,13,7.86,9,10500,1.57,42000
+Bengaluru,Sarjapur Road,2500,Apartment,23,2.75,10,12000,3.0,80000
+Bengaluru,Sarjapur Road,3000,Villa,8,8.7,9,27500,8.25,220000
+Bengaluru,Sarjapur Road,3000,Apartment,11,6.86,5,20000,6.0,160000
+Bengaluru,Sarjapur Road,3000,Villa,15,6.06,5,28500,8.55,228000
+Bengaluru,Sarjapur Road,3000,Apartment,15,5.88,6,18500,5.55,148000
+Bengaluru,Sarjapur Road,3000,Villa,24,4.46,8,22500,6.75,180000
+Bengaluru,Sarjapur Road,3000,Apartment,2,2.49,6,20500,6.15,164000
+Bengaluru,Sarjapur Road,2500,Apartment,20,7.02,10,14000,3.5,93333
+Bengaluru,Sarjapur Road,3500,Villa,17,7.55,9,24500,8.57,228666
+Bengaluru,Sarjapur Road,900,Apartment,10,2.42,8,7500,0.68,18000
+Bengaluru,Sarjapur Road,2500,Villa,16,0.74,9,21500,5.38,143333
+Bengaluru,Sarjapur Road,2000,Villa,13,7.42,7,18000,3.6,96000
+Bengaluru,Sarjapur Road,1800,Apartment,5,9.31,10,11000,1.98,52800
+Bengaluru,Yelahanka,3000,Villa,23,3.52,10,18000,5.4,144000
+Bengaluru,Yelahanka,3000,Apartment,8,1.09,10,17000,5.1,136000
+Bengaluru,Yelahanka,2500,Apartment,18,2.81,9,12000,3.0,80000
+Bengaluru,Yelahanka,900,Villa,21,4.44,10,6500,0.58,15600
+Bengaluru,Yelahanka,3500,Villa,0,5.62,8,30500,10.68,284666
+Bengaluru,Yelahanka,1000,Apartment,4,6.74,7,6500,0.65,17333
+Bengaluru,Yelahanka,1800,Villa,4,9.66,7,19000,3.42,91200
+Bengaluru,Yelahanka,1800,Apartment,0,5.15,9,14500,2.61,69600
+Bengaluru,Yelahanka,1350,Apartment,18,0.97,10,7000,0.94,25200
+Bengaluru,Yelahanka,2500,Apartment,11,3.61,7,13000,3.25,86666
+Bengaluru,Yelahanka,3500,Villa,7,9.2,6,26000,9.1,242666
+Bengaluru,Yelahanka,3000,Villa,1,7.23,5,27000,8.1,216000
+Bengaluru,Yelahanka,1350,Apartment,19,3.15,8,8000,1.08,28800
+Bengaluru,Yelahanka,2500,Villa,24,9.03,6,15500,3.88,103333
+Bengaluru,Yelahanka,3500,Apartment,14,7.98,6,19000,6.65,177333
+Bengaluru,Yelahanka,3000,Villa,23,9.48,5,20000,6.0,160000
+Bengaluru,Yelahanka,3500,Apartment,8,3.17,5,20500,7.17,191333
+Bengaluru,Yelahanka,1350,Villa,14,6.45,8,10000,1.35,36000
+Bengaluru,Yelahanka,2000,Apartment,15,6.06,8,11500,2.3,61333
+Bengaluru,Yelahanka,3500,Villa,22,5.7,8,19000,6.65,177333
+Bengaluru,Yelahanka,1800,Villa,4,3.62,5,16000,2.88,76800
+Bengaluru,Yelahanka,1800,Villa,25,4.2,8,11500,2.07,55200
+Bengaluru,Yelahanka,3500,Apartment,10,7.37,5,18000,6.3,168000
+Bengaluru,Yelahanka,3000,Villa,20,0.3,8,20000,6.0,160000
+Bengaluru,Yelahanka,3000,Villa,20,7.21,7,17500,5.25,140000
+Bengaluru,Yelahanka,1800,Apartment,8,0.43,7,10500,1.89,50400
+Bengaluru,Yelahanka,3500,Villa,18,5.54,8,24500,8.57,228666
+Bengaluru,Yelahanka,3500,Apartment,23,1.13,10,17500,6.12,163333
+Bengaluru,Yelahanka,3500,Apartment,18,5.62,9,18000,6.3,168000
+Bengaluru,Yelahanka,2000,Apartment,21,4.07,7,8000,1.6,42666
+Bengaluru,Yelahanka,3000,Apartment,0,2.63,5,19000,5.7,152000
+Bengaluru,Yelahanka,750,Apartment,13,1.24,9,4500,0.34,9000
+Bengaluru,Yelahanka,1200,Villa,21,2.02,7,8500,1.02,27200
+Bengaluru,Yelahanka,1500,Villa,23,5.46,7,10500,1.57,42000
+Bengaluru,Yelahanka,1500,Apartment,1,8.77,9,10000,1.5,40000
+Bengaluru,Yelahanka,1000,Apartment,1,3.27,9,8000,0.8,21333
+Bengaluru,Yelahanka,3500,Apartment,3,4.21,5,23000,8.05,214666
+Bengaluru,Yelahanka,3000,Villa,4,3.36,10,28500,8.55,228000
+Bengaluru,Yelahanka,3500,Apartment,18,1.59,5,15000,5.25,140000
+Bengaluru,Yelahanka,3500,Villa,5,5.91,7,30000,10.5,280000
+Bengaluru,Yelahanka,2500,Apartment,21,7.03,10,12000,3.0,80000
+Bengaluru,Yelahanka,2500,Villa,8,8.77,10,22500,5.62,150000
+Bengaluru,Yelahanka,3500,Villa,24,5.15,7,21500,7.53,200666
+Bengaluru,Yelahanka,1350,Apartment,24,2.11,7,7000,0.94,25200
+Bengaluru,Yelahanka,1000,Villa,12,0.55,7,8500,0.85,22666
+Bengaluru,Yelahanka,900,Villa,8,6.29,6,7500,0.68,18000
+Bengaluru,Yelahanka,2500,Villa,2,8.54,6,22500,5.62,150000
+Bengaluru,Yelahanka,3000,Apartment,12,9.65,10,15500,4.65,124000
+Bengaluru,Yelahanka,2500,Apartment,3,1.35,9,19000,4.75,126666
+Bengaluru,Yelahanka,2500,Apartment,6,5.55,8,14000,3.5,93333
+Bengaluru,Yelahanka,1800,Apartment,3,1.13,5,13000,2.34,62400
+Bengaluru,Yelahanka,1000,Villa,18,2.57,8,9500,0.95,25333
+Bengaluru,Yelahanka,750,Apartment,15,6.49,10,5500,0.41,11000
+Bengaluru,Yelahanka,3500,Apartment,0,2.75,10,22000,7.7,205333
+Bengaluru,Yelahanka,2200,Apartment,8,3.29,10,14000,3.08,82133
+Bengaluru,Yelahanka,2000,Apartment,12,8.16,9,11500,2.3,61333
+Bengaluru,Yelahanka,3500,Villa,24,5.96,8,19000,6.65,177333
+Bengaluru,Yelahanka,2500,Apartment,12,6.52,9,15000,3.75,100000
+Bengaluru,Yelahanka,1500,Villa,0,4.82,10,16000,2.4,64000
+Bengaluru,Yelahanka,2500,Villa,3,5.7,7,21000,5.25,140000
+Bengaluru,Yelahanka,3500,Villa,9,3.78,5,26500,9.28,247333
+Bengaluru,Yelahanka,3500,Apartment,20,7.74,7,15000,5.25,140000
+Bengaluru,Yelahanka,3000,Apartment,10,7.11,8,18000,5.4,144000
+Bengaluru,Yelahanka,1800,Apartment,20,4.14,6,8000,1.44,38400
+Bengaluru,Yelahanka,3000,Villa,1,7.64,10,22500,6.75,180000
+Bengaluru,Yelahanka,1500,Villa,9,9.37,5,12000,1.8,48000
+Bengaluru,Yelahanka,3500,Villa,22,2.73,8,21500,7.53,200666
+Bengaluru,Yelahanka,1000,Villa,20,9.7,10,7000,0.7,18666
+Bengaluru,Yelahanka,1500,Apartment,4,3.97,6,10000,1.5,40000
+Bengaluru,Yelahanka,750,Apartment,23,5.21,8,3500,0.26,7000
+Bengaluru,Yelahanka,2200,Villa,2,1.87,8,17500,3.85,102666
+Bengaluru,Yelahanka,3000,Villa,25,4.19,5,16500,4.95,132000
+Bengaluru,Yelahanka,900,Apartment,10,1.42,7,6000,0.54,14400
+Bengaluru,Yelahanka,900,Apartment,12,4.06,6,6000,0.54,14400
+Bengaluru,Yelahanka,3500,Villa,21,6.7,10,25500,8.93,238000
+Bengaluru,Yelahanka,3000,Apartment,4,0.9,5,17000,5.1,136000
+Bengaluru,Yelahanka,900,Apartment,23,8.19,8,4500,0.41,10800
+Bengaluru,Yelahanka,3500,Villa,0,9.56,9,33000,11.55,308000
+Bengaluru,Yelahanka,900,Apartment,7,1.77,5,7500,0.68,18000
+Bengaluru,Yelahanka,1350,Apartment,20,5.94,7,6500,0.88,23400
+Bengaluru,Yelahanka,1000,Apartment,14,4.19,9,5500,0.55,14666
+Bengaluru,Yelahanka,1000,Apartment,3,4.1,8,7000,0.7,18666
+Bengaluru,Yelahanka,3000,Apartment,25,1.88,5,11000,3.3,88000
+Bengaluru,Yelahanka,1500,Villa,13,0.87,10,13000,1.95,52000
+Bengaluru,Yelahanka,3500,Villa,12,5.66,5,28000,9.8,261333
+Bengaluru,Yelahanka,3500,Apartment,18,5.9,7,16500,5.78,154000
+Bengaluru,Yelahanka,1500,Apartment,24,3.65,9,7000,1.05,28000
+Bengaluru,Yelahanka,1350,Apartment,10,1.07,5,9000,1.22,32400
+Bengaluru,Yelahanka,1800,Villa,4,5.79,6,16500,2.97,79200
+Bengaluru,Yelahanka,3500,Apartment,11,3.17,8,19500,6.83,182000
+Bengaluru,Yelahanka,1800,Apartment,18,1.69,6,9000,1.62,43200
+Bengaluru,Yelahanka,1200,Villa,25,6.08,6,7500,0.9,24000
+Bengaluru,Yelahanka,750,Apartment,15,1.08,5,5000,0.38,10000
+Bengaluru,Yelahanka,750,Apartment,5,1.08,10,5500,0.41,11000
+Bengaluru,Yelahanka,3500,Villa,18,4.93,8,25000,8.75,233333
+Bengaluru,Yelahanka,3500,Villa,25,7.9,10,20500,7.17,191333
+Bengaluru,Yelahanka,1200,Apartment,6,2.99,10,8500,1.02,27200
+Bengaluru,Yelahanka,1800,Villa,16,0.69,8,13000,2.34,62400
+Bengaluru,Yelahanka,1800,Apartment,5,4.23,9,14000,2.52,67200
+Bengaluru,Yelahanka,1500,Villa,22,9.38,9,11000,1.65,44000
+Bengaluru,Yelahanka,1000,Villa,20,6.82,7,8500,0.85,22666
+Bengaluru,Yelahanka,2500,Apartment,0,9.52,6,16500,4.12,110000
+Bengaluru,Yelahanka,1200,Apartment,16,0.51,9,6500,0.78,20800
+Bengaluru,Yelahanka,2200,Apartment,24,1.58,8,10000,2.2,58666
+Bengaluru,Yelahanka,3500,Apartment,21,4.57,7,13500,4.72,126000
+Bengaluru,Yelahanka,900,Apartment,6,0.83,6,7000,0.63,16800
+Bengaluru,Yelahanka,3500,Villa,15,6.11,6,24000,8.4,224000
+Bengaluru,Yelahanka,1350,Apartment,21,2.4,5,7000,0.94,25200
+Bengaluru,Yelahanka,3500,Villa,11,4.59,6,27000,9.45,252000
+Bengaluru,Yelahanka,2500,Villa,8,3.73,9,23000,5.75,153333
+Bengaluru,Yelahanka,2500,Apartment,1,8.06,10,18000,4.5,120000
+Bengaluru,Yelahanka,900,Apartment,17,6.43,6,5000,0.45,12000
+Bengaluru,Yelahanka,750,Apartment,15,7.91,5,4000,0.3,8000
+Bengaluru,Yelahanka,1800,Villa,23,9.59,9,13500,2.43,64800
+Bengaluru,Yelahanka,3000,Villa,10,5.55,6,21000,6.3,168000
+Bengaluru,Yelahanka,3500,Apartment,10,6.37,5,19500,6.83,182000
+Bengaluru,Yelahanka,2000,Apartment,7,5.84,6,13500,2.7,72000
+Bengaluru,Yelahanka,2500,Villa,6,5.38,6,22500,5.62,150000
+Bengaluru,Yelahanka,1000,Villa,15,2.5,5,8000,0.8,21333
+Bengaluru,Yelahanka,2500,Apartment,4,4.59,9,16000,4.0,106666
+Bengaluru,Yelahanka,2500,Villa,5,1.88,7,21000,5.25,140000
+Bengaluru,Yelahanka,1200,Apartment,14,4.05,10,6500,0.78,20800
+Bengaluru,Yelahanka,2200,Apartment,8,0.8,7,13500,2.97,79200
+Bengaluru,Yelahanka,1200,Apartment,1,4.99,7,7000,0.84,22400
+Bengaluru,Yelahanka,1200,Villa,3,4.01,8,12000,1.44,38400
+Bengaluru,Yelahanka,2500,Villa,5,5.21,6,22500,5.62,150000
+Bengaluru,Yelahanka,2000,Apartment,19,0.9,10,10000,2.0,53333
+Bengaluru,Yelahanka,3000,Apartment,5,5.79,5,16500,4.95,132000
+Bengaluru,Yelahanka,2500,Villa,16,8.82,6,19000,4.75,126666
+Bengaluru,Yelahanka,3000,Villa,15,0.77,7,21500,6.45,172000
+Bengaluru,Yelahanka,750,Villa,23,1.25,10,6500,0.49,13000
+Bengaluru,Yelahanka,1800,Villa,7,0.74,8,17000,3.06,81600
+Bengaluru,Yelahanka,3000,Apartment,7,9.48,9,16500,4.95,132000
+Bengaluru,Yelahanka,750,Apartment,13,1.05,5,5000,0.38,10000
+Bengaluru,Yelahanka,2500,Apartment,23,1.95,8,9500,2.38,63333
+Bengaluru,Yelahanka,3000,Villa,12,3.77,10,23000,6.9,184000
+Bengaluru,Yelahanka,1200,Villa,14,9.9,6,10500,1.26,33600
+Bengaluru,Yelahanka,1000,Apartment,17,1.68,10,5500,0.55,14666
+Bengaluru,Yelahanka,2500,Apartment,6,4.01,7,14000,3.5,93333
+Bengaluru,Yelahanka,2000,Apartment,7,0.34,5,12500,2.5,66666
+Bengaluru,Yelahanka,2500,Villa,21,6.8,6,15000,3.75,100000
+Bengaluru,Yelahanka,3500,Apartment,14,5.05,8,20000,7.0,186666
+Bengaluru,Yelahanka,2500,Apartment,24,4.33,10,10500,2.62,70000
+Bengaluru,Yelahanka,2500,Villa,5,7.37,10,23000,5.75,153333
+Bengaluru,Yelahanka,2500,Apartment,22,3.36,10,10000,2.5,66666
+Bengaluru,Yelahanka,1000,Villa,12,1.24,9,8500,0.85,22666
+Bengaluru,Yelahanka,900,Villa,9,2.04,7,9000,0.81,21600
+Bengaluru,Yelahanka,3500,Apartment,19,5.61,10,17000,5.95,158666
+Bengaluru,Yelahanka,1000,Villa,19,4.91,10,7500,0.75,20000
+Bengaluru,Yelahanka,900,Villa,16,7.89,5,7000,0.63,16800
+Pune,Hinjewadi,1200,Villa,12,9.93,8,12000,1.44,36000
+Pune,Hinjewadi,3000,Villa,1,8.36,7,29500,8.85,221250
+Pune,Hinjewadi,1350,Apartment,20,2.48,9,6500,0.88,21937
+Pune,Hinjewadi,1500,Villa,4,9.79,6,14000,2.1,52500
+Pune,Hinjewadi,3000,Villa,3,2.05,10,28000,8.4,210000
+Pune,Hinjewadi,3000,Apartment,22,7.39,10,15500,4.65,116250
+Pune,Hinjewadi,1500,Villa,10,4.37,7,16000,2.4,60000
+Pune,Hinjewadi,3000,Villa,21,8.1,7,21500,6.45,161250
+Pune,Hinjewadi,900,Villa,2,8.7,7,11000,0.99,24750
+Pune,Hinjewadi,2500,Apartment,15,1.66,8,14000,3.5,87500
+Pune,Hinjewadi,3000,Villa,21,4.33,8,17500,5.25,131250
+Pune,Hinjewadi,3000,Apartment,11,5.34,6,19500,5.85,146250
+Pune,Hinjewadi,2500,Apartment,2,9.97,8,18500,4.62,115625
+Pune,Hinjewadi,1500,Apartment,9,4.14,5,9500,1.43,35625
+Pune,Hinjewadi,1350,Apartment,8,1.59,10,10500,1.42,35437
+Pune,Hinjewadi,1350,Apartment,15,4.99,6,7500,1.01,25312
+Pune,Hinjewadi,3000,Apartment,20,4.36,7,16500,4.95,123750
+Pune,Hinjewadi,2500,Apartment,21,5.88,8,11000,2.75,68750
+Pune,Hinjewadi,2200,Villa,13,1.87,10,23000,5.06,126500
+Pune,Hinjewadi,3500,Villa,0,5.83,6,31500,11.03,275625
+Pune,Hinjewadi,1000,Apartment,0,2.34,9,9000,0.9,22500
+Pune,Hinjewadi,3500,Villa,10,5.77,9,28500,9.97,249375
+Pune,Hinjewadi,2200,Villa,20,2.83,8,17500,3.85,96250
+Pune,Hinjewadi,3000,Villa,21,8.02,8,24000,7.2,180000
+Pune,Hinjewadi,2000,Apartment,18,7.43,7,11000,2.2,55000
+Pune,Hinjewadi,1350,Villa,25,1.59,6,11500,1.55,38812
+Pune,Hinjewadi,2500,Villa,11,2.83,5,25500,6.38,159375
+Pune,Hinjewadi,1350,Villa,11,5.28,8,11500,1.55,38812
+Pune,Hinjewadi,1350,Apartment,19,3.1,10,8000,1.08,27000
+Pune,Hinjewadi,3000,Apartment,9,3.07,6,18000,5.4,135000
+Pune,Hinjewadi,3500,Apartment,22,7.43,6,16500,5.78,144375
+Pune,Hinjewadi,1800,Apartment,3,9.43,7,13000,2.34,58500
+Pune,Hinjewadi,3000,Villa,4,1.99,7,27000,8.1,202500
+Pune,Hinjewadi,2200,Apartment,5,6.37,9,15000,3.3,82500
+Pune,Hinjewadi,3500,Villa,1,5.64,7,36500,12.78,319375
+Pune,Hinjewadi,1350,Villa,11,9.0,9,10500,1.42,35437
+Pune,Hinjewadi,1350,Villa,17,2.2,5,12500,1.69,42187
+Pune,Hinjewadi,750,Villa,12,6.09,6,8000,0.6,15000
+Pune,Hinjewadi,2500,Apartment,10,8.16,5,17500,4.38,109375
+Pune,Hinjewadi,3000,Villa,16,9.16,10,22500,6.75,168750
+Pune,Hinjewadi,3500,Villa,9,5.85,7,29000,10.15,253750
+Pune,Hinjewadi,3000,Apartment,21,2.23,9,13500,4.05,101250
+Pune,Hinjewadi,2500,Apartment,10,2.69,10,16000,4.0,100000
+Pune,Hinjewadi,2500,Apartment,1,6.0,10,15500,3.88,96875
+Pune,Hinjewadi,3000,Villa,3,4.44,5,28000,8.4,210000
+Pune,Hinjewadi,2200,Apartment,19,1.15,8,12000,2.64,66000
+Pune,Hinjewadi,2200,Villa,2,1.97,5,20500,4.51,112750
+Pune,Hinjewadi,3000,Apartment,20,3.05,9,15000,4.5,112500
+Pune,Hinjewadi,3000,Villa,7,4.18,6,30500,9.15,228750
+Pune,Hinjewadi,750,Villa,2,8.05,10,10000,0.75,18750
+Pune,Hinjewadi,3500,Villa,2,9.35,6,34000,11.9,297500
+Pune,Hinjewadi,2500,Apartment,10,5.78,10,17000,4.25,106250
+Pune,Hinjewadi,2200,Apartment,12,6.73,10,14000,3.08,77000
+Pune,Hinjewadi,2500,Villa,11,9.97,7,22500,5.62,140625
+Pune,Hinjewadi,750,Villa,9,7.29,7,8500,0.64,15937
+Pune,Hinjewadi,2000,Apartment,14,0.78,6,11500,2.3,57500
+Pune,Hinjewadi,2500,Villa,23,2.54,8,17000,4.25,106250
+Pune,Hinjewadi,1800,Villa,5,2.44,10,19000,3.42,85500
+Pune,Hinjewadi,2500,Apartment,4,1.64,6,17000,4.25,106250
+Pune,Hinjewadi,1500,Villa,9,6.85,9,16000,2.4,60000
+Pune,Hinjewadi,2000,Villa,2,2.62,5,22500,4.5,112500
+Pune,Hinjewadi,750,Villa,13,3.33,8,8000,0.6,15000
+Pune,Hinjewadi,1350,Villa,17,4.28,10,12000,1.62,40500
+Pune,Hinjewadi,3000,Apartment,24,3.24,6,14000,4.2,105000
+Pune,Hinjewadi,1500,Villa,12,7.88,9,15000,2.25,56250
+Pune,Hinjewadi,2500,Villa,1,9.67,9,28500,7.12,178125
+Pune,Hinjewadi,2000,Villa,15,4.12,6,17500,3.5,87500
+Pune,Hinjewadi,750,Apartment,25,7.37,6,4000,0.3,7500
+Pune,Hinjewadi,1800,Villa,9,5.88,5,17500,3.15,78750
+Pune,Hinjewadi,3500,Villa,21,3.33,8,21500,7.53,188125
+Pune,Hinjewadi,1500,Apartment,15,4.45,5,10000,1.5,37500
+Pune,Hinjewadi,1200,Villa,24,2.55,8,9500,1.14,28500
+Pune,Hinjewadi,1000,Villa,19,4.23,9,8000,0.8,20000
+Pune,Hinjewadi,2500,Villa,18,7.9,7,18500,4.62,115625
+Pune,Hinjewadi,3500,Villa,21,9.12,10,27000,9.45,236250
+Pune,Hinjewadi,1200,Apartment,11,9.0,7,7500,0.9,22500
+Pune,Hinjewadi,1350,Apartment,18,8.51,6,7000,0.94,23625
+Pune,Hinjewadi,2000,Apartment,14,0.91,7,11000,2.2,55000
+Pune,Hinjewadi,1350,Villa,1,5.02,7,15000,2.02,50625
+Pune,Hinjewadi,2500,Villa,20,3.37,5,18000,4.5,112500
+Pune,Hinjewadi,1800,Apartment,9,8.15,9,11500,2.07,51750
+Pune,Hinjewadi,1500,Apartment,24,8.63,5,8000,1.2,30000
+Pune,Hinjewadi,3000,Apartment,24,8.62,9,13000,3.9,97500
+Pune,Hinjewadi,2000,Villa,10,7.0,7,19500,3.9,97500
+Pune,Hinjewadi,3500,Villa,22,9.47,5,21500,7.53,188125
+Pune,Hinjewadi,3000,Villa,18,5.16,6,25000,7.5,187500
+Pune,Hinjewadi,750,Villa,4,6.56,7,8000,0.6,15000
+Pune,Hinjewadi,2500,Villa,13,3.33,6,21500,5.38,134375
+Pune,Hinjewadi,1200,Apartment,6,8.08,9,9000,1.08,27000
+Pune,Hinjewadi,1500,Apartment,6,6.72,8,11000,1.65,41250
+Pune,Hinjewadi,2500,Apartment,2,7.59,6,19000,4.75,118750
+Pune,Hinjewadi,750,Villa,15,1.58,7,7000,0.53,13125
+Pune,Hinjewadi,3500,Apartment,11,7.14,8,21500,7.53,188125
+Pune,Hinjewadi,3000,Villa,16,2.75,6,25500,7.65,191250
+Pune,Hinjewadi,2000,Apartment,0,8.77,6,15000,3.0,75000
+Pune,Hinjewadi,1200,Apartment,22,8.54,10,7500,0.9,22500
+Pune,Hinjewadi,1500,Apartment,9,4.02,6,10500,1.57,39375
+Pune,Hinjewadi,1200,Villa,2,5.62,10,13500,1.62,40500
+Pune,Hinjewadi,1200,Apartment,2,2.14,8,9500,1.14,28500
+Pune,Hinjewadi,2500,Apartment,1,6.16,5,20500,5.12,128125
+Pune,Hinjewadi,900,Apartment,25,4.77,8,5000,0.45,11250
+Pune,Hinjewadi,1200,Apartment,8,7.18,5,9000,1.08,27000
+Pune,Hinjewadi,2000,Apartment,21,1.32,5,11000,2.2,55000
+Pune,Hinjewadi,1200,Apartment,19,7.06,9,7500,0.9,22500
+Pune,Hinjewadi,1500,Villa,5,3.82,5,16500,2.48,61875
+Pune,Hinjewadi,1000,Villa,4,1.39,9,12000,1.2,30000
+Pune,Hinjewadi,2200,Apartment,11,4.26,9,14000,3.08,77000
+Pune,Hinjewadi,3000,Apartment,7,6.42,5,19500,5.85,146250
+Pune,Hinjewadi,3000,Apartment,24,2.92,9,15000,4.5,112500
+Pune,Hinjewadi,1500,Apartment,22,4.11,7,7500,1.12,28125
+Pune,Hinjewadi,1350,Apartment,24,1.65,10,7000,0.94,23625
+Pune,Hinjewadi,1200,Villa,6,9.77,7,12500,1.5,37500
+Pune,Hinjewadi,3500,Apartment,18,3.88,8,16000,5.6,140000
+Pune,Hinjewadi,3500,Apartment,3,5.35,7,21000,7.35,183750
+Pune,Hinjewadi,2200,Apartment,13,4.57,9,13000,2.86,71500
+Pune,Hinjewadi,1500,Apartment,13,5.23,7,10500,1.57,39375
+Pune,Hinjewadi,1200,Apartment,14,1.64,9,8000,0.96,24000
+Pune,Hinjewadi,1200,Villa,15,6.08,10,10500,1.26,31500
+Pune,Hinjewadi,1800,Apartment,17,4.33,5,11500,2.07,51750
+Pune,Hinjewadi,2000,Apartment,15,2.2,8,11500,2.3,57500
+Pune,Hinjewadi,1800,Villa,14,8.26,10,14500,2.61,65250
+Pune,Hinjewadi,2500,Villa,7,4.74,7,27000,6.75,168750
+Pune,Hinjewadi,2500,Apartment,6,2.79,8,17000,4.25,106250
+Pune,Hinjewadi,3500,Apartment,11,3.41,5,23000,8.05,201250
+Pune,Hinjewadi,3500,Apartment,15,6.08,8,19000,6.65,166250
+Pune,Hinjewadi,2500,Apartment,16,9.23,5,14000,3.5,87500
+Pune,Hinjewadi,1350,Villa,12,3.65,10,11500,1.55,38812
+Pune,Hinjewadi,3000,Apartment,3,0.3,5,19500,5.85,146250
+Pune,Hinjewadi,2200,Villa,6,9.18,6,22500,4.95,123750
+Pune,Hinjewadi,3000,Apartment,12,1.93,6,18500,5.55,138750
+Pune,Hinjewadi,2500,Villa,23,1.47,7,17500,4.38,109375
+Pune,Hinjewadi,3000,Villa,18,9.31,10,22000,6.6,165000
+Pune,Hinjewadi,2200,Villa,11,4.48,10,20000,4.4,110000
+Pune,Hinjewadi,3000,Villa,12,3.68,9,23500,7.05,176250
+Pune,Hinjewadi,1800,Villa,4,3.94,5,21000,3.78,94500
+Pune,Hinjewadi,1200,Villa,8,1.37,8,13500,1.62,40500
+Pune,Hinjewadi,1500,Apartment,20,0.65,5,8000,1.2,30000
+Pune,Hinjewadi,1200,Apartment,23,8.08,5,6000,0.72,18000
+Pune,Hinjewadi,2500,Apartment,21,3.61,6,14500,3.62,90625
+Pune,Hinjewadi,2200,Villa,19,5.24,6,16000,3.52,88000
+Pune,Hinjewadi,2000,Apartment,19,8.66,5,10500,2.1,52500
+Pune,Hinjewadi,3500,Villa,24,9.89,8,25500,8.93,223125
+Pune,Hinjewadi,1500,Villa,9,4.99,8,15000,2.25,56250
+Pune,Hinjewadi,3000,Villa,8,9.92,9,23500,7.05,176250
+Pune,Hinjewadi,3000,Apartment,0,8.62,8,22000,6.6,165000
+Pune,Hinjewadi,1200,Villa,12,3.65,7,11000,1.32,33000
+Pune,Hinjewadi,2200,Villa,14,0.37,5,16500,3.63,90750
+Pune,Hinjewadi,900,Villa,5,8.24,10,10000,0.9,22500
+Pune,Hinjewadi,1350,Villa,15,3.57,6,11000,1.49,37125
+Pune,Hinjewadi,2000,Villa,22,2.57,8,14000,2.8,70000
+Pune,Wakad,1200,Villa,18,0.96,10,9500,1.14,28500
+Pune,Wakad,3000,Villa,21,3.13,8,16500,4.95,123750
+Pune,Wakad,3000,Apartment,5,4.35,8,18500,5.55,138750
+Pune,Wakad,1800,Villa,15,9.08,9,13500,2.43,60750
+Pune,Wakad,3500,Villa,11,5.08,7,24500,8.57,214375
+Pune,Wakad,1000,Apartment,0,9.55,6,7000,0.7,17500
+Pune,Wakad,2200,Apartment,11,0.88,10,11000,2.42,60500
+Pune,Wakad,2000,Apartment,12,3.41,8,10000,2.0,50000
+Pune,Wakad,2200,Villa,11,1.89,7,17000,3.74,93500
+Pune,Wakad,900,Apartment,21,6.46,6,4500,0.41,10125
+Pune,Wakad,1800,Villa,20,1.5,9,13000,2.34,58500
+Pune,Wakad,1000,Apartment,22,5.58,7,4500,0.45,11250
+Pune,Wakad,1200,Apartment,10,1.06,5,7000,0.84,21000
+Pune,Wakad,3000,Apartment,10,8.58,8,16000,4.8,120000
+Pune,Wakad,3500,Villa,13,0.43,7,28000,9.8,245000
+Pune,Wakad,750,Villa,22,9.37,9,5500,0.41,10312
+Pune,Wakad,750,Villa,10,9.12,9,6500,0.49,12187
+Pune,Wakad,2200,Apartment,10,3.1,8,11500,2.53,63250
+Pune,Wakad,1200,Apartment,22,3.96,7,6000,0.72,18000
+Pune,Wakad,2500,Villa,16,1.85,6,14500,3.62,90625
+Pune,Wakad,3000,Villa,9,7.01,8,22500,6.75,168750
+Pune,Wakad,1500,Apartment,15,5.18,9,7500,1.12,28125
+Pune,Wakad,1500,Villa,9,8.03,5,14000,2.1,52500
+Pune,Wakad,2000,Villa,18,1.81,6,15500,3.1,77500
+Pune,Wakad,3500,Apartment,23,5.61,10,13500,4.72,118125
+Pune,Wakad,3000,Villa,3,4.31,7,24500,7.35,183750
+Pune,Wakad,1000,Villa,18,0.69,8,7500,0.75,18750
+Pune,Wakad,1500,Apartment,11,0.72,10,9000,1.35,33750
+Pune,Wakad,2000,Villa,16,2.04,8,15500,3.1,77500
+Pune,Wakad,3500,Villa,17,1.67,6,23000,8.05,201250
+Pune,Wakad,2500,Villa,12,7.71,9,21000,5.25,131250
+Pune,Wakad,3000,Apartment,14,3.62,5,14000,4.2,105000
+Pune,Wakad,3500,Apartment,22,6.39,9,14000,4.9,122500
+Pune,Wakad,2500,Villa,6,9.4,7,20500,5.12,128125
+Pune,Wakad,3500,Villa,17,9.2,9,23500,8.22,205625
+Pune,Wakad,3500,Apartment,1,8.14,7,22500,7.88,196875
+Pune,Wakad,2500,Apartment,4,0.97,6,13500,3.38,84375
+Pune,Wakad,3500,Villa,24,6.47,8,18000,6.3,157500
+Pune,Wakad,2500,Apartment,10,3.75,10,14000,3.5,87500
+Pune,Wakad,1500,Villa,13,8.2,7,11000,1.65,41250
+Pune,Wakad,3500,Villa,5,4.01,10,28000,9.8,245000
+Pune,Wakad,3000,Villa,7,2.6,6,23500,7.05,176250
+Pune,Wakad,1200,Apartment,4,3.21,5,9000,1.08,27000
+Pune,Wakad,1800,Villa,25,7.05,8,12500,2.25,56250
+Pune,Wakad,2500,Villa,17,3.82,8,16500,4.12,103125
+Pune,Wakad,3500,Apartment,1,4.85,6,22000,7.7,192500
+Pune,Wakad,1800,Apartment,4,8.07,7,11000,1.98,49500
+Pune,Wakad,1800,Apartment,21,6.93,10,9000,1.62,40500
+Pune,Wakad,900,Villa,23,0.55,5,6000,0.54,13500
+Pune,Wakad,900,Villa,2,0.84,9,10500,0.94,23625
+Pune,Wakad,2000,Villa,2,6.22,7,17500,3.5,87500
+Pune,Wakad,3500,Apartment,21,1.08,8,13000,4.55,113750
+Pune,Wakad,1200,Apartment,7,1.73,9,7500,0.9,22500
+Pune,Wakad,2500,Villa,3,9.14,8,21500,5.38,134375
+Pune,Wakad,1000,Apartment,7,0.36,7,6000,0.6,15000
+Pune,Wakad,2000,Villa,18,3.28,10,14000,2.8,70000
+Pune,Wakad,1800,Apartment,13,9.28,6,10500,1.89,47250
+Pune,Wakad,1200,Apartment,5,5.6,7,7500,0.9,22500
+Pune,Wakad,2500,Villa,13,8.88,9,21000,5.25,131250
+Pune,Wakad,900,Villa,15,2.2,10,9000,0.81,20250
+Pune,Wakad,1200,Villa,10,1.91,8,10500,1.26,31500
+Pune,Wakad,3500,Villa,7,3.91,6,29000,10.15,253750
+Pune,Wakad,2200,Villa,15,7.67,7,16500,3.63,90750
+Pune,Wakad,750,Apartment,20,7.46,10,4000,0.3,7500
+Pune,Wakad,3500,Apartment,25,6.1,10,13000,4.55,113750
+Pune,Wakad,3500,Villa,7,2.5,9,24000,8.4,210000
+Pune,Wakad,2200,Villa,9,7.52,10,18000,3.96,99000
+Pune,Wakad,1200,Apartment,17,3.62,8,7000,0.84,21000
+Pune,Wakad,2200,Villa,0,9.63,7,20000,4.4,110000
+Pune,Wakad,2000,Apartment,2,3.71,7,10000,2.0,50000
+Pune,Wakad,1500,Villa,5,9.12,10,15500,2.33,58125
+Pune,Wakad,2000,Villa,25,8.17,5,12500,2.5,62500
+Pune,Wakad,1800,Villa,2,3.62,8,18500,3.33,83250
+Pune,Wakad,2500,Villa,10,3.82,5,19500,4.88,121875
+Pune,Wakad,1350,Villa,22,8.0,9,9500,1.28,32062
+Pune,Wakad,1000,Villa,11,7.49,9,9500,0.95,23750
+Pune,Wakad,3000,Villa,23,8.11,8,17500,5.25,131250
+Pune,Wakad,3500,Apartment,0,0.8,10,23000,8.05,201250
+Pune,Wakad,3500,Villa,5,4.2,10,27500,9.62,240625
+Pune,Wakad,1200,Villa,0,7.56,6,14500,1.74,43500
+Pune,Wakad,3500,Villa,9,3.76,9,24500,8.57,214375
+Pune,Wakad,1000,Apartment,3,7.57,6,7500,0.75,18750
+Pune,Wakad,3000,Apartment,22,5.59,9,12000,3.6,90000
+Pune,Wakad,3500,Villa,13,7.56,8,23000,8.05,201250
+Pune,Wakad,2500,Apartment,23,4.98,7,9500,2.38,59375
+Pune,Wakad,1350,Villa,21,9.01,7,7500,1.01,25312
+Pune,Wakad,1500,Villa,2,5.39,7,13500,2.02,50625
+Pune,Wakad,1500,Villa,12,4.63,9,13000,1.95,48750
+Pune,Wakad,1500,Apartment,0,1.5,9,11000,1.65,41250
+Pune,Wakad,3500,Apartment,19,8.44,5,14000,4.9,122500
+Pune,Wakad,2500,Villa,6,5.64,10,22000,5.5,137500
+Pune,Wakad,1350,Villa,1,6.12,9,13000,1.75,43875
+Pune,Wakad,2500,Villa,19,7.39,6,14000,3.5,87500
+Pune,Wakad,1000,Apartment,11,6.59,9,6500,0.65,16250
+Pune,Wakad,1200,Villa,0,0.96,8,13500,1.62,40500
+Pune,Wakad,3500,Apartment,15,6.09,6,16000,5.6,140000
+Pune,Wakad,1500,Villa,6,4.12,7,15000,2.25,56250
+Pune,Wakad,2500,Apartment,12,3.6,8,13000,3.25,81250
+Pune,Wakad,1500,Apartment,19,8.74,7,7500,1.12,28125
+Pune,Wakad,3500,Villa,6,8.52,6,28000,9.8,245000
+Pune,Wakad,2500,Apartment,25,2.06,5,9000,2.25,56250
+Pune,Wakad,1800,Apartment,8,7.15,9,10500,1.89,47250
+Pune,Wakad,2500,Villa,7,5.49,9,19000,4.75,118750
+Pune,Wakad,3500,Villa,20,2.35,5,22500,7.88,196875
+Pune,Wakad,750,Apartment,15,0.7,7,4500,0.34,8437
+Pune,Wakad,3500,Apartment,12,8.62,10,15000,5.25,131250
+Pune,Wakad,2200,Villa,22,6.77,10,14500,3.19,79750
+Pune,Wakad,3000,Apartment,8,7.28,5,16500,4.95,123750
+Pune,Wakad,3000,Apartment,1,9.32,7,16000,4.8,120000
+Pune,Wakad,1800,Villa,15,0.81,9,14000,2.52,63000
+Pune,Wakad,3500,Apartment,25,7.34,5,13000,4.55,113750
+Pune,Wakad,1800,Villa,16,5.46,7,12500,2.25,56250
+Pune,Wakad,2200,Villa,21,5.77,6,13000,2.86,71500
+Pune,Wakad,3000,Apartment,1,3.98,7,19000,5.7,142500
+Pune,Wakad,1350,Villa,16,6.29,7,10500,1.42,35437
+Pune,Wakad,2500,Apartment,4,6.04,7,15000,3.75,93750
+Pune,Wakad,3000,Apartment,13,2.16,7,16500,4.95,123750
+Pune,Wakad,1200,Apartment,10,6.14,6,8000,0.96,24000
+Pune,Wakad,2500,Villa,8,5.05,8,17000,4.25,106250
+Pune,Wakad,1800,Villa,8,5.34,9,16000,2.88,72000
+Pune,Wakad,2000,Apartment,13,2.22,7,10000,2.0,50000
+Pune,Wakad,2500,Apartment,24,1.12,9,10500,2.62,65625
+Pune,Wakad,3500,Villa,20,4.53,5,20500,7.17,179375
+Pune,Wakad,1500,Apartment,4,2.98,6,11500,1.73,43125
+Pune,Wakad,1500,Villa,1,5.71,7,15500,2.33,58125
+Pune,Wakad,1350,Villa,22,9.25,8,9000,1.22,30375
+Pune,Wakad,1200,Apartment,15,5.17,8,7500,0.9,22500
+Pune,Wakad,2200,Villa,22,0.66,8,13000,2.86,71500
+Pune,Wakad,2500,Apartment,3,4.91,5,16000,4.0,100000
+Pune,Wakad,2200,Apartment,2,0.42,7,13500,2.97,74250
+Pune,Wakad,1500,Villa,5,5.66,9,14000,2.1,52500
+Pune,Wakad,3500,Apartment,18,1.13,9,17500,6.12,153125
+Pune,Wakad,750,Apartment,16,9.73,8,5000,0.38,9375
+Pune,Wakad,1000,Villa,7,2.6,10,10000,1.0,25000
+Pune,Wakad,1000,Apartment,10,4.99,7,6000,0.6,15000
+Pune,Wakad,3500,Apartment,21,1.33,8,14500,5.08,126875
+Pune,Wakad,2200,Apartment,18,8.42,7,10000,2.2,55000
+Pune,Wakad,1350,Apartment,0,5.2,8,9000,1.22,30375
+Pune,Wakad,3500,Villa,21,7.76,8,21500,7.53,188125
+Pune,Wakad,3500,Apartment,8,1.46,7,17500,6.12,153125
+Pune,Wakad,900,Villa,20,0.65,7,7500,0.68,16875
+Pune,Wakad,3000,Apartment,4,2.85,5,17500,5.25,131250
+Pune,Wakad,3500,Villa,9,4.39,5,26500,9.28,231875
+Pune,Wakad,1000,Villa,17,5.9,5,7500,0.75,18750
+Pune,Wakad,2200,Apartment,8,5.84,6,11500,2.53,63250
+Pune,Wakad,2200,Apartment,2,1.33,6,12500,2.75,68750
+Pune,Wakad,1350,Villa,12,3.86,7,11500,1.55,38812
+Pune,Wakad,3500,Apartment,24,9.67,5,13500,4.72,118125
+Pune,Wakad,2000,Villa,15,9.71,10,15000,3.0,75000
+Pune,Wakad,2000,Apartment,21,7.1,7,10000,2.0,50000
+Pune,Baner,3500,Villa,3,3.07,9,34500,12.07,301875
+Pune,Baner,1500,Villa,15,4.98,8,17000,2.55,63750
+Pune,Baner,2500,Villa,8,7.65,5,23500,5.88,146875
+Pune,Baner,2500,Villa,25,9.27,9,16500,4.12,103125
+Pune,Baner,1500,Villa,13,0.85,5,16000,2.4,60000
+Pune,Baner,900,Villa,16,6.22,8,9000,0.81,20250
+Pune,Baner,3500,Apartment,7,5.6,8,22000,7.7,192500
+Pune,Baner,3000,Apartment,20,8.56,7,14500,4.35,108750
+Pune,Baner,2500,Apartment,13,5.72,8,15000,3.75,93750
+Pune,Baner,2000,Apartment,4,0.46,10,15500,3.1,77500
+Pune,Baner,2000,Villa,7,9.65,7,23500,4.7,117500
+Pune,Baner,3000,Apartment,1,1.07,5,20000,6.0,150000
+Pune,Baner,3000,Villa,3,6.93,8,32500,9.75,243750
+Pune,Baner,1000,Villa,14,1.52,7,11000,1.1,27500
+Pune,Baner,1800,Apartment,18,5.94,9,10500,1.89,47250
+Pune,Baner,750,Villa,3,8.83,6,11000,0.82,20625
+Pune,Baner,1500,Apartment,12,6.59,5,10500,1.57,39375
+Pune,Baner,2500,Villa,22,1.57,7,20500,5.12,128125
+Pune,Baner,3000,Villa,23,3.3,10,23500,7.05,176250
+Pune,Baner,2500,Villa,19,3.22,7,22500,5.62,140625
+Pune,Baner,1500,Apartment,6,2.09,5,11500,1.73,43125
+Pune,Baner,3000,Apartment,8,2.49,8,23000,6.9,172500
+Pune,Baner,3000,Apartment,0,6.28,8,23000,6.9,172500
+Pune,Baner,1200,Apartment,0,4.85,10,10500,1.26,31500
+Pune,Baner,2500,Villa,14,1.74,10,22000,5.5,137500
+Pune,Baner,3000,Villa,23,7.76,7,21500,6.45,161250
+Pune,Baner,3000,Villa,19,4.43,10,23500,7.05,176250
+Pune,Baner,3500,Villa,22,0.63,7,25500,8.93,223125
+Pune,Baner,1000,Apartment,4,4.62,5,8500,0.85,21250
+Pune,Baner,1500,Apartment,3,1.14,10,12500,1.88,46875
+Pune,Baner,1500,Apartment,0,5.52,8,12500,1.88,46875
+Pune,Baner,3500,Apartment,4,8.35,8,26500,9.28,231875
+Pune,Baner,3500,Apartment,25,1.6,5,16500,5.78,144375
+Pune,Baner,2000,Villa,24,3.83,6,15500,3.1,77500
+Pune,Baner,2500,Apartment,13,9.4,5,15000,3.75,93750
+Pune,Baner,1350,Villa,4,7.1,8,14500,1.96,48937
+Pune,Baner,2500,Villa,0,7.72,9,30000,7.5,187500
+Pune,Baner,1800,Villa,6,0.92,9,21000,3.78,94500
+Pune,Baner,2200,Villa,1,4.06,5,23500,5.17,129250
+Pune,Baner,1200,Villa,20,9.83,8,10000,1.2,30000
+Pune,Baner,2500,Villa,23,6.53,5,20500,5.12,128125
+Pune,Baner,2500,Villa,12,4.51,9,22500,5.62,140625
+Pune,Baner,3000,Villa,23,8.73,6,21000,6.3,157500
+Pune,Baner,900,Apartment,16,7.64,8,6000,0.54,13500
+Pune,Baner,3000,Apartment,10,4.12,7,18000,5.4,135000
+Pune,Baner,3500,Villa,13,7.5,5,36000,12.6,315000
+Pune,Baner,2500,Villa,19,2.51,8,20500,5.12,128125
+Pune,Baner,3500,Apartment,13,4.9,6,20500,7.17,179375
+Pune,Baner,1800,Apartment,23,1.93,8,9000,1.62,40500
+Pune,Baner,2200,Apartment,14,0.86,9,12000,2.64,66000
+Pune,Baner,1500,Villa,18,5.96,9,15500,2.33,58125
+Pune,Baner,3500,Apartment,14,4.37,7,22500,7.88,196875
+Pune,Baner,2200,Villa,13,7.1,8,21000,4.62,115500
+Pune,Baner,1350,Apartment,19,0.37,7,6500,0.88,21937
+Pune,Baner,3500,Apartment,23,7.01,10,17000,5.95,148750
+Pune,Baner,2500,Apartment,4,3.87,6,19000,4.75,118750
+Pune,Baner,1350,Villa,19,9.8,5,12000,1.62,40500
+Pune,Baner,2500,Villa,15,9.13,6,17500,4.38,109375
+Pune,Baner,1500,Apartment,17,7.26,5,10500,1.57,39375
+Pune,Baner,2200,Villa,8,8.68,10,23500,5.17,129250
+Pune,Baner,1350,Apartment,5,4.73,5,9000,1.22,30375
+Pune,Baner,2000,Apartment,13,9.68,9,12500,2.5,62500
+Pune,Baner,1500,Apartment,3,7.06,8,11500,1.73,43125
+Pune,Baner,1800,Villa,10,5.63,5,18500,3.33,83250
+Pune,Baner,3000,Apartment,8,4.35,10,20000,6.0,150000
+Pune,Baner,3000,Apartment,19,8.32,10,17000,5.1,127500
+Pune,Baner,900,Villa,14,5.71,5,8000,0.72,18000
+Pune,Baner,1200,Apartment,25,4.85,9,6500,0.78,19500
+Pune,Baner,900,Apartment,16,8.62,6,6000,0.54,13500
+Pune,Baner,3500,Apartment,3,1.55,7,24000,8.4,210000
+Pune,Baner,1350,Villa,23,3.19,10,11000,1.49,37125
+Pune,Baner,2500,Villa,24,2.51,10,20500,5.12,128125
+Pune,Baner,1200,Villa,4,1.91,7,15000,1.8,45000
+Pune,Baner,1200,Apartment,3,3.63,8,10000,1.2,30000
+Pune,Baner,2500,Apartment,24,9.88,6,11500,2.88,71875
+Pune,Baner,2500,Villa,10,8.94,9,24500,6.12,153125
+Pune,Baner,1350,Villa,2,4.77,7,15000,2.02,50625
+Pune,Baner,2500,Apartment,11,2.09,6,18000,4.5,112500
+Pune,Baner,3000,Apartment,13,0.68,6,18500,5.55,138750
+Pune,Baner,2500,Villa,13,6.18,8,21000,5.25,131250
+Pune,Baner,3000,Villa,25,4.46,5,20500,6.15,153750
+Pune,Baner,2500,Apartment,4,5.49,10,20000,5.0,125000
+Pune,Baner,3000,Apartment,2,4.93,7,24000,7.2,180000
+Pune,Baner,2000,Apartment,12,8.97,8,13000,2.6,65000
+Pune,Baner,1000,Apartment,12,3.56,10,8000,0.8,20000
+Pune,Baner,3500,Apartment,4,9.63,10,25000,8.75,218750
+Pune,Baner,3500,Villa,16,5.24,8,25000,8.75,218750
+Pune,Baner,2200,Villa,21,9.6,10,17000,3.74,93500
+Pune,Baner,2000,Apartment,11,1.69,7,12000,2.4,60000
+Pune,Baner,3000,Apartment,19,3.01,10,17500,5.25,131250
+Pune,Baner,2500,Apartment,14,4.23,9,14500,3.62,90625
+Pune,Baner,3500,Villa,25,1.8,10,24000,8.4,210000
+Pune,Baner,2200,Villa,25,4.56,6,14000,3.08,77000
+Pune,Baner,2000,Apartment,2,3.37,9,16000,3.2,80000
+Pune,Baner,2000,Apartment,12,1.14,9,13500,2.7,67500
+Pune,Baner,3000,Apartment,9,5.84,5,20500,6.15,153750
+Pune,Baner,3000,Villa,17,9.12,9,24500,7.35,183750
+Pune,Baner,2000,Apartment,24,2.8,5,10500,2.1,52500
+Pune,Baner,750,Villa,25,4.66,6,7000,0.53,13125
+Pune,Baner,2000,Villa,23,9.96,9,16500,3.3,82500
+Pune,Baner,1200,Apartment,23,3.09,7,8000,0.96,24000
+Pune,Baner,1800,Villa,20,4.23,5,18000,3.24,81000
+Pune,Baner,900,Apartment,24,1.94,8,6500,0.58,14625
+Pune,Baner,2000,Apartment,18,2.5,8,12000,2.4,60000
+Pune,Baner,2000,Apartment,7,5.57,7,15000,3.0,75000
+Pune,Baner,2000,Apartment,9,9.91,10,16500,3.3,82500
+Pune,Baner,2200,Apartment,16,6.23,5,15000,3.3,82500
+Pune,Baner,2000,Apartment,16,1.95,7,12000,2.4,60000
+Pune,Baner,2500,Apartment,3,4.03,10,17500,4.38,109375
+Pune,Baner,2500,Apartment,13,7.88,5,13500,3.38,84375
+Pune,Baner,1000,Apartment,13,5.0,8,7500,0.75,18750
+Pune,Baner,1500,Apartment,14,3.62,7,11500,1.73,43125
+Pune,Baner,3500,Villa,16,8.16,9,27500,9.62,240625
+Pune,Baner,3000,Villa,16,5.19,7,24000,7.2,180000
+Pune,Baner,3000,Villa,15,2.83,8,20000,6.0,150000
+Pune,Baner,3500,Villa,15,9.68,6,31000,10.85,271250
+Pune,Baner,1350,Apartment,16,5.84,8,9500,1.28,32062
+Pune,Baner,2500,Apartment,4,5.96,10,19000,4.75,118750
+Pune,Baner,1500,Villa,14,7.26,5,14000,2.1,52500
+Pune,Baner,1350,Villa,17,4.74,5,12500,1.69,42187
+Pune,Baner,3000,Apartment,13,4.13,5,18000,5.4,135000
+Pune,Baner,2200,Villa,18,9.68,5,19500,4.29,107250
+Pune,Baner,3000,Apartment,4,9.59,7,20500,6.15,153750
+Pune,Baner,2000,Villa,11,8.99,7,18000,3.6,90000
+Pune,Baner,2500,Apartment,0,9.68,6,17000,4.25,106250
+Pune,Baner,3000,Apartment,13,5.4,7,17500,5.25,131250
+Pune,Baner,1800,Apartment,6,6.97,10,14500,2.61,65250
+Pune,Baner,2500,Apartment,0,0.8,9,18500,4.62,115625
+Pune,Baner,2200,Apartment,2,0.78,8,15000,3.3,82500
+Pune,Baner,2500,Villa,18,3.36,9,19000,4.75,118750
+Pune,Baner,2500,Villa,10,5.06,8,22500,5.62,140625
+Pune,Baner,3000,Apartment,4,3.3,9,20500,6.15,153750
+Pune,Baner,3500,Villa,14,9.76,10,27000,9.45,236250
+Pune,Baner,2500,Villa,4,5.89,5,22500,5.62,140625
+Pune,Baner,3500,Villa,21,9.84,8,28000,9.8,245000
+Pune,Baner,1800,Villa,12,7.25,9,16000,2.88,72000
+Pune,Baner,900,Villa,21,6.19,10,8500,0.77,19125
+Pune,Baner,1800,Apartment,20,0.92,6,10000,1.8,45000
+Pune,Baner,3500,Villa,0,6.08,9,35500,12.43,310625
+Pune,Baner,3500,Apartment,3,8.46,6,26500,9.28,231875
+Pune,Baner,3000,Apartment,17,0.59,9,17000,5.1,127500
+Pune,Baner,3000,Villa,6,2.41,9,33500,10.05,251250
+Pune,Baner,750,Apartment,3,1.6,5,6500,0.49,12187
+Pune,Baner,1800,Apartment,25,6.32,6,8500,1.53,38250
+Pune,Baner,3500,Villa,18,5.58,5,27000,9.45,236250
+Pune,Baner,3000,Villa,19,2.62,8,22500,6.75,168750
+Pune,Baner,3000,Villa,1,2.37,5,37500,11.25,281250
+Pune,Baner,2000,Apartment,13,2.41,8,12500,2.5,62500
+Pune,Baner,750,Villa,16,3.86,8,8000,0.6,15000
+Pune,Baner,1800,Apartment,2,9.56,5,14500,2.61,65250
+Pune,Kharadi,3000,Villa,5,8.06,6,27000,8.1,202500
+Pune,Kharadi,1500,Apartment,8,5.21,6,10000,1.5,37500
+Pune,Kharadi,2000,Apartment,13,7.84,5,13000,2.6,65000
+Pune,Kharadi,3000,Apartment,10,3.79,5,19000,5.7,142500
+Pune,Kharadi,900,Villa,9,6.97,5,9500,0.85,21375
+Pune,Kharadi,2000,Villa,4,7.11,7,21000,4.2,105000
+Pune,Kharadi,1800,Apartment,12,0.4,5,10000,1.8,45000
+Pune,Kharadi,1500,Apartment,7,7.03,8,10000,1.5,37500
+Pune,Kharadi,3000,Villa,24,7.73,5,22000,6.6,165000
+Pune,Kharadi,1800,Villa,1,3.15,8,19500,3.51,87750
+Pune,Kharadi,3000,Apartment,13,4.63,8,19500,5.85,146250
+Pune,Kharadi,750,Apartment,13,9.88,5,6000,0.45,11250
+Pune,Kharadi,1800,Apartment,17,2.48,6,11500,2.07,51750
+Pune,Kharadi,3000,Apartment,20,9.18,7,17500,5.25,131250
+Pune,Kharadi,3000,Villa,13,1.82,5,27000,8.1,202500
+Pune,Kharadi,3500,Apartment,16,2.96,6,21500,7.53,188125
+Pune,Kharadi,2200,Apartment,17,4.9,6,13500,2.97,74250
+Pune,Kharadi,3000,Villa,13,8.92,5,22000,6.6,165000
+Pune,Kharadi,750,Villa,14,5.82,10,8000,0.6,15000
+Pune,Kharadi,1350,Apartment,0,0.8,8,13500,1.82,45562
+Pune,Kharadi,1800,Villa,19,2.56,10,12500,2.25,56250
+Pune,Kharadi,2200,Apartment,11,2.06,9,14000,3.08,77000
+Pune,Kharadi,3000,Apartment,9,5.19,6,17500,5.25,131250
+Pune,Kharadi,3000,Apartment,18,4.8,7,15000,4.5,112500
+Pune,Kharadi,1000,Apartment,12,1.59,6,7000,0.7,17500
+Pune,Kharadi,3000,Villa,8,7.83,6,29000,8.7,217500
+Pune,Kharadi,3000,Villa,16,8.14,10,23500,7.05,176250
+Pune,Kharadi,2200,Villa,20,6.55,10,18000,3.96,99000
+Pune,Kharadi,2500,Apartment,8,8.39,10,19500,4.88,121875
+Pune,Kharadi,2000,Apartment,10,4.75,8,14500,2.9,72500
+Pune,Kharadi,3000,Apartment,10,5.43,10,19000,5.7,142500
+Pune,Kharadi,1200,Apartment,20,1.09,9,7000,0.84,21000
+Pune,Kharadi,2500,Apartment,0,4.52,10,19500,4.88,121875
+Pune,Kharadi,1350,Villa,13,1.59,8,11500,1.55,38812
+Pune,Kharadi,3000,Apartment,2,7.01,9,20500,6.15,153750
+Pune,Kharadi,900,Villa,21,1.31,10,8000,0.72,18000
+Pune,Kharadi,1200,Villa,11,1.71,9,12500,1.5,37500
+Pune,Kharadi,2200,Apartment,12,4.83,10,15000,3.3,82500
+Pune,Kharadi,750,Villa,3,1.34,7,10000,0.75,18750
+Pune,Kharadi,1500,Apartment,14,8.33,6,10000,1.5,37500
+Pune,Kharadi,750,Villa,24,6.37,10,6000,0.45,11250
+Pune,Kharadi,2200,Apartment,6,4.04,9,15000,3.3,82500
+Pune,Kharadi,3500,Apartment,9,9.45,6,24000,8.4,210000
+Pune,Kharadi,2500,Apartment,11,7.19,7,16500,4.12,103125
+Pune,Kharadi,2500,Apartment,22,1.39,5,12000,3.0,75000
+Pune,Kharadi,1500,Villa,20,6.5,5,13500,2.02,50625
+Pune,Kharadi,1800,Villa,18,3.61,6,15500,2.79,69750
+Pune,Kharadi,3000,Apartment,6,0.54,5,20000,6.0,150000
+Pune,Kharadi,3000,Apartment,4,7.06,6,22000,6.6,165000
+Pune,Kharadi,1800,Apartment,18,9.75,9,11000,1.98,49500
+Pune,Kharadi,1800,Apartment,6,9.76,10,14500,2.61,65250
+Pune,Kharadi,3500,Villa,17,1.54,10,30500,10.68,266875
+Pune,Kharadi,3000,Apartment,14,6.61,8,17000,5.1,127500
+Pune,Kharadi,3500,Apartment,21,3.81,7,17500,6.12,153125
+Pune,Kharadi,2500,Villa,13,8.32,5,21500,5.38,134375
+Pune,Kharadi,3500,Villa,16,0.83,8,32000,11.2,280000
+Pune,Kharadi,2200,Apartment,16,4.44,10,14000,3.08,77000
+Pune,Kharadi,1500,Villa,1,6.52,8,17500,2.62,65625
+Pune,Kharadi,3000,Villa,14,3.32,5,24000,7.2,180000
+Pune,Kharadi,2200,Villa,6,9.73,5,22500,4.95,123750
+Pune,Kharadi,3000,Apartment,25,3.79,10,11500,3.45,86250
+Pune,Kharadi,1500,Villa,22,6.92,5,11500,1.73,43125
+Pune,Kharadi,1800,Apartment,6,6.72,7,12000,2.16,54000
+Pune,Kharadi,2000,Apartment,2,3.36,5,16500,3.3,82500
+Pune,Kharadi,2500,Apartment,13,1.51,9,15000,3.75,93750
+Pune,Kharadi,3500,Villa,10,6.1,6,31500,11.03,275625
+Pune,Kharadi,1200,Apartment,15,8.74,7,8000,0.96,24000
+Pune,Kharadi,900,Apartment,10,4.76,5,7500,0.68,16875
+Pune,Kharadi,3000,Villa,19,1.05,5,25000,7.5,187500
+Pune,Kharadi,3500,Apartment,14,2.67,5,21000,7.35,183750
+Pune,Kharadi,900,Villa,1,4.39,7,11500,1.03,25875
+Pune,Kharadi,3500,Apartment,2,2.17,5,21500,7.53,188125
+Pune,Kharadi,2500,Villa,1,1.29,9,27000,6.75,168750
+Pune,Kharadi,3500,Apartment,13,3.62,5,22500,7.88,196875
+Pune,Kharadi,3500,Apartment,1,5.6,7,25500,8.93,223125
+Pune,Kharadi,2200,Apartment,12,5.95,9,13500,2.97,74250
+Pune,Kharadi,2500,Apartment,7,2.11,8,16500,4.12,103125
+Pune,Kharadi,2200,Villa,14,0.85,9,19000,4.18,104500
+Pune,Kharadi,3000,Villa,3,6.0,10,31000,9.3,232500
+Pune,Kharadi,3500,Apartment,25,8.25,8,15000,5.25,131250
+Pune,Kharadi,3000,Apartment,10,3.47,5,20500,6.15,153750
+Pune,Kharadi,1200,Apartment,0,2.96,9,9000,1.08,27000
+Pune,Kharadi,1500,Apartment,18,0.56,10,9500,1.43,35625
+Pune,Kharadi,3000,Villa,8,5.93,8,31500,9.45,236250
+Pune,Kharadi,2500,Villa,23,7.49,6,16500,4.12,103125
+Pune,Kharadi,1800,Apartment,4,3.72,5,14000,2.52,63000
+Pune,Kharadi,1200,Villa,9,1.52,9,13000,1.56,39000
+Pune,Kharadi,3500,Villa,24,8.63,7,22000,7.7,192500
+Pune,Kharadi,3000,Apartment,17,9.64,6,15000,4.5,112500
+Pune,Kharadi,2500,Villa,9,1.32,7,25000,6.25,156250
+Pune,Kharadi,2200,Apartment,0,8.18,5,19500,4.29,107250
+Pune,Kharadi,1800,Apartment,16,7.88,8,12000,2.16,54000
+Pune,Kharadi,2200,Apartment,6,7.12,10,16500,3.63,90750
+Pune,Kharadi,1500,Apartment,25,3.08,7,8000,1.2,30000
+Pune,Kharadi,1500,Villa,21,6.51,10,12500,1.88,46875
+Pune,Kharadi,3500,Villa,14,0.62,9,29000,10.15,253750
+Pune,Kharadi,3000,Villa,10,5.92,8,28500,8.55,213750
+Pune,Kharadi,2000,Apartment,5,2.01,8,13500,2.7,67500
+Pune,Kharadi,900,Apartment,15,2.58,5,6500,0.58,14625
+Pune,Kharadi,3500,Apartment,7,2.35,8,22500,7.88,196875
+Pune,Kharadi,3500,Apartment,6,1.7,8,23000,8.05,201250
+Pune,Kharadi,2000,Villa,25,9.14,6,16000,3.2,80000
+Pune,Kharadi,2200,Apartment,5,1.72,7,14500,3.19,79750
+Pune,Kharadi,750,Villa,2,1.82,5,10000,0.75,18750
+Pune,Kharadi,3000,Apartment,3,6.93,7,24000,7.2,180000
+Pune,Kharadi,2500,Villa,6,3.3,5,26000,6.5,162500
+Pune,Kharadi,750,Apartment,6,4.65,7,6500,0.49,12187
+Pune,Kharadi,1350,Villa,7,3.13,10,14500,1.96,48937
+Pune,Kharadi,1350,Apartment,10,3.16,6,10500,1.42,35437
+Pune,Kharadi,1500,Apartment,0,2.75,7,10500,1.57,39375
+Pune,Kharadi,1200,Apartment,0,9.18,8,10500,1.26,31500
+Pune,Kharadi,3500,Apartment,25,1.3,7,15500,5.42,135625
+Pune,Kharadi,1500,Villa,9,6.67,6,15500,2.33,58125
+Pune,Kharadi,2200,Villa,25,9.47,10,16000,3.52,88000
+Pune,Kharadi,1350,Villa,16,6.87,10,11500,1.55,38812
+Pune,Kharadi,1000,Apartment,3,3.25,6,8000,0.8,20000
+Pune,Kharadi,1500,Villa,6,1.2,10,18000,2.7,67500
+Pune,Kharadi,2200,Villa,10,1.67,10,20500,4.51,112750
+Pune,Kharadi,1800,Apartment,1,1.56,9,13000,2.34,58500
+Pune,Kharadi,2000,Apartment,25,1.25,7,10500,2.1,52500
+Pune,Kharadi,1800,Villa,1,1.92,6,23000,4.14,103500
+Pune,Kharadi,3000,Villa,18,5.51,6,21000,6.3,157500
+Pune,Kharadi,1000,Villa,25,6.87,10,8500,0.85,21250
+Pune,Kharadi,3000,Apartment,2,2.88,9,24000,7.2,180000
+Pune,Kharadi,2200,Villa,24,0.68,8,17000,3.74,93500
+Pune,Kharadi,3000,Apartment,14,5.82,7,17500,5.25,131250
+Pune,Kharadi,2200,Villa,16,8.37,10,20500,4.51,112750
+Pune,Kharadi,2500,Villa,15,9.81,9,23500,5.88,146875
+Pune,Kharadi,2200,Apartment,20,9.86,6,11000,2.42,60500
+Pune,Kharadi,1500,Villa,6,8.05,6,17500,2.62,65625
+Pune,Kharadi,2200,Villa,6,1.34,8,23000,5.06,126500
+Pune,Kharadi,2200,Apartment,18,4.01,7,12500,2.75,68750
+Pune,Kharadi,1800,Apartment,17,6.42,6,9500,1.71,42750
+Pune,Kharadi,1000,Villa,9,3.31,9,9500,0.95,23750
+Pune,Kharadi,2200,Apartment,7,7.69,8,15500,3.41,85250
+Pune,Kharadi,3000,Villa,19,7.45,8,23000,6.9,172500
+Pune,Kharadi,2500,Villa,14,2.75,8,21500,5.38,134375
+Pune,Kharadi,2200,Villa,25,9.15,7,15000,3.3,82500
+Pune,Kharadi,1800,Apartment,12,6.44,6,11000,1.98,49500
+Pune,Kharadi,2500,Villa,7,7.28,10,26500,6.62,165625
+Pune,Kharadi,1000,Apartment,11,0.57,7,8000,0.8,20000
+Pune,Kharadi,3000,Apartment,16,1.72,7,15000,4.5,112500
+Pune,Kharadi,1500,Apartment,3,8.28,5,12500,1.88,46875
+Pune,Kharadi,2200,Apartment,1,4.23,7,15000,3.3,82500
+Pune,Kharadi,1500,Villa,21,6.08,7,12000,1.8,45000
+Pune,Kharadi,2000,Villa,23,8.25,6,15500,3.1,77500
+Pune,Kharadi,3500,Apartment,19,9.99,10,17000,5.95,148750
+Pune,Kharadi,3000,Apartment,8,6.73,7,18500,5.55,138750
+Pune,Kharadi,1800,Villa,11,9.66,8,17500,3.15,78750
+Pune,Kharadi,3000,Apartment,24,8.01,8,15000,4.5,112500

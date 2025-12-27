@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Golden Mile Properties</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Golden Mile Properties</h1>
+
+  <!-- City Selection -->
+  <div class="section">
+    <h3>Select City</h3>
+    <div class="city-toggle">
+      <button class="city-btn" data-city="Pune">Pune</button>
+      <button class="city-btn" data-city="Hyderabad">Hyderabad</button>
+      <button class="city-btn" data-city="Bangalore">Bangalore</button>
+    </div>
+    <p class="note">Insights available only for these cities.</p>
+  </div>
+
+  <!-- Inputs -->
+  <div class="section">
+    <input id="budget" placeholder="Budget (in Crores, e.g. 1.0)" />
+    <input id="size" placeholder="Property Size (sqft, e.g. 1200)" />
+    <input id="intent" placeholder="Purpose (Investment / Living)" />
+  </div>
+
+  <!-- Actions -->
+  <div class="section">
+    <button onclick="generateReport()">Generate Analysis</button>
+    <button onclick="downloadPDF()" id="downloadBtn" disabled>
+      Download PDF Report
+    </button>
+  </div>
+
+  <div id="status"></div>
+  <pre id="output"></pre>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
