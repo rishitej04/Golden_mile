@@ -1,0 +1,33 @@
+{
+  "user_inputs": {
+    "city": "Pune",
+    "budget": 1.0,
+    "size": 1200.0,
+    "intent": "Investment",
+    "metro": "Yes"
+  },
+  "summary": {
+    "localities": [
+      "Gachibowli",
+      "Hitech City",
+      "Madhapur",
+      "Kondapur",
+      "Kukatpally",
+      "Miyapur",
+      "Uppal",
+      "LB Nagar",
+      "Whitefield",
+      "Electronic City",
+      "Indiranagar",
+      "Sarjapur Road",
+      "Yelahanka",
+      "Hinjewadi",
+      "Wakad",
+      "Baner",
+      "Kharadi"
+    ],
+    "min_price_cr": 0.4399999976158142,
+    "max_price_cr": 1.25
+  },
+  "analysis": "Advisory Report for Real Estate Investment in Pune\n\nClient Profile:\nCity: Pune\nBudget: \u20b91.0 Cr\nProperty Size Requirement: 1200.0 sqft\nPurpose: Investment\nMetro Connectivity Required: Yes\n\n---\n\n 1. Budget Feasibility Summary\n\nBased on current market conditions, properties within your budget of \u20b91.0 Cr can be found in the following price range:\nAvailable price range: \u20b90.44 Cr \u2013 \u20b91.25 Cr\n\nThis range allows for flexibility in property selection, including potential options for negotiation.\n\n---\n\n 2. Best-Fit Localities\n\nHere are the recommended localities in Pune that meet your criteria for investment:\n\n1. Baner\n   Pros: Proximity to IT parks, good schools, and hospitals; vibrant community.\n   Metro Connectivity: Well-connected with ongoing metro expansion.\n\n2. Kharadi\n   Pros: Emerging IT hub, close to major tech companies, and good social infrastructure.\n   Metro Connectivity: Excellent connectivity with metro stations planned.\n\n3. Hinjewadi\n   Pros: Home to many IT companies, high rental demand from professionals.\n   Metro Connectivity: Strong metro links under development.\n\n4. Wakad\n   Pros: Rapidly developing area with good access to highways and IT parks.\n   Metro Connectivity: Planned metro routes will enhance accessibility.\n\n5. Hadapsar\n   Pros: Growing residential area with good amenities and proximity to IT parks.\n   Metro Connectivity: Well-connected with metro lines in progress.\n\n---\n\n 3. Trade-offs & Risks\nOlder Properties: Some budget-friendly options may be older and require renovation.\nAmenities vs. Cost: Properties with premium amenities may exceed the budget.\nMarket Fluctuations: High-demand areas may experience slower appreciation due to market saturation.\n\n---\n\n 4. Rental Yield Estimation\nEstimated Monthly Rent: \u20b923,124\nEstimated Annual Yield: 3.0%\n\nThis yield is based on current rental trends in Pune, reflecting a conservative approach to rental income.\n\n---\n\n 5. Final Recommendation\nGiven your budget and requirements, I recommend focusing on properties in Baner, Kharadi, and Hinjewadi. These areas not only offer strong rental demand but also have excellent metro connectivity, ensuring stable returns on investment.\n\nAction Steps:\n1. Property Viewing: Schedule visits to shortlisted properties.\n2. Market Research: Analyze recent sales and rental trends in chosen localities.\n3. Negotiation: Be prepared to negotiate based on property condition and market trends.\n\nInvesting in these localities will provide a balanced approach to capital appreciation and rental income."
+}

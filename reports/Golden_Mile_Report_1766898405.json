@@ -1,0 +1,33 @@
+{
+  "user_inputs": {
+    "city": "Pune",
+    "budget": 1.0,
+    "size": 1000.0,
+    "intent": "Investment",
+    "metro": "Yes"
+  },
+  "summary": {
+    "localities": [
+      "Gachibowli",
+      "Hitech City",
+      "Madhapur",
+      "Kondapur",
+      "Kukatpally",
+      "Miyapur",
+      "Uppal",
+      "LB Nagar",
+      "Whitefield",
+      "Electronic City",
+      "Indiranagar",
+      "Sarjapur Road",
+      "Yelahanka",
+      "Hinjewadi",
+      "Wakad",
+      "Baner",
+      "Kharadi"
+    ],
+    "min_price_cr": 0.33000001311302185,
+    "max_price_cr": 1.25
+  },
+  "analysis": "Advisory Report for Real Estate Investment in Pune\n\nClient Profile:\nCity: Pune\nBudget: \u20b91.0 Cr\nProperty Size Requirement: 1000.0 sqft\nPurpose: Investment\nMetro Connectivity Required: Yes\n\n---\n\n 1. Budget Feasibility Summary\n\nBased on current market conditions, properties within the specified budget of \u20b91.0 Cr are available. The price range for suitable properties is approximately \u20b90.33 Cr to \u20b91.25 Cr, allowing for a variety of options that meet your investment criteria.\n\n---\n\n 2. Best-Fit Localities\n\nHere are the recommended localities in Pune that align with your investment goals, emphasizing strong demand, employment hubs, and metro connectivity:\n\n1. Baner\n   Pros: Thriving employment hubs, excellent metro connectivity, high demand for rentals.\n   Cons: Higher property prices compared to other localities.\n\n2. Hinjewadi\n   Pros: Major IT park, strong rental demand, good infrastructure.\n   Cons: Potential for traffic congestion during peak hours.\n\n3. Kharadi\n   Pros: Proximity to IT parks, good metro access, growing residential demand.\n   Cons: Rapid development may lead to temporary inconveniences.\n\n4. Wakad\n   Pros: Emerging as a residential hotspot, good connectivity, and amenities.\n   Cons: Slightly less established than Baner or Hinjewadi.\n\n5. Hadapsar\n   Pros: Close to IT hubs, good metro access, and a mix of residential and commercial properties.\n   Cons: Some areas may have older infrastructure.\n\n---\n\n 3. Trade-offs & Risks\nOlder Properties: Budget constraints may lead to options that are older or require renovations.\nAmenities: Properties with premium amenities may exceed the budget, affecting overall investment returns.\nMarket Fluctuations: High-demand areas might experience slower appreciation rates in the short term due to market saturation.\n\n---\n\n 4. Rental Yield Estimation\nEstimated Monthly Rent: \u20b919,186\nEstimated Annual Yield: 3.0%\n\nThis yield reflects conservative estimates based on current rental trends in Pune, indicating a stable income potential from your investment.\n\n---\n\n 5. Final Recommendation\nGiven your budget and requirements, investing in properties located in Baner, Hinjewadi, Kharadi, Wakad, or Hadapsar is advisable. These areas not only offer good metro connectivity but also have a strong demand for rentals, ensuring stable returns on investment. \n\nPrioritize properties that are well-maintained and in proximity to employment hubs to maximize your investment potential. Consider conducting site visits and engaging with local real estate agents for a more comprehensive understanding of the market dynamics.\n\n---\n\n Next Steps\nProperty Viewings: Schedule visits to shortlisted properties.\nMarket Research: Conduct further research on rental trends and property appreciation in the selected localities.\nFinancial Planning: Consult with a financial advisor to assess the overall investment strategy and financing options.\n\nFeel free to reach out for any further assistance or clarification on specific properties or localities."
+}

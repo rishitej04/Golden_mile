@@ -1,0 +1,33 @@
+{
+  "user_inputs": {
+    "city": "Pune",
+    "budget": 1.0,
+    "size": 1000.0,
+    "intent": "Investment",
+    "metro": "Yes"
+  },
+  "summary": {
+    "localities": [
+      "Gachibowli",
+      "Hitech City",
+      "Madhapur",
+      "Kondapur",
+      "Kukatpally",
+      "Miyapur",
+      "Uppal",
+      "LB Nagar",
+      "Whitefield",
+      "Electronic City",
+      "Indiranagar",
+      "Sarjapur Road",
+      "Yelahanka",
+      "Hinjewadi",
+      "Wakad",
+      "Baner",
+      "Kharadi"
+    ],
+    "min_price_cr": 0.33000001311302185,
+    "max_price_cr": 1.25
+  },
+  "analysis": "Advisory Report for Real Estate Investment in Pune\n\nClient Profile:\nCity: Pune\nBudget: \u20b91.0 Cr\nProperty Size Requirement: 1000.0 sqft\nPurpose: Investment\nMetro Connectivity Required: Yes\n\n---\n\n 1. Budget Feasibility Summary\n\nBased on current market conditions, properties within your budget of \u20b91.0 Cr are available, with prices ranging from approximately \u20b90.33 Cr to \u20b91.25 Cr. This provides a good scope for investment in various localities.\n\n---\n\n 2. Best-Fit Localities\n\nHere are the recommended localities in Pune that align with your investment criteria:\n\n1. Baner\n   Pros: Proximity to IT parks, good schools, and hospitals.\n   Connectivity: Excellent metro and road access.\n\n2. Kharadi\n   Pros: Emerging IT hub with many companies setting up offices.\n   Connectivity: Well-connected via metro and major roads.\n\n3. Hinjewadi\n   Pros: Home to many tech companies, ensuring a steady demand for rental properties.\n   Connectivity: Good metro access and road infrastructure.\n\n4. Wakad\n   Pros: Rapidly developing area with a mix of residential and commercial projects.\n   Connectivity: Strong metro connectivity and proximity to IT parks.\n\n5. Viman Nagar\n   Pros: Close to Pune Airport and major IT hubs, making it attractive for professionals.\n   Connectivity: Well-served by public transport and metro.\n\n---\n\n 3. Trade-offs & Risks\n\nOlder Properties: Budget constraints may lead to options that are older or require renovations.\nPremium Amenities: Properties with high-end amenities may exceed your budget.\nMarket Dynamics: High-demand areas may experience slower appreciation rates in the short term due to market saturation.\n\n---\n\n 4. Rental Yield Estimation\n\nEstimated Monthly Rent: \u20b919,186\nEstimated Annual Yield: 3.0%\n\nThis yield is based on current market trends and reflects conservative estimates for residential properties in Pune.\n\n---\n\n 5. Final Recommendation\n\nGiven your budget and requirements, investing in the recommended localities is advisable. Focus on areas with strong employment hubs and good metro connectivity to ensure consistent rental demand and potential for capital appreciation. \n\nAction Steps:\n1. Visit shortlisted properties to assess condition and amenities.\n2. Consider engaging a local real estate agent for negotiation and market insights.\n3. Evaluate potential for property management services if considering rental.\n\nThis strategic approach will help maximize your investment returns while minimizing risks."
+}

@@ -20,6 +20,15 @@
     <p class="note">Insights available only for these cities.</p>
   </div>
 
+  <!-- Metro Selection -->
+  <div class="section">
+    <label class="metro-label">Metro Connectivity</label>
+    <div class="metro-toggle">
+      <button class="metro-btn" data-metro="Yes">Yes</button>
+      <button class="metro-btn" data-metro="No">No</button>
+    </div>
+  </div>
+
   <!-- Inputs -->
   <div class="section">
     <input id="budget" placeholder="Budget (in Crores, e.g. 1.0)" />
@@ -30,7 +39,7 @@
   <!-- Actions -->
   <div class="section">
     <button onclick="generateReport()">Generate Analysis</button>
-    <button onclick="downloadPDF()" id="downloadBtn" disabled>
+    <button onclick="downloadPDF()" id="downloadPdfBtn" disabled>
       Download PDF Report
     </button>
   </div>

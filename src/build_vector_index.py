@@ -9,8 +9,8 @@ import faiss
 # -----------------------------
 # Paths
 # -----------------------------
-PDF_DIR = "data/pdfs"              # PDFs per city
-TXT_DIR = "data/unstructured"      # .txt/.md files
+PDF_DIR = "data/pdfs"              # PDFs per city (folders: Hyderabad, Bengaluru, Pune)
+TXT_DIR = "data/unstructured"      # .txt/.md files organized by city folder
 CHUNKS_PATH = "data/processed/text_chunks.json"
 VECTOR_DIR = "vector_store"
 EMBED_PATH = os.path.join(VECTOR_DIR, "embeddings.npy")
@@ -48,26 +48,29 @@ def load_pdfs(base_pdf_dir):
 def load_text_files(base_dir):
     docs = []
     for root, _, files in os.walk(base_dir):
+        city = os.path.basename(root)  # infer city from folder name
         for file in files:
             if file.endswith(".txt") or file.endswith(".md"):
                 full_path = os.path.join(root, file)
                 with open(full_path, "r", encoding="utf-8") as f:
                     docs.append({
-                        "city": None,
+                        "city": city,  # assign city from folder
                         "source": os.path.relpath(full_path, base_dir),
                         "text": f.read()
                     })
     return docs
 
 # -----------------------------
-# Chunking function
+# Chunking function with optional overlap
 # -----------------------------
-def chunk_text(text, max_len=500):
+def chunk_text(text, max_len=500, overlap=50):
     words = text.split()
     chunks = []
-    for i in range(0, len(words), max_len):
-        chunk = " ".join(words[i:i+max_len])
-        chunks.append(chunk)
+    start = 0
+    while start < len(words):
+        chunk = words[start:start+max_len]
+        chunks.append(" ".join(chunk))
+        start += max_len - overlap
     return chunks
 
 # -----------------------------
@@ -107,12 +110,12 @@ if __name__ == "__main__":
     texts = [c["text"] for c in chunks]
     print("🔹 Encoding embeddings...")
     embeddings = model.encode(texts, show_progress_bar=True)
-    embeddings = np.array(embeddings)
+    embeddings = np.array(embeddings).astype("float32")  # Ensure float32
 
     # Normalize for cosine similarity
     faiss.normalize_L2(embeddings)
 
-    # Save embeddings for reference
+    # Save embeddings
     np.save(EMBED_PATH, embeddings)
 
     # -----------------------------

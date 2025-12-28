@@ -1,12 +1,21 @@
 let selectedCity = null;
+let selectedMetro = "Yes"; // default
 
+// City selection
 document.querySelectorAll(".city-btn").forEach(btn => {
   btn.onclick = () => {
-    document.querySelectorAll(".city-btn")
-      .forEach(b => b.classList.remove("active"));
-
+    document.querySelectorAll(".city-btn").forEach(b => b.classList.remove("active"));
     btn.classList.add("active");
     selectedCity = btn.dataset.city;
+  };
+});
+
+// Metro selection
+document.querySelectorAll(".metro-btn").forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll(".metro-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    selectedMetro = btn.dataset.metro; // Yes or No
   };
 });
 
@@ -22,7 +31,7 @@ async function generateReport() {
 
   document.getElementById("status").innerText = "Generating analysis...";
   document.getElementById("output").innerText = "";
-  document.getElementById("downloadBtn").disabled = true;
+  document.getElementById("downloadPdfBtn").disabled = true;
 
   const res = await fetch("/generate", {
     method: "POST",
@@ -31,7 +40,8 @@ async function generateReport() {
       city: selectedCity,
       budget: parseFloat(budget),
       size: parseFloat(size),
-      intent: intent
+      intent: intent,
+      metro: selectedMetro
     })
   });
 
@@ -39,10 +49,9 @@ async function generateReport() {
 
   document.getElementById("output").innerText = data.analysis;
   document.getElementById("status").innerText = "Analysis ready ✔";
-  document.getElementById("downloadBtn").disabled = false;
+  document.getElementById("downloadPdfBtn").disabled = false;
 }
 
 function downloadPDF() {
-  // 🔹 Just hit backend download endpoint
   window.location.href = "/download";
 }

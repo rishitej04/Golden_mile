@@ -17,7 +17,7 @@ def build_llm_prompt(recommendations, documents, user_inputs):
 - **Budget:** ₹{user_inputs['budget']} Cr
 - **Property Size Requirement:** {user_inputs['size']} sqft
 - **Purpose:** {user_inputs['intent']}
-- **Metro Connectivity Required:** Yes
+- **Metro Connectivity Required:** {user_inputs['metro']}
 
 ---
 
